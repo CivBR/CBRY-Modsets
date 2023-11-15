@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_ONEWITHNATURE</Type>
+			<Description>TXT_KEY_BELIEF_ONEWITHNATURE</Description>
+			<ShortDescription>TXT_KEY_BELIEF_ONEWITHNATURE_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+	</Beliefs>
+  
+  <Belief_UnimprovedFeatureYieldChanges>
+		 <Row>
+			<BeliefType>BELIEF_ONEWITHNATURE</BeliefType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		 </Row>
+     		 <Row>
+			<BeliefType>BELIEF_ONEWITHNATURE</BeliefType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		 </Row>
+	  	 <Row>
+			<BeliefType>BELIEF_ONEWITHNATURE</BeliefType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		 </Row>
+     		 <Row>
+			<BeliefType>BELIEF_ONEWITHNATURE</BeliefType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		 </Row>
+	  	 <Row>
+			<BeliefType>BELIEF_ONEWITHNATURE</BeliefType>
+			<FeatureType>FEATURE_OASIS</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		 </Row>
+     		 <Row>
+			<BeliefType>BELIEF_ONEWITHNATURE</BeliefType>
+			<FeatureType>FEATURE_OASIS</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		 </Row>
+	  	 <Row>
+			<BeliefType>BELIEF_ONEWITHNATURE</BeliefType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		 </Row>
+     		 <Row>
+			<BeliefType>BELIEF_ONEWITHNATURE</BeliefType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		 </Row>
+	  	 <Row>
+			<BeliefType>BELIEF_ONEWITHNATURE</BeliefType>
+			<FeatureType>FEATURE_FLOOD_PLAINS</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		 </Row>
+     		 <Row>
+			<BeliefType>BELIEF_ONEWITHNATURE</BeliefType>
+			<FeatureType>FEATURE_FLOOD_PLAINS</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		 </Row>
+	</Belief_UnimprovedFeatureYieldChanges>
+  
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BELIEF_ONEWITHNATURE">
+			<Text>+2 [ICON_CULTURE] Culture and 2 [ICON_PEACE] Faith from unimproved features.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ONEWITHNATURE_SHORT">
+			<Text>One with Nature</Text>
+		</Row>
+	</Language_en_US>
+    
+</GameData>

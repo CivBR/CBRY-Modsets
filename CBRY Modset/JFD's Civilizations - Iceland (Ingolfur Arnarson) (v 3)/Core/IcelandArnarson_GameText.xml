@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/16/2014 11:54:41 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_ICELAND_ARNARSON_ADJECTIVE">
+			<Text>Icelandic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ICELAND_ARNARSON_DESC">
+			<Text>Icelandic Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ICELAND_ARNARSON_SHORT_DESC">
+			<Text>Iceland</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_JFD_TAL_ICELAND">
+			<Text>Iceland</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ICELAND_ARNARSON_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_JFD_ICELAND_ARNARSON_TEXT_1">
+			<Text>Iceland's first known settler, Ingolfur Arnarson, sailed from his native Norway to Iceland and settled at what is now Reykjavik in 874. During the late 9th and early 10th centuries, the island was settled by other Norwegians fleeing the oppressive rule of their king and by smaller groups of Scottish and Irish emigrants. In 930, a central legislative and judicial assembly, the Althing, was established, and a uniform code of laws for the entire country was compiled. Christianity was introduced in 1000, but the memory of the old pagan religion was preserved in 12th and 13th-century Icelandic literature. Many of the early settlers were great seafarers and continued their westward voyages of discovery and exploration from Iceland. Most famous of these were Eric the Red (Eirikur Thorvaldsson), who discovered and settled in Greenland in 982, and his son Leif Ericsson (Leifur Eiriksson), who around the year 1000 discovered the North American continent, which he called Vinland ("wineland") because of the grapes he found there. Icelanders acknowledged the sovereignty of Haakon IV of Norway in a treaty of 1262, which established a purely personal union, ending the independent republic or commonwealth in Iceland. When all the Scandinavian countries came under the rule of Denmark at the end of the 14th century, Iceland became a Danish dominion. Lutheranism was introduced in the 1540s. Exclusive trading rights with Iceland were given in 1602 to a private Danish trading company. Danes had a complete monopoly of trade with Iceland until 1786, when trade was opened to all subjects of the kings of Denmark, including Icelanders.[NEWLINE][NEWLINE]The last decades of the 18th century were a period of economic ruin for Iceland, compounded by poor harvests, epidemics, and volcanic eruptions (notably that of 1783, the worst in Iceland's history); the population dwindled to 38,000 by 1800, less than half the number in the period of independence. In that year, the king abolished the Althing, long since reduced in power. Within a few decades, however, a nationalist movement had attained considerable strength, winning the reestablishment of the Althing (but only as an advisory body) in 1843, followed by the opening of trade with all countries in 1854. After a long constitutional struggle—led by a national hero, Jon Sigurosson, who was both statesman and scholar—limited home rule was granted in 1874, and almost complete home rule in 1903. By agreement with Denmark in 1918, Iceland was declared a free and independent state, but personal union with the Danish crown was retained. The Danish king continued to function as king of Iceland, and Denmark conducted Iceland's foreign affairs; but Iceland had the right to terminate this union after 25 years.[NEWLINE][NEWLINE]Cut off from Denmark during World War II by the German occupation of that country, Iceland established diplomatic relations with the United Kingdom and the United States. British forces took over the protection of the island in 1940 and were replaced the following year by US troops that remained in Iceland until early 1947. In a referendum held in May 1944, more than 97% of those participating voted to end the union with the king of Denmark and, on 17 June 1944, Iceland became an independent republic. In 1946, it was admitted to UN membership. Three years later, Iceland became a party to the Atlantic Pact (NATO), and a bilateral defense agreement was signed in 1951 providing for a US military presence. In March 1970, Iceland joined EFTA, and a tariff agreement was ratified with the EC in February 1973. To protect its fishing industry, Iceland unilaterally extended its fishing zone in 1958, and again in 1972 and 1975, provoking conflict with the United Kingdom and other countries. Casualties resulted from the most serious outbreak of the "cod war" with the United Kingdom in late 1975 and in February 1976. An agreement ended the conflict in June 1976 and relations with the United Kingdom improved. Disputes over fisheries resources have also arisen with the Norwegians periodically, though both Norway and Iceland are united in their opposition to the international ban on whaling.[NEWLINE][NEWLINE]In 1985, the parliament unanimously voted to declare Iceland a nuclear-free zone, banning any deployment of nuclear weapons. Reykjavik was the scene of the October 1986 summit meeting between US president Ronald Reagan and Soviet leader Mikhail Gorbachev on arms control and nuclear disarmament.[NEWLINE][NEWLINE]Depressed world fish prices weakened the economy in the early 1990s, resulting in a no-growth GDP and higher unemployment. A number of factors have combined to reinvigorate the Icelandic economy. The government launched an austerity program to trim the Icelandic welfare state which included measures such as increasing the retirement age from 65 to 67 years of age (with future increases to age 70 envisioned). Icelanders are also being asked to pay for a greater portion of social services out of their own pockets. Demand in Europe and the United States for Icelandic fish has rebounded and fish exports account for 70% of exports and 50% of foreign earnings. Liberalization of many sectors of the economy such as telecoms and banking, required under the EEA (European Economic Area) agreement with the European Union in exchange for greater access to the EU market, has reduced public expenditures and positively affected governmental finances. By 1999, Iceland had experienced four years of more than 5% GDP growth, and purchasing power was increasing at four times the OECD average. Unemployment had dropped to 2%, and Iceland has dealt with its labor shortage by initiating labor immigration from the Philippines. The economic boom years from 1996–2001 slowed in 2002, and Iceland experienced a mild recession with a GDP growth rate of -0.5%. Growth of GDP increased from 2003–05, however, nearing 6% by 2005.[NEWLINE][NEWLINE]Iceland was in the international headlines at the end of 1998 for altogether different reasons. In December 1998, the Icelandic parliament agreed after two full revisions of the legislation to create a health database of medical records of all Icelanders for use by a private company seeking to decode the human genome. Iceland's isolated, homogeneous population is a boon to medical researchers seeking to decode the genetic sequences of many hereditary diseases, but the lack of informed consent by individuals in the legislation became a heated political issue.[NEWLINE][NEWLINE]A public opinion poll taken in June 2002 indicated a 50–50 split between supporters and opponents of EU membership. However, conservative Independence Party leader and Prime Minister Davio Oddsson remained resolutely opposed to EU membership, stating in 2002 that Iceland's affairs should not be dictated by conditions in "Paris or Berlin." Oddsson in 2005, however, indicated in a speech that a policy change was not ruled out depending upon how the EU evolved.[NEWLINE][NEWLINE]Iceland rejoined the International Whaling Commission in 2002 with reservations. It declared it would engage in whaling for scientific purposes, and resume commercial whaling of Minke and Fin whales after 2006.[NEWLINE][NEWLINE]President Olafur Ragnar Grimsson was reelected president in June 2004. In September of that year, Prime Minister Davio Oddsson switched positions with Foreign Minister Halldor Asgrimmson. Oddsson had held the position of prime minister for a record 13 years.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_1">
+			<Text>Reykjavik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_2">
+			<Text>Þingvellir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_3">
+			<Text>Vatnafjorour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_4">
+			<Text>Reyoarfjall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_5">
+			<Text>Borgarnes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_6">
+			<Text>Flokadallur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_7">
+			<Text>Husavik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_8">
+			<Text>Nattfaravik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_9">
+			<Text>Kopavogur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_10">
+			<Text>Hafnarfjordur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_11">
+			<Text>Akureyri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_12">
+			<Text>Keflavik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_13">
+			<Text>Gardabaer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_14">
+			<Text>Mosfellsbaer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_15">
+			<Text>Akranes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_16">
+			<Text>Selfoss</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_17">
+			<Text>Njardvik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_18">
+			<Text>Vestmannaeyjar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_19">
+			<Text>Grindavik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_20">
+			<Text>Saudarkrokur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_21">
+			<Text>Isafjordur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_22">
+			<Text>Alftanes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_23">
+			<Text>Hveragerdi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_24">
+			<Text>Egilsstadir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_25">
+			<Text>Borgarnes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_26">
+			<Text>Sandgerdi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_27">
+			<Text>Hofn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_28">
+			<Text>Porlakshofn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_29">
+			<Text>Dalvik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ICELAND_ARNARSON_30">
+			<Text>Gardur</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_ARNARSON_0">
+			<Text>Ragnar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_ARNARSON_1">
+			<Text>Anita</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_ARNARSON_2">
+			<Text>Snorri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_ARNARSON_3">
+			<Text>Silvia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_ARNARSON_4">
+			<Text>Freyja</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_ARNARSON_5">
+			<Text>Jon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_ARNARSON_6">
+			<Text>Leifur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_ARNARSON_7">
+			<Text>Sigurdur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_ARNARSON_8">
+			<Text>Magnus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ICELAND_ARNARSON_9">
+			<Text>Snorri</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON">
+			<Text>Ingolfur Arnarson</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ICELAND_ARNARSON_NAME">
+			<Text>Ingolfur Arnarson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ICELAND_ARNARSON_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ICELAND_ARNARSON_TEXT_1">
+			<Text>Ingolfur Arnarson and his entourage were the first permanent settlers of Iceland, the only European country whose history has a definite beginning.[NEWLINE][NEWLINE]Two Norwegian Viking brothers, Bjornolf and Hroald, settled in the late eighth or early ninth century in Dalsfjord, Fjalar Province, Norway. Bjornolf's son, Orn, had a son, Ingolfur, and a daughter, Helga. Hroald's son, Hrodmar, was the father of Leif. The second cousins, Ingolfur and Leif, were the best of friends. They swore blood brotherhood, a solemn Viking bond by which each promised always to protect the other. Leif was also in love with Helga.[NEWLINE][NEWLINE]The blood brothers went on several raids with the three sons of Earl Atli the Slender. They got along well together until one of the earl's sons, Holmstein, began making advances to Helga. After Holmstein swore to marry either Helga or no one, Leif and Ingolfur killed him. Later they killed his brother, Herstein. They offered legal compensation, blood money, to the earl and his third son, Hastein, but Atli and Hastein demanded all their possessions instead. Rather than be reduced to poverty, Leif and Ingolfur chose to become Earl Atli's outlaws. That meant that either the earl or anyone in his service could kill Leif or Ingolfur anytime with impunity.[NEWLINE][NEWLINE]The outlaws sailed for Iceland, which was then uninhabited. Through stories of the voyages of two Swedes, Naddoddur and Gardar, and a Norwegian, Raven Floki, Norwegian Vikings had known of Iceland's existence for about 20 years. After preliminary reconnaissance, Leif and Ingolfur spent a winter at Ingolfshofdi in southeastern Iceland and determined that it was fit land for settling. Ingolfur returned to Norway to gather money, relatives, and friends for the emigration, while Leif raided in Ireland, plundering money, slaves, and a magnificent sword. There after he was called Hjorleif (Sword-Leif). About this time he married Helga. Hjorleif and Ingolfur joined forces in Norway, then sailed again for Iceland around 874.[NEWLINE][NEWLINE]A custom of Viking chieftains about to settle a new land was to throw overboard their highseat pillars, an emblem of rank, and then to settle wherever the pillars washed ashore. Sometimes this procedure would take quite a while. Meantime, the settler would either stay in his ship or erect a temporary dwelling. He would send slaves or servants to scout for the pillars. It was considered a very bad omen if the pillars drifted out to sea.[NEWLINE][NEWLINE]Ingolfur released his pillars as soon as he sighted land. He went ashore at Ingolfshofdi and awaited the report of his scouts. Hjorleif continued sailing west until he landed at Hjorleifshofdi near Myrdalsjokull in southern Iceland. The following spring his Irish slaves revolted, killed him, and fled to the Vestmanna Islands, where Ingolfur tracked them down and killed them.[NEWLINE][NEWLINE]Ingolfur and Hjorleif disagreed about religion. Ingolfur frequently sacrificed to Thor and the other Norse gods, but Hjorleif never sacrificed. Ingolfur rationalized that Hjorleif's murder was the just deserts of someone who refused to sacrifice.[NEWLINE][NEWLINE]Two years after the death of Hjorleif and three years after landing in Iceland, Ingolfur's scouts found his highseat pillars on the south shore of a beautiful fjord in southwestern Iceland. He named the place Reykjavik (Smoky Bay) and built his homestead there. Within the next 60 years about 30,000 more Norwegian refugees settled in Iceland.[NEWLINE][NEWLINE]Ingolfur freed the two slaves, Vifil and Karli, who located his pillars. He married Hallveig, daughter of Frodi, and became a beneficent chieftain in the new country. His son, Thorstein, founded the Kjalarness Assembly, one of the regional assemblies that preceded the national assembly, the Althing.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ICELAND_ARNARSON_LIVED">
+			<Text>9th Century</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ICELAND_ARNARSON_SUBTITLE">
+			<Text>Leader of Iceland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ICELAND_ARNARSON_TITLES_1">
+			<Text>Chieftain of Iceland</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_ICELAND_ARNARSON_TEXT">
+			<Text>Ingolfur Arnarson, great chieftain and first settler of Iceland, your noble kin await your command. Following your expulsion from Norway, you would seek out the path of your ancestors, and by the will of the Gods you would establish the first Nordic settlement in Iceland in 874 A.D. Iceland is an ancient nation, with a long history of parlimentary tradition chronicled in her great, epic sagas. Though subject to Norway and then Denmark throughout the first millenium, through the perserverance of your people's nordic spirit, Iceland would gain its independence in the middle of the 20th century, and has since continued the democratic traditions of her noble ancestors.[NEWLINE][NEWLINE]Heroic viking, great poems have yet to tell the tale of your return, and the coming deeds of your people will serve to inspire their Skaldic verses. Can you uphold the legacy of your ancestors? Can you sail the ferocious seas in search of lands which would bring glory to your name? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_FIRSTGREETING_1">
+			<Text>I am Ingólfr Arnarson, great chieftain and favoured son of Odin. I thrive where other men perish, and I have led my people to settle lands which no other dare.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_DEFEATED_1">
+			<Text>I will not go down forever. My people will one day rise up and murder you in your sleep.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_ATTACKED_HOSTILE_1">
+			<Text>You have made a foolish mistake. The Gods shall favour my victory, and when I am done with you, your people will be mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_DEC_FRIENDSHIP_1">
+			<Text>It is time that we make our relationship known to the world, don't you think? A public Declaration of Friendship is in order.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_DENOUNCE_1">
+			<Text>I do not trust you. I do not like you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_DENOUNCE_FRIEND_1">
+			<Text>I was wrong to trust you. Others would be wise to learn from my mistake.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_DOW_GENERIC_1">
+			<Text>This is a battle for the glory of my kin, in which you, as the Gods' divine my favour, will sorely fail.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You insult me and you insult the Gods with your expansion efforts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_GREETING_HOSTILE_HELLO_1">
+			<Text>You're not someone I like to see.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_GREETING_NEUTRAL_HELLO_1">
+			<Text>Let's get on with it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_GREETING_POLITE_HELLO_1">
+			<Text>You have my ear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Your armies do not frighten me. I have been to the ends of the earth and overcome worse fears.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_LUXURY_TRADE_1">
+			<Text>My kin have need of this luxury resource, and by the will of the Gods you will give it to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_OPEN_BORDERS_EXCHANGE_1">
+			<Text>My kin will not be marred by these petty borders, whether you agree to this or not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_REQUEST_1">
+			<Text>I pray that you will aide my kin in this time of our suffering.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_TOO_SOON_NO_PEACE_1">
+			<Text>I won't rest until my axe gleams with your blood.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ICELAND_ARNARSON_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Why waste your words when we could do battle.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ICELAND_ARNARSON_SHORT">
+			<Text>Age of Settlement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ICELAND_ARNARSON">
+			<Text>Earn [ICON_GREAT_PEOPLE] Great Writer Points for the Capital from discovering Civilizations and founding new cities. Cities founded with Skalds or on foreign continents begin with a free Monument and bonus [ICON_CITIZEN] Population.</Text>
+		</Row>
+		<!--Alerts-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ICELAND_ARNARSON_MESSAGE_1">
+			<Text>Your discovery of the {1_Desc} has generated [ICON_GREAT_PEOPLE] [COLOR_POSITIVE_TEXT]Great Writer Points[ENDCOLOR] for the Capital!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ICELAND_ARNARSON_MESSAGE_2">
+			<Text>Your new settlement of {1_Desc} has generated [ICON_GREAT_PEOPLE] [COLOR_POSITIVE_TEXT]Great Writer Points[ENDCOLOR] for the Capital!</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_THINGSTEAD">
+			<Text>Thingstead</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_THINGSTEAD_HELP">
+			<Text>Forms a [ICON_CONNECTED] City Connection with the [ICON_CAPITAL] Capital over water (if they're not already [ICON_CONNECTED] connected by land). Yields +2 [ICON_HAPPINESS_1] Local Happiness if [ICON_CONNECTED] Connected.[NEWLINE][NEWLINE]City must have a Monument.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_THINGSTEAD_STRATEGY">
+			<Text>The Thingstead is the unique replacement for the Amphitheater for Iceland. Unlike the Amphitheater, the Thingstead forms a [ICON_CONNECTED] City Connection with the [ICON_CAPITAL] Capital over water, boosting your [ICON_GOLD] Gold output. In addition, it provides +2 [ICON_HAPPINESS_1] Local Happiness when connected to the [ICON_CAPITAL] Capital, although it cannot provide more [ICON_HAPPINESS_1] Happiness than the city has [ICON_CITIZEN] Population. Contains 1 slot for a Great Work of Writing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_THINGSTEAD_TEXT">
+			<Text>A thing was the governing assembly in Germanic societies and introduced into some Celtic societies, made up of the free people of the community and presided by lawspeakers, meeting in a place called a thingstead. Today, the term lives on in the official names of national legislatures and political and judicial institutions in the Nordic countries, in the Manx form tyn, as a term for the three legislative bodies on the Isle of Man, and in the English term husting.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_THINGSTEAD">
+			<Text>Dummy: Thingstead</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_THINGSTEAD_HELP">
+			<Text></Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_UNIT_JFD_SKALD">
+			<Text>Skald</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SKALD_HELP">
+			<Text>Unique Great Writer that specialises in scouting across oceans and can found cities on foreign continents.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SKALD_STRATEGY">
+			<Text>The Skald is the unique Icelandic replacement for the Great Writer. This unit may be used to effectively scout the oceans, gaining additional [ICON_STRENGTH] Defense, sight, and [ICON_MOVES] Movement whilst embarked, as well as being able to cross oceans immediately. It also has the ability to found new cities, but only on a foreign continent that does not contain the Icelandic capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SKALD_TEXT">
+			<Text>Skald is generally a term used for poets who composed at the courts of Scandinavian leaders during the Viking Age, 793–1066 AD, and continuing into the Middle Ages (5th century – 15th century). Skaldic poetry forms one of two main groupings of Old Norse poetry, the other being the anonymous Eddic poetry. The most prevalent metre of skaldic poetry is drottkvaett. The subject is usually historical and encomiastic, detailing the deeds of the skald's patron. There is no evidence that the skalds employed musical instruments, but some speculate that they may have accompanied their verses with the harp or lyre.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SKALD">
+			<Text>Skaldic Sagas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SKALD_HELP">
+			<Text>May found cities on foreign continents. Double [ICON_MOVES] Movement when embarked.</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_1">
+			<Text>Bragi Boddason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_1_DESC">
+			<Text>Bragi Boddason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_1">
+			<Text>Ragnarsdrapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_1">
+			<Text>Vilio Hrafnketill heyra,[NEWLINE]
+				hve hreingroit steini[NEWLINE]
+				Þruoar skalk ok pengil[NEWLINE]
+				pjofs ilja blao leyfa.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_2">
+			<Text>Bragi Boddason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_2_DESC">
+			<Text>Bragi Boddason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_2">
+			<Text>A verse about the giant Þjazi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_2">
+			<Text>Hinn es varp a vioa[NEWLINE]
+				vinda ondurdisar[NEWLINE]
+				of manna sjot margra[NEWLINE]
+				mundlaug foour augum.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_3">
+			<Text>Bragi Boddason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_3_DESC">
+			<Text>Bragi Boddason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_3">
+			<Text>An exchange of verses between Bragi and a troll-woman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_3">
+			<Text>Skold kalla mik:[NEWLINE]
+				skipsmio Viours,[NEWLINE]
+				Gauts gjafrotuo,[NEWLINE]
+				grepp ohneppan,[NEWLINE]
+				Yggs olbera,[NEWLINE]
+				oos skap-Mooa,[NEWLINE]
+				hagsmio bragar.[NEWLINE]
+				Hvat's skald nema pat?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_4">
+			<Text>Úlfr Uggason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_4_DESC">
+			<Text>Úlfr Uggason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_4">
+			<Text>Husdrapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_4">
+			<Text>The forehead-moon of the formidable friend of gods shone; the renowned god aimed terrifying glances at the necklace of the earth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_5">
+			<Text>Eyvindr skaldaspillir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_5_DESC">
+			<Text>Eyvindr skaldaspillir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_5">
+			<Text>Hakonarmal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_5">
+			<Text>On a good day[NEWLINE]
+				will such a king be born[NEWLINE]
+				who leaves such a sorrow.[NEWLINE]
+				His reign[NEWLINE]
+				will forever be[NEWLINE]
+				mentioned as good only.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_6">
+			<Text>Hauk Erlendsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_6_DESC">
+			<Text>Hauk Erlendsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_6">
+			<Text>Voluspa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_6">
+			<Text>When time was young,[NEWLINE]
+				where Ymir dwelt,[NEWLINE]
+				was no sand, no sea,[NEWLINE]
+				nor cool waves;[NEWLINE]
+				earth existed not,[NEWLINE]
+				nor heaven above,[NEWLINE]
+				A chasm gaped,[NEWLINE]
+				and no grass.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_7">
+			<Text>Olafur Loftsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_7_DESC">
+			<Text>Olafur Loftsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_7">
+			<Text>Hallfreoar saga vandraeoaskalds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_7">
+			<Text>Love for a liege lord burns hot; and it is well that I will not be fighting against the king’s luck.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_8">
+			<Text>Olafur Loftsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_8_DESC">
+			<Text>Olafur Loftsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_8">
+			<Text>Hallfreoar saga vandraeoaskalds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_8">
+			<Text>The whole race of men to win[NEWLINE]
+				Ooinn's grace has wrought poems[NEWLINE]
+				(I recall the exquisite[NEWLINE]
+				works of my forebears);[NEWLINE]
+				but with sorrow, for well did[NEWLINE]
+				Viorir's [Ooinn's] power please the poet,[NEWLINE]
+				do I conceive hate for the first husband of[NEWLINE]
+				Frigg [Ooinn], now I serve Christ.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_9">
+			<Text>Egill Skallagrimsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_9_DESC">
+			<Text>Egill Skallagrimsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_9">
+			<Text>Lausavisur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_9">
+			<Text>Thus spake my mother[NEWLINE]
+				That for me should they buy[NEWLINE]
+				A barque and beauteous oars[NEWLINE]
+				To go forth with vikings.[NEWLINE]
+				Stand in the stern,[NEWLINE]
+				Steer a dear vessel,[NEWLINE]
+				Hold course for a haven,[NEWLINE]
+				Hew down many foemen.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_10">
+			<Text>Porbjorn hornklofi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_10_DESC">
+			<Text>Porbjorn hornklofi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_10">
+			<Text>Glymdrapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_10">
+			<Text>Hilmir reo a heioi,[NEWLINE]
+				hjaldrseios, primu, galdra[NEWLINE]
+				oor vio aeskimeioa[NEWLINE]
+				ey vebrautar, heyja,[NEWLINE]
+				aor gnapsolar Gripnis[NEWLINE]
+				gnystaerandi faeri[NEWLINE]
+				rausnarsamr til rimmu[NEWLINE]
+				rioviggs lagar skioum.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_11">
+			<Text>Egill Skallagrimsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_11_DESC">
+			<Text>Hofuolausn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_11">
+			<Text>Hofuolausn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_11">
+			<Text>Vestr komk of ver,[NEWLINE]
+				en ek Vioris ber[NEWLINE]
+				munstrandar mar,[NEWLINE]
+				sva 's mitt of far;[NEWLINE]
+				drok eik a flot[NEWLINE]
+				vio isabrot;[NEWLINE]
+				hlook maeroar hlut[NEWLINE]
+				munknarrar skut.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_12">
+			<Text>Pjodolfr of Hvinir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_12_DESC">
+			<Text>Pjodolfr of Hvinir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_12">
+			<Text>Ynglingatal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_12">
+			<Text>Varo framgengt,[NEWLINE]
+				pars Frooi bjo,[NEWLINE]
+				feigoar oro,[NEWLINE]
+				es at Fjolni kom;[NEWLINE]
+				siklingi[NEWLINE]
+				svigois geira[NEWLINE]
+				vagr vindlauss[NEWLINE]
+				of vioa skyldi.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_13">
+			<Text>Porbjorn Hornklofi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_13_DESC">
+			<Text>Porbjorn Hornklofi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_13">
+			<Text>Glymdrapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_13">
+			<Text>Hilmir reo a heioi[NEWLINE]
+				hjaldrskios primu, galdra[NEWLINE]
+				oor vio aeskimeioa[NEWLINE]
+				ey vebrautar, heyja,[NEWLINE]
+				aor gnapsalar Gripnis[NEWLINE]
+				gnystaerandi faeri[NEWLINE]
+				rausnarsamr til rimmu[NEWLINE]
+				rioviggs lagar skioum.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_14">
+			<Text>Snorri Sturluson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_14_DESC">
+			<Text>Snorri Sturluson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_14">
+			<Text>Gylfaginning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_14">
+			<Text>The sun knew not[NEWLINE]
+				where she had housing;[NEWLINE]
+				The moon knew not[NEWLINE]
+				what Might he had;[NEWLINE]
+				The stars knew not[NEWLINE]
+				where stood their places.[NEWLINE]
+				Thus was it ere[NEWLINE]
+				the earth was fashioned.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_15">
+			<Text>Snorri Sturluson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_15_DESC">
+			<Text>Snorri Sturluson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_15">
+			<Text>Skaldskaparmal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_15">
+			<Text>Now is the flight of eagles[NEWLINE]
+				Over the field; the sailors[NEWLINE]
+				Of the sea-horses hie them[NEWLINE]
+				To the Hanged-God's gifts and feasting.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_16">
+			<Text>Porir jokull Steinfinnsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_16_DESC">
+			<Text>Porir jokull Steinfinnsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_16">
+			<Text>Skaldskaparmal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_16">
+			<Text>Onto the keel you climb,[NEWLINE]
+				Cold is the ocean brine.[NEWLINE]
+				Keeping courage though,[NEWLINE]
+				Locked in a deadly throe.[NEWLINE]
+				Baldhead, show no fear,[NEWLINE]
+				showers fall on you here.[NEWLINE]
+				With maidens you had a way,[NEWLINE]
+				All must die one day.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_17">
+			<Text>Einarr Skulason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_17_DESC">
+			<Text>Einarr Skulason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_17">
+			<Text>Skaldskaparmal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_17">
+			<Text>Vasoflugr reo visi[NEWLINE]
+				Ok sas aezt gat riki[NEWLINE]
+				Huf let hilmir svifa[NEWLINE]
+				Getk pess es gramr for vitja[NEWLINE]
+				Saett frak Daela drottin.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_18">
+			<Text>Arnorr Poroarson jarlaskald</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_18_DESC">
+			<Text>Arnorr Poroarson jarlaskald</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_18">
+			<Text>Skaldskaparmal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_18">
+			<Text>Magnus hlyo til mattigs ooar,[NEWLINE]
+				mangi veit ek fremra annan;[NEWLINE]
+				yppa raoumk yoru kappi,[NEWLINE]
+				Jota gramr, i kvaeoi fljotu.[NEWLINE]
+				Haukr rettr es pu, Horoa drottinn,[NEWLINE]
+				hverr gramr es per storum verri,[NEWLINE]
+				meiri veroi pinn an peira[NEWLINE]
+				prifnuor allr, unz himinn rifnar.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_19">
+			<Text>Snorri Sturluson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_19_DESC">
+			<Text>Snorri Sturluson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_19">
+			<Text>The Heimskringla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_19">
+			<Text>The king's sharp sword lies clean and bright,[NEWLINE]
+				Our brave king is to Russia gone, -- Prepared in foreign lands to fight:[NEWLINE]
+				Braver than he on earth there's none; Our ravens croak to have their fill,[NEWLINE]
+				His sharp sword will carve many feast The wolf howls from the distant hill.[NEWLINE]
+				To wolf and raven in the East.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_20">
+			<Text>Ottarr svarti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_20_DESC">
+			<Text>Ottarr svarti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_20">
+			<Text>Knutsdrapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_20">
+			<Text>Hratt litt gamall, lytir[NEWLINE]
+				logreioar, framm skeioum;[NEWLINE]
+				forat fylkir aeri[NEWLINE]
+				folksveimuor per heiman;[NEWLINE]
+				hilmir bjott ok haettir[NEWLINE]
+				harobrynjuo skip kynjum;[NEWLINE]
+				reior hafoir pu rauoar[NEWLINE]
+				randir Knutr fyr landi.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_21">
+			<Text>Ottarr svarti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_21_DESC">
+			<Text>Ottarr svarti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_21">
+			<Text>Olafsdrapa saenska</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_21">
+			<Text>Jofurr heyri upphaf,[NEWLINE]
+				ofrask mun konungs lof[NEWLINE]
+				(hóttu nemi hann) rett,[NEWLINE]
+				hroors sins (bragar mins).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_22">
+			<Text>Porarinn loftunga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_22_DESC">
+			<Text>Porarinn loftunga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_22">
+			<Text>Togdrapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_22">
+			<Text>Gjold hefk marka[NEWLINE]
+				malmdyns fyr hlyn[NEWLINE]
+				fram fimm tøgu[NEWLINE]
+				forvist borit,[NEWLINE]
+				peiras veitti[NEWLINE]
+				vighagr fyr brag[NEWLINE]
+				mer morostaerir,[NEWLINE]
+				mann-Baldr, es ek fann.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_23">
+			<Text>Sigvatr Tordarson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_23_DESC">
+			<Text>Sigvatr Tordarson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_23">
+			<Text>Austrfararvisur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_23">
+			<Text>Hugstora biok heyra,[NEWLINE]
+				hressfaerr jofurr, pessar,[NEWLINE]
+				poloak vas, hve visur,[NEWLINE]
+				veroung, of for geroak.[NEWLINE]
+				Sendr vask upp af ondrum[NEWLINE]
+				austr, svafk fatt i hausti,[NEWLINE]
+				til Svipjooar, sioan,[NEWLINE]
+				svanvangs i for langa.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_24">
+			<Text>Gunnlaugr Ormstunga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_24_DESC">
+			<Text>Gunnlaugr Ormstunga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_24">
+			<Text>Saga of Gunnlaugr Serpent-Tongue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_24">
+			<Text>Even as Ari Thorgilson the Learned, the Priest,[NEWLINE]
+				Hath told it, who was the man of all Iceland[NEWLINE]
+				Most learned in tales of the land's inhabiting[NEWLINE]
+				And in lore of time agone.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_25">
+			<Text>Tindr Hallkelsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_25_DESC">
+			<Text>Tindr Hallkelsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_25">
+			<Text>Heimskringla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_25">
+			<Text>The ring-linked coat of strongest mail[NEWLINE]
+				Could not withstand the iron hail,[NEWLINE]
+				Though sewed with care and elbow bent,[NEWLINE]
+				By Norn, on its strength intent.[NEWLINE]
+				The fire of battle raged around, --[NEWLINE]
+				Odin's steel shirt flew all unbound![NEWLINE]
+				The earl his ring-mail from him flung,[NEWLINE]
+				Its steel rings on the wet deck rung;[NEWLINE]
+				Part of it fell into the sea, --[NEWLINE]
+				A part was kept, a proof to be[NEWLINE]
+				How sharp and thick the arrow-flight[NEWLINE]
+				Among the sea-steeds in this fight.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_26">
+			<Text>Einarr Helgason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_26_DESC">
+			<Text>Einarr Helgason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_26">
+			<Text>Heimskringla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_26">
+			<Text>"What kind of kingdom is that," said the king, "which I can give[NEWLINE]
+				to Harald, that I may possess Denmark entire?"[NEWLINE]
+				"It is Norway," said the earl.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_27">
+			<Text>Porvaldr Hjaltason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_27_DESC">
+			<Text>Porvaldr Hjaltason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_27">
+			<Text>Styrbjarnar pattr Sviakappa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_27">
+			<Text>Fario til Fyrisvallar,[NEWLINE]
+				folka tungls, hverr's hungrar,[NEWLINE]
+				voror, at virkis garoi[NEWLINE]
+				vestr kveldriou hesta;[NEWLINE]
+				par hefr hreggdrauga hoggvit[NEWLINE]
+				(hollaust es pat) solar[NEWLINE]
+				elfar skios fyr ulfa[NEWLINE]
+				Eirikr i dyn geira.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_28">
+			<Text>Eilifr Goorunarson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_28_DESC">
+			<Text>Eilifr Goorunarson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_28">
+			<Text>Styrbjarnar pattr Sviakappa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_28">
+			<Text>and thus the swift hastener of battle, Þrong's old friend, greedily drank the raised drink of the molten lump in the air with the swift mouths of his hands [caught it in his grasp], when the hissing cinder took flight from the hostile breast of the grip [palm] of the ardent lover of Hrimnir's maiden [giant] towards the one who strongly misses Þruor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_29">
+			<Text>Kormakr Ogmundarson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_29_DESC">
+			<Text>Kormakr Ogmundarson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_29">
+			<Text>Skaldskaparmal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_29">
+			<Text>Brightly beamed the lights-of-[NEWLINE]
+				both-her-cheeks upon me—[NEWLINE]
+				e'er will I recall it—[NEWLINE]
+				o'er the heaped-up wood-pile;[NEWLINE]
+				and the instep saw I[NEWLINE]
+				of the shapely woman—[NEWLINE]
+				no laughing matter, lo! my[NEWLINE]
+				longing—by the threshold.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SKALD_UNIQUE_NAME_30">
+			<Text>Egill Skallagrimsson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SKALD_GREAT_WORK_30_DESC">
+			<Text>Sonatorrek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SKALD_GREAT_WORK_30">
+			<Text>Sonatorrek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SKALD_GREAT_WORK_30">
+			<Text>Mjok erum tregt[NEWLINE]
+				tungu at hraera[NEWLINE]
+				meo loptvett[NEWLINE]
+				ljoopundara;[NEWLINE]
+				esa nu vaenligt[NEWLINE]
+				of Viours pyfi,[NEWLINE]
+				ne hogdraegt[NEWLINE]
+				or hugar fylgsni.
+			</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_ICELAND_ARNARSON_DESCRIPTION">
+			<Text>ICELAND (INGOLFUR ARNARSON)[NEWLINE][NEWLINE]UNIQUE TRAIT: AGE OF SETTLEMENT[NEWLINE]Earn [ICON_GREAT_PEOPLE] Great Writer Points for the Capital from discovering Civilizations and founding cities. Cities founded with Skalds or on foreign continents begin with a free Monument and bonus [ICON_CITIZEN] Population.[NEWLINE][NEWLINE]UNIQUE BUILDING: THINGSTEAD (COLOSSEUM)[NEWLINE]The Thingstead is the unique replacement for the Amphitheater for Iceland. Unlike the Amphitheater, the Thingstead forms a [ICON_CONNECTED] City Connection with the [ICON_CAPITAL] Capital over water, boosting your [ICON_GOLD] Gold output. In addition, it provides +2 [ICON_HAPPINESS_1] Local Happiness when connected to the [ICON_CAPITAL] Capital, although it cannot provide more [ICON_HAPPINESS_1] Happiness than the city has [ICON_CITIZEN] Population. Contains 1 slot for a Great Work of Writing.[NEWLINE][NEWLINE]UNIQUE UNIT: SKALD (GREAT WRITER)[NEWLINE]The Skald is the unique Icelandic replacement for the Great Writer. This unit may be used to effectively scout the oceans, gaining additional [ICON_STRENGTH] Defense, sight, and [ICON_MOVES] Movement whilst embarked, as well as being able to cross oceans immediately. It also has the ability to found new cities, but only on a foreign continent that does not contain the Icelandic capital.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

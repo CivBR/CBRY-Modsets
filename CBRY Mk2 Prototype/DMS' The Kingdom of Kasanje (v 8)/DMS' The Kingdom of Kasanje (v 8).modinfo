@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7e6c1fd6-6814-4991-abf6-966dff88beb8" version="8">
+  <Properties>
+    <Name>DMS' The Kingdom of Kasanje</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]The Kingdom of Kasanje[ENDCOLOR] led by Kasanje to the game.</Teaser>
+    <Description>See more civfanatics.com</Description>
+    <Authors>DMS, LastSword, HoopThrower, TPangolin</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="The Enlightenment Era" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD's Rise To Power: Piety, Prosperity &amp;amp; Sovereignty" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's and Pouakai's Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Cities in Development" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1BB5FBEF17378C52E90AE4C6801BAD55" import="1">Art/Diplomacy/Kasanje_Scene.dds</File>
+    <File md5="9DA8F05A826BD2721A1FBCA6FE5F0DE7" import="1">Art/Diplomacy/Kasanje_Scene.xml</File>
+    <File md5="678B545C5BDD3EA4D2993BEAB9FCCE64" import="1">Art/Graphics/AfricaStoneAge2_sref.dds</File>
+    <File md5="BF3608044A7675F2163A3B9F1D13C403" import="1">Art/Graphics/BA_SonghaiSpear.dds</File>
+    <File md5="F7DEF3D7A084B69F2E504B91EE8FDF7D" import="1">Art/Graphics/BA_SonghaiSpear.fxsxml</File>
+    <File md5="75D71361A5591E22A3A753D26AA43C29" import="1">Art/Graphics/BA_SonghaiSpear.gr2</File>
+    <File md5="8DE73B36FF37849F131FB3E05A2EEEB4" import="1">Art/Graphics/BA_SonghaiSpear_sref.dds</File>
+    <File md5="6C4548EDE50D1EEE6E4E82D8FA9EDCA1" import="1">Art/Graphics/SA_EthiopiaClub.dds</File>
+    <File md5="973EBCF8DD11FBCFCB2542E2E6A66BCD" import="1">Art/Graphics/SA_EthiopiaClub.fxsxml</File>
+    <File md5="0EBD85A3629E83E023E7D56CBC8E51F1" import="1">Art/Graphics/SA_EthiopiaClub.gr2</File>
+    <File md5="92F5AF203ECC8991F4DA616AC180C89B" import="1">Art/Graphics/sv_u_gonzo.dds</File>
+    <File md5="8E67255022B800747F7B0D2E52CEE660" import="1">Art/Graphics/sv_u_mavala.dds</File>
+    <File md5="9CA51C969B93393569CC92517A0DE734" import="1">Art/Icon Atlas/kasanje_alpha_atlas_128.dds</File>
+    <File md5="59653FE4519824E66F7F31B78E913E59" import="1">Art/Icon Atlas/kasanje_alpha_atlas_16.dds</File>
+    <File md5="530125F80BBE1879E8E420EAAD42D98B" import="1">Art/Icon Atlas/kasanje_alpha_atlas_24.dds</File>
+    <File md5="27AD3998D795AFA4EFE897A35844EC6D" import="1">Art/Icon Atlas/kasanje_alpha_atlas_32.dds</File>
+    <File md5="0AF4C4D5586B7634A3E04344069B0F21" import="1">Art/Icon Atlas/kasanje_alpha_atlas_45.dds</File>
+    <File md5="51BB9FE115328FA6AC81B126B3ED485A" import="1">Art/Icon Atlas/kasanje_alpha_atlas_48.dds</File>
+    <File md5="E313E1D4C0F473E3A2C05CC23F584CF7" import="1">Art/Icon Atlas/kasanje_alpha_atlas_64.dds</File>
+    <File md5="A2DAF65F6A2132323831D61817115246" import="1">Art/Icon Atlas/kasanje_alpha_atlas_80.dds</File>
+    <File md5="C117F78F19DB38BE0D4A722A8DB4672E" import="1">Art/Icon Atlas/kasanje_icon_atlas_128.dds</File>
+    <File md5="E37AD753D3AD1EDE2D99AC326BA43B62" import="1">Art/Icon Atlas/kasanje_icon_atlas_256.dds</File>
+    <File md5="4D6F0524074CCC2785383968345DEA86" import="1">Art/Icon Atlas/kasanje_icon_atlas_32.dds</File>
+    <File md5="ADEF2222CC72B270D34B229733356AB8" import="1">Art/Icon Atlas/kasanje_icon_atlas_45.dds</File>
+    <File md5="323608B314655367D20517A1535578B7" import="1">Art/Icon Atlas/kasanje_icon_atlas_64.dds</File>
+    <File md5="19C206F8E91F7535CD9FE93B95A2A82A" import="1">Art/Icon Atlas/kasanje_icon_atlas_80.dds</File>
+    <File md5="01A761333162B65776581CF6C01D58F4" import="1">Art/Icon Atlas/UnitFlag_Gonzo_32.dds</File>
+    <File md5="9B079A3035EEDD7CEA3278240D53BBED" import="1">Art/Icon Atlas/UnitFlag_Mavala_32.dds</File>
+    <File md5="767A2C7E1A514FD6FE11A8C122EB92E8" import="1">Art/Map/Kasanje_DOM.dds</File>
+    <File md5="E5ECD3FA83E42D79E529EB28CE0F3171" import="1">Art/Map/KasanjeMap512.dds</File>
+    <File md5="5B3530AFFAF2EE901ADC796663117C5F" import="1">Audio/KasanjeKalunga_Peace.mp3</File>
+    <File md5="770C9B25DC08D3028DBCA8674B4E817E" import="1">Audio/KasanjeKalunga_War.mp3</File>
+    <File md5="5A7726A42B028CF13A52EA75ED433B6A" import="0">Core/DMS_Kasanje_ArtDefines.sql</File>
+    <File md5="9ABF6648674041074AC4873BD66C1222" import="0">Core/DMS_Kasanje_GameDefines.sql</File>
+    <File md5="216A558BE3882503DD9B7F1A56F90716" import="0">Core/DMS_Kasanje_GameDefines_Diplomacy.sql</File>
+    <File md5="09D37D5780FEDEC033DBD32E867F18FE" import="0">Core/DMS_Kasanje_GameDefines_ModSupport.sql</File>
+    <File md5="9F7A8C479C3C940AAF321F018769DCA9" import="0">Core/DMS_Kasanje_GameText.xml</File>
+    <File md5="B388076B988CBC19957628D26C56A1FD" import="0">Core/DMS_Kasanje_GameText_Diplomacy.xml</File>
+    <File md5="137FD534568C20B5C29619A9FD1E2AF0" import="0">Core/DMS_Kasanje_GameText_ModSupport.xml</File>
+    <File md5="FC6E117C75835973F759656BB4F6EF97" import="0">DeleteMissingReferences.xml</File>
+    <File md5="A7D2437C6031607150178C7E234DEB80" import="0">DMS_Kasanje_UserSettings.sql</File>
+    <File md5="2D931F8D8C1C5F57ABE66A59D268E3E5" import="1">Lua/DMS_Kasanje_Decisions.lua</File>
+    <File md5="B050DE595F3739A06B4E9720FA4576D0" import="0">Lua/DMS_Kasanje_Functions.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DMS_Kasanje_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Kasanje_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Kasanje_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Kasanje_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Kasanje_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Kasanje_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Kasanje_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+      <UpdateDatabase>DMS_Kasanje_UserSettings.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DMS_Kasanje_Functions.lua">
+      <Name>DMS_Kasanje_Functions.lua</Name>
+      <Description>DMS_Kasanje_Functions.lua</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

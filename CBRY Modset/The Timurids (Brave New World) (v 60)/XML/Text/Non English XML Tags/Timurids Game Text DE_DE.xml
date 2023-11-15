@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_DE_DE>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_TIMURID_MADRASAH_MOD">
+			<Text>Maydan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TIMURID_MADRASAH_MOD_HELP">
+			<Text>Reduces enemy spy stealing rate by 20%. Allows Archaeologists to be built in this city.[NEWLINE][NEWLINE]+2 [ICON_RESEARCH] Science from Jungle tiles worked by this City.[NEWLINE][NEWLINE]City must have a Library.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TIMURID_MADRASAH_MOD_STRATEGY">
+			<Text>The public square or Maydan is a Medieval-era building. It increases the [ICON_RESEARCH] Science output of the city and is significantly cheaper to construct than the standard University, which it replaces. Additionally, the Maydan reduces the effectiveness of enemy spies by 20%. This is the earliest form of espionage defense available in the game, allowing you to pre-emptively build up your espionage infrastructure before the arrival of Spies in the next game era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_BUILDINGS_TIMURID_MADRASAH_MOD_TEXT">
+			<Text>In traditional Persian architecture, town squares are known as Maydan and are considered as one of the essential features in urban planning often adjacent to bazaars, large mosques, and other public buildings.[NEWLINE][NEWLINE]The most notable example in the Timurid Empire would be the Registan located in the heart of the city of Samarqand. It served as a gathering place for people to hear royal proclamations, heralded by blasts of enormous copper pipes called dzharchis, as well as a place for public executions. The Registan is framed by three madrasahs (an Arabic educational institution, although with a religious component); the Ulugh Beg Madrasah, the Tilya-Kori Madrasah, and the Sher-Dor Madrasah.[NEWLINE][NEWLINE]Persian architecture reached its zenith under the Timurid Empire, representing the pinnacle of Islamic art in Central Asia.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_UNIT_TIMURID_GHAZI_MOD">
+			<Text>Tumen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNIT_TIMURID_GHAZI_MOD_TEXT">
+			<Text>Tumen were part of the decimal system used by Turkic and Mongol peoples to organize their armies and represented an army unit of 10,000 soldiers. Coincidently, it was also used in the Mongolian and Uyghur languages to mean "very many". Tumen were considered a practical size, neither too small for an effective campaign nor too big for efficient transport and supply. The military strategy was based on the use of Tumen as a useful building block causing reasonable shock and attack.[NEWLINE][NEWLINE]Timur based his strength on the exploitation of settled populations and his army was a huge conglomeration of different peoples; nomad and settled, Turks, Tajiks, Arabs, Georgians, and Indians. The war machine was composed of Tumen consisting of his family, loyal tribes (particularly the Barlas and Jalayir tribes), recruited soldiers from nomadic populations as far as the Moghuls, the Golden Horde, Anatolia, and finally Persian speaking sedentarists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TIMURID_GHAZI_MOD_STRATEGY">
+			<Text>The Tumen is the Timurid unique unit, replacing the Lancer. It suffers a less severe penalty for attacking cities and earns [ICON_GOLD] Gold for defeating enemy Units or inflicting damage upon a City. Unlike the standard Lancer, it requires no resources to build.</Text>
+		</Row>>
+		<Row Tag="TXT_KEY_UNIT_TIMURID_GHAZI_MOD_HELP">
+			<Text>Mounted Unit specialized in defeating enemy Mounted Units. The Tumen generates [ICON_GOLD] Gold when killing enemy Units or attacking Cities. Only the Timurids may build it.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PROMOTION_TIMURIDS_GHAZI_RAID">
+			<Text>Double Plunder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TIMURIDS_GHAZI_RAID_HELP">
+			<Text>Plunder [ICON_GOLD] Gold equal to 100% of the damage inflicted on a City.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_DESC">
+			<Text>Timur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_LIVED">
+			<Text>AD 1336 - 1405</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_NAME">
+			<Text>Timur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_SUBTITLE">
+			<Text>Leader of the Timurids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_TITLES_1">
+			<Text>Timur the Lame</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_TITLES_2">
+			<Text>Amir, Sultan, Sahib Ul Qiran, Paadshah, and Khaaqaan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_TITLES_3">
+			<Text>The Sword of Islam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_TEXT_1">
+			<Text>Timur, historically known as Tamerlane, was a Mongol-Turkic ruler who conquered West, South, and Central Asia and founded the Timurid dynasty.[NEWLINE][NEWLINE]Timur envisioned the restoration of the Mongol Empire of Genghis Khan. Unlike his predecessors, Timur was also a devout Muslim and referred to himself as the 'Sword of Islam'. His armies were inclusively multi-ethnic and multicultural. During his lifetime Timur would emerge as the most powerful ruler in the Muslim world after defeating the formidable Mamluks of Egypt and Syria, the emerging Ottoman Empire, and the declining Sultanate of Delhi. By the end of his reign Timur had also gained complete suzerainty over all the remnants of the Chagatai Khanate, Golden Horde, and even the Yuan Khanate.[NEWLINE][NEWLINE]Timur is regarded as a military genius and a tactician whose prowess made him one of the world's great conquerors. Timur's armies were ferocious, feared throughout Asia, Africa, and Europe. Independent scholars estimate that his military campaigns caused the deaths of as many as 17 million people (amounting to about 5% of the then world population). On the other hand, Timur is also recognized as a great patron of art and architecture, and his empire was the center of Islamic scholarship at the time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_HEADING_2">
+			<Text>Early life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_TEXT_2">
+			<Text>Timur was born in Skardu, in the City of Kesh, some 50 miles south of Samarkand in modern Uzbekistan, then part of the Chagatai Khanate. His father, Taraqai, was a small-scale landowner and belonged to the Barlas tribe. The Barlas was a Turko-Mongol tribe which was originally a Mongol tribe and was Turkified and/or became Turkic-speaking or intermingling with the Turkic peoples. According to Gérard Chaliand, Timur was a Muslim Turk but he saw himself as Genghis Khan's heir. Though not a Chinggisid, he clearly sought to evoke the legacy of Genghis Khan's conquests during his lifetime.[NEWLINE][NEWLINE]Timur was a Muslim, but while his chief official religious counsellor and advisor was the Hanafi scholar 'Abdu 'l-Jabbar Khwarazmi, his particular persuasion is not known. In Tirmidh, he had come under the influence of his spiritual mentor Sayyid Barakah, a Shiite leader from Balkh who is buried alongside Timur in Gur-e Amir. Despite his Hanafi background, Timur was known to hold Ali and the Shia Imams in high regard and has been noted by various scholars for his "pro-Alid" stance.[citation needed Despite this, Timur was noted for attacking Shi'is on Sunni grounds and therefore his own religious inclinations remain unclear.[NEWLINE][NEWLINE]Timur is also known to have devout Islamic inclinations regarding his personal life and as such restricted himself to only four wives, while most Mongol rulers during that period did not. According to his famous descendant Babur, Timur is known to have kept fine copies of both the Quran and the Yassa (a Mongol code of honor introduced by Genghis Khan).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_HEADING_3">
+			<Text>Empire and War Machine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_TEXT_3">
+			<Text>Timur based his strength on the exploitation of settled populations and inherited a system of rule which could encompass both settled and nomad populations. Those who saw Timur's army described it as a huge conglomeration of different peoples - nomad and settled, Muslims and Christians, Turks, Tajiks, Arabs, Georgians and Indians. Timur's conquests were extraordinary not only for their extent and their success, but also for their ferocity and massacres. The war machine was composed of 'tumen', military units of a 10,000 in the conquered territories. It consisted of his family, loyal tribes particularly the Barlas and Jalayir tribes, recruited soldiers from nomadic population from as far as the Moghuls, Golden Horde and Anatolia, and finally Persian speaking sedentarists.[NEWLINE][NEWLINE]Timur and his army were never at rest and neither age nor increasing infirmity could halt his growing ambitions. In 1391 Timur's army fought and won in the great battle of Kanduzcha on June 18. Following his campaign in India, he acquired an elephant corps and took them back to Samarkand for building mosques and tombs. He led the attack and victory on the Ottoman army in the battle of Ankara on July 28 1402.[NEWLINE][NEWLINE]With great interest in trade, Timur had a grand plan to reactivate the Silk Road, the central land route, and make it the monopoly link between Europe and China. Monopolization was to be achieved by war: primarily, against the Golden Horde, the master of principal rival, the northern land route; secondarily, against the states of western Persia and the Moghuls to the east in order to place the Silk Road under unified control politically; and finally against India, Egypt and China.[NEWLINE][NEWLINE]Early in his career, he took the title or epithet 'Sahib Ul Qiran' symbolized by three circlets forming a triangle. It was an astrological term which meant 'Lord of the Fortunate Conjuncture'. It expressed his sense not just of balancing or juggling ruler, nomads and sedentarists, as his predecessors had done, but of integrating them into a dynamic institutional system.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_HEADING_4">
+			<Text>China and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_TEXT_4">
+			<Text>The first Ming ruler, the Hung-wu emperor (1368-1398), sent embassies to former Yuan (a part of the Mongol kingdom) tributaries asking that the Ming be recognized as the new overlords. One of these reached Samarkand in 1395 and was promptly imprisoned by Tamerlane who was already planning his campaign to control the Silk Road, restore the Yuan, equal Jenghiz Khan and surpass Alexander. The second Ming ruler, Yung-lo emperor (1402-1424), anticipated an invasion from Tamerlane and sent another embassy to Samarkand. He too was imprisoned. In 1405, Yung-lo emperor launched the first of his great naval expeditions to the west under the eunuch Cheng Ho. The primary purpose of these missions was to end China's isolation in the face of an attack from Tamerlane.[NEWLINE][NEWLINE]Without taking the advice of his generals to remain in Samarkand until the spring, Timur and his army planned to advance northwards without delays, encamp at various points near the river Jaxartes, and wait for the first sign of spring to strike towards China. They left Samarkand early in January on a day chosen by the astrologers as auspicious. Thus Tamerlane led an enormous army and departed on his last and most fantastic campaign to conquer China when he was close to seventy years old. He was too weak to walk and had to be carried in a litter. Toward the end of January, they reached Utrar. There Timur's health had suffered from the severity of the journey and he was seriously ill, and on 17 or 18 February 1405, Tamerlane died. His body was carried back and buried at the Gur-i-Mir, Samarkand.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_HEADING_5">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_TEXT_5">
+			<Text>Timur's legacy is a mixed one. While Central Asia blossomed under his reign, other places such as Baghdad, Damascus, Delhi and other Arab, Georgian, Persian and Indian cities were sacked and destroyed and their populations massacred. He was responsible for the effective destruction of the Christian Church in much of Asia. Thus, while Timur still retains a positive image in Muslim Central Asia, Persia, and Arab countries, he is vilified by many in India, where some of his greatest atrocities were carried out.[NEWLINE][NEWLINE]Timur's military talents were unique. He planned all his campaigns years in advance, even planting barley for horse feed two-years ahead of his campaigns. He used propaganda, in what is now called information warfare, as part of his tactics. His campaigns were preceded by the deployment of spies whose tasks included collecting information and spreading horrifying reports about the cruelty, size, and might of Timur's armies. Such psychological warfare eventually weakened the morale of threatened populations and caused panic in the regions that he intended to invade.[NEWLINE][NEWLINE]Although Timur's uncharacteristic (for the time) concern for his troops inspired fierce loyalty, he did not pay them. Their only incentives were from looting captured territory — a bounty that included horses, women, precious metals and stones; in other words whatever they, or their newly captured slaves, could carry away from the conquered lands.[NEWLINE][NEWLINE]Timur's short-lived empire also melded the Turko-Persian tradition in Transoxiania, and, in most of the territories which he incorporated into his fiefdom, Persian became the primary language of administration and literary culture (diwan), regardless of ethnicity. In addition, during his reign, some contributions to Turkic literature were penned, with Turkic cultural influence expanding and flourishing as a result. A literary form of Chagatai Turkic came into use alongside Persian as both a cultural and an official language.[NEWLINE][NEWLINE]Timur became a relatively popular figure in Europe for centuries after his death, mainly because of his victory over the Ottoman Sultan Bayezid. The Ottoman armies were at the time invading Eastern Europe and Timur was ironically seen as a sort of ally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_HEADING_6">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_TEXT_6">
+			<Text>Timur was the great-great-great-grandfather of Babur, founder of the Mughal Empire, which ruled India and South Asia for centuries.[NEWLINE][NEWLINE]It is notable that Timur never claimed for himself the title of Khan, instead styling himself Amir and acting in the name of the Chagatai ruler of Transoxania.[NEWLINE][NEWLINE]Timur was a military genius, but was sometimes lacking in political sense. He tended not to leave a government apparatus behind in lands he conquered and was often faced with the need to reconquer such lands after inevitable rebellions had taken place.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TIMURIDS_MOD_DESC">
+			<Text>Timurid Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TIMURIDS_MOD_SHORT_DESC">
+			<Text>The Timurids</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TIMURIDS_MOD_ADJECTIVE">
+			<Text>Timurid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TIMURIDS_MOD">
+			<Text>The Timurids</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_TITLE">
+			<Text>The Timurids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_TEXT_1">
+			<Text>The Timurids were a Persianate, Turco-Mongol empire which conquered and ruled over modern-day Iran, Afghanistan, much of Central Asia, as well as parts of contemporary Pakistan, India, Mesopotamia, Anatolia, and the Caucasus. It was founded by Timur, popularized in the West as Tamerlane the Great, who would emerge during his lifetime as the most powerful ruler of the Muslim world. Timur's armies were ferocious. However, Timur is also recognized as a great patron of art and architecture, and his empire was the center of Islamic scholarship at the time. Although traditional Persian identity would be re-established in the area with the arrival of the Safavids, the Timurid dynasty would continue in India as the direct predecessor of the Mughal Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_TEXT_2">
+			<Text>Central Asia is an extremely large region of varied geography, including high passes and mountains, vast deserts, and especially treeless, grassy steppes. The vast steppe areas of Central Asia are considered together with the steppes of Eastern Europe as a homogeneous geographical zone known as the Eurasian Steppe.[NEWLINE][NEWLINE]The Timurid capital, Samarqand, is one of the oldest inhabited cities in the world, prospering as a major trade route along the Silk Road between China and the Mediterranean. Trade on the Silk Road was a significant factor in the development of the civilizations of China, India, Persia, and Arabia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_HEADING_3">
+			<Text>Timur the Lame</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_TEXT_3">
+			<Text>The origin of the Timurid dynasty goes back to the Mongol tribe known as the Barlas, who were remnants of the original Mongol army of Genghis Khan. After the Mongol conquest of Central Asia, the Barlas settled in what is today southern Kazakhstan, from Shymkent to Taraz and Almaty, which then came to be known for a time as Moghulistan, 'Land of Mongols' in Persian, and intermingled to a considerable degree with the local Turkic and Turkic-speaking population, so that at the time of Timur's reign the Barlas had become thoroughly Turkicized in terms of language and habits.[NEWLINE][NEWLINE]Timur conquered large parts of Central Asia, primarily Transoxiana and Khorasan, from 1363 onwards with various alliances (Samarkand in 1366, and Balkh in 1369), and was recognized as ruler over them in 1370. Acting officially in the name of Suurgatmish, the Chagatai khan, he subjugated Transoxania and Khwarazm in the years that followed. Already in the 1360s had he gained control of the western Chagatai Khanate and while as emir he was nominally subordinate to the khan, in reality it was now Timur that picked the khans who became mere puppet rulers. The western Chagatai khans were continually dominated by Timurid princes in the 15th and 16th centuries and their figurehead importance was eventually reduced into total insignificance.[NEWLINE][NEWLINE]Timur began a campaign westwards in 1380, invading the various successor states of the Ilkhanate. By 1389, he had removed the Kartids from Herat and advanced into mainland Persia where he enjoyed many successes. This included the capture of Isfahan in 1387, the removal of the Muzaffarids from Shiraz in 1393, and the expulsion of the Jalayirids from Baghdad. In 1394-95, he triumphed over the Golden Horde, following his successful campaign in Georgia, after which he enforced his sovereignty in the Caucasus. Tokhtamysh, the khan of the Golden Horde, was a major rival to Timur in the region. He also subjugated Multan and Dipalpur in modern day Pakistan in 1398, and in modern day India left Delhi in such ruin that it is said for two months "not a bird moved wing in the city". Timur gave the north Indian territories to a non-family member, Khizr Khan, whose Sayyid dynasty replaced the defeated Tughlaq dynasty of the Sultanate of Dehli. Delhi became a vassal of the Timurids but obtained independence in the years following the death of Timur.[NEWLINE][NEWLINE]In 1400-1401 he conquered Aleppo, Damascus and eastern Anatolia, in 1401 he destroyed Baghdad and in 1402 defeated the Turks in the Battle of Ankara. This made Timur the most preeminent Muslim ruler of the time, as the Ottoman Empire plunged into civil war. Meanwhile he transformed Samarkand into a major capital and seat of his realm.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_HEADING_4">
+			<Text>Decline of an Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_TEXT_4">
+			<Text>Timur appointed his sons and grandsons to the main governorships of the different parts of his empire, and outsiders to some others. After his death in 1405, the family quickly fell into disputes and civil wars, and many of the governorships became effectively independent. However, Timurid rulers continued to dominate Persia, Afghanistan, Pakistan, and much of Central Asia, though the Anatolian and Caucasian territories were lost by the 1430s. Due to the fact that the Persian cities were desolated by wars, the seat of Persian culture was now in Samarkand and Herat, cities that became the center of the Timurid renaissance.[NEWLINE][NEWLINE]Timur's grandson, Ulugh Beg, was notable for his work in astronomy-related mathematics, such as trigonometry and spherical geometry, and built the great Ulugh Beg Observatory in Samarkand between 1424 and 1429. It was considered by scholars to have been one of the finest observatories in the Islamic world at the time and the largest in Central Asia.[NEWLINE][NEWLINE]By 1500, the divided and war-torn Timurid Empire had lost control of most of its territory and within the following years were effectively pushed back on all fronts. Persia fell quickly to the Shiite Safavid dynasty, secured by Shah Ismail I in the following decade. Much of the Central Asian lands were overrun by the Uzbeks of Muhammad Shaybani who conquered the key cities of Samarkand and Herat in 1505 and 1507, and founded the Khanate of Bukhara.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_HEADING_5">
+			<Text>The Mughal Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_TEXT_5">
+			<Text>In South Asia, the Mughal Empire was established by Babur, a descendant of Timur through his father and possibly a descendant of Genghis Khan through his mother, in 1526. The dynasty he established is commonly known as the Mughal dynasty though it was directly inherited from the Timurids. By the 17th century, the Mughal Empire ruled most of India, but eventually declined during the following century. The Timurid dynasty finally came to an end as the remaining nominal rule of the Mughals was abolished by the British Empire following the 1857 rebellion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_HEADING_6">
+			<Text>Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_TEXT_6">
+			<Text>The Timurid era had a dual character, which reflected both the Turco-Mongol origins and the Persian literary, artistic, and courtly high culture of the dynasty.[NEWLINE][NEWLINE]Timur became widely known as a patron to the arts. Much of the architecture he commissioned still stands in Samarkand, now in present-day Uzbekistan. He was known to bring the most talented artisans from the lands he conquered back to Samarkand, and is credited with often giving them a wide latitude of artistic freedom to express themselves. Additionally, Timur's grandson, Ulugh Beg, was well known as an astronomer and mathematician. He built the great Ulugh Beg Observatory in Samarkand between 1424 and 1429 which was considered by scholars to have been one of the finest observatories in the Islamic world at the time and the largest in Central Asia. He also built the Ulugh Beg Madrasah (1417–1420) in Samarkand and Bukhara, transforming the cities into centers of learning and culture in Central Asia.[NEWLINE][NEWLINE]During the reign of the Timurids, the golden age of Persian painting was ushered. During this period Chinese art and artists had a significant influence on Persian art. Timurid artists refined the Persian art of the book, which combines paper, calligraphy, illumination, illustration and binding in a brilliant and colorful whole. It was the Mongol ethnicity of the Chaghatayid and Timurid Khans that is the source of the stylistic depiction Persian art during the Middle Ages. These same Mongols intermarried with the Persians and Turks of Central Asia, even adopting their religion and languages. Yet their simple control of the world at that time, particularly in the 13–15th centuries, reflected itself in the idealized appearance of Persians as Mongols. Though the ethnic make-up gradually blended into the Iranian and Mesopotamian local populations, the Mongol stylism continued well after, and crossed into Asia Minor and even North Africa.[NEWLINE][NEWLINE]In the realm of architecture, the Timurids drew on and developed many Seljuq traditions. Turquoise and blue tiles forming intricate linear and geometric patterns decorated the facades of buildings. Sometimes the interior was decorated similarly, with painting and stucco relief further enriching the effect. Timurid architecture is the pinnacle of Islamic art in Central Asia. Spectacular and stately edifices erected by Timur and his successors in Samarkand and Herat helped to disseminate the influence of the Ilkhanid school of art in India, thus giving rise to the celebrated Mughal (or Mongol) school of architecture. Timurid architecture started with the sanctuary of Ahmed Yasawi in present-day Kazakhstan and culminated in Timur's mausoleum Gur-e Amir in Samarkand. The mausoleum of Timurid princes, with their turquoise and blue-tiled domes remain among the most refined and exquisite Persian architecture. Axial symmetry is a characteristic of all major Timurid structures, notably the Shāh-e Zenda in Samarkand, the Musallah complex in Herat, and the mosque of Gowhar Shād in Mashhad. Double domes of various shapes abound, and the outsides are perfused with brilliant colors. Timur's dominance of the region strengthened the influence of his capital and Persian architecture upon India.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: Timur[NEWLINE]        Unique Unit: Tumen[NEWLINE]        Unique Building: Maydan[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_FACTOID_HEADING">
+			<Text>Timurid Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURIDS_MOD_FACTOID_TEXT">
+			<Text>"Then shall my native city, Samarcanda...[NEWLINE]Be famous through the furthest continents,[NEWLINE]For there my palace-royal shall be placed,[NEWLINE]Whose shining turrets shall dismay the heavens,[NEWLINE]And cast the fame of Ilion's tower to hell."[NEWLINE][TAB]- Christopher Marlowe, 'Tamburlaine the Great'[NEWLINE][NEWLINE]The Timurids also played a very important role in the history of Turkic literature. Based on the established Persian literary tradition, a national Turkic literature was developed in the Chagatay language.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_SPY_NAME_TIMURIDS_MOD_0">
+			<Text>Baysongor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIMURIDS_MOD_1">
+			<Text>Jahangir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIMURIDS_MOD_2">
+			<Text>Pir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIMURIDS_MOD_3">
+			<Text>Ulugh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIMURIDS_MOD_4">
+			<Text>Taraghay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIMURIDS_MOD_5">
+			<Text>Bija</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIMURIDS_MOD_6">
+			<Text>Tuman</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIMURIDS_MOD_7">
+			<Text>Saray</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIMURIDS_MOD_8">
+			<Text>Firuza</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIMURIDS_MOD_9">
+			<Text>Khanim</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_SAMARQAND">
+			<Text>Samarqand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_HERAT">
+			<Text>Herat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_SHAHRISABZ">
+			<Text>Shahrisabz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_BALKH">
+			<Text>Balkh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_MERV">
+			<Text>Merv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_KABUL">
+			<Text>Kabul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_BUKHARA">
+			<Text>Bukhara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_NISHAPUR">
+			<Text>Nishapur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_URGENCH">
+			<Text>Urgench</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_ZARANI">
+			<Text>Zaranj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_MASHHAD">
+			<Text>Mashhad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_TEHRAN">
+			<Text>Tehran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_ISFAHAN">
+			<Text>Isfahan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_SHIRAZ">
+			<Text>Shiraz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_TABRIZ">
+			<Text>Tabriz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_MARAGHA">
+			<Text>Maragha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_RASHT">
+			<Text>Rasht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_QAZVIN">
+			<Text>Qazvin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_FARYAB">
+			<Text>Faryab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_SARAKHS">
+			<Text>Sarakhs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_TALOQAN">
+			<Text>Taloqan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_HOMAYUN">
+			<Text>Homayun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_FERGHANA">
+			<Text>Ferghsns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_AKSARAY">
+			<Text>Aksaray</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_MAZAR_I_SHARIF">
+			<Text>Mazar-i-Sharif</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_ISTARAVSHAN">
+			<Text>Istaravshan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_BADGHIS">
+			<Text>Badghis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_ABIWARD">
+			<Text>Abiward</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_HAOZDAR">
+			<Text>Haozdar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_TUS">
+			<Text>Tus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_GURGAN">
+			<Text>Gurgan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_DAMGHAN">
+			<Text>Damghan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_KHIVA">
+			<Text>Khiva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_KUNDUZ">
+			<Text>Kunduz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_LAHOR">
+			<Text>Lahor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_MULTAN">
+			<Text>Multan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIMURIDS_MOD_GHAZNI">
+			<Text>Ghazni</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_TIMURIDS_MOD_TEXT">
+			<Text>May the blessings of God be upon you, Mighty Timur; Sultan, Sahib Ul Qiran, Paadshah, Khaaqaan, founder of the Timurid Dynasty. You envisioned the restoration of the Great Horde of Temujin and, in the name of God, became the most powerful ruler of the Muslim world. Your armies defeated the Mamluks of Egypt, captured the Sultans of the Ottoman Empire, laid waste to the heathen Knights Hospitaler of Anatolia, and sacked the ancient city of Delhi. Yet, it was also under the Timurids that the Mongolian and Persian cultural legacies reached their zenith and culminated in a tradition that would change the Asian steppes forever.[NEWLINE][NEWLINE]Pious Amir, your people call out to you! Scion of Temujin and ancestor of Babur, your blood calls out to you! Will you once again rebuild the Great Horde and conquer what is yours by right? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_FIRST_GREETING_1">
+			<Text>Blessings upon you, I am Timur, Sahib Ul Qiran. Do not let my limp fool you. If you are looking for a fight, I promise, you will not win.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_FIRST_GREETING_2">
+			<Text>Welcome to the Jewel of the East, my glorious city of Samarqand. Though your cities pale in comparison, even they will one day add to its greatness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_DEFEATED_1">
+			<Text>I planned this campaign years in advance and planted barley for my horses before you ever knew of my intent. Only luck can explain your victory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIMUR_MOD_DEFEATED_2">
+			<Text>I am not a man of blood, God is my witness that in all my wars I have never been the aggressor, and that my enemies have always been the authors of their own calamity.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_JEWEL_OF_THE_EAST_SHORT">
+			<Text>Jewel of the East</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JEWEL_OF_THE_EAST">
+			<Text>After capturing your first City the yields of your Palace are increased by +1. Captured Buildings will also be constructed in your [ICON_CAPITAL] Capital if not already present.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITYSTATE_MOD_MEROE">
+			<Text>Sana'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOD_MEROE_ADJ">
+			<Text>Sana'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOD_MEROE_PEDIA">
+			<Text>The city of Sana'a, capital of the Republic of Yemen since 1962, is one of the oldest continuously inhabited cities in the world; established some 2,500 years ago as an outpost of the early Yemenite kingdoms. The region of Yemen itself represents one of the oldest centers of civilization in the Near East; its relatively fertile land and adequate rainfall helping to sustain a stable population compared to the more arid environment found throughout the rest of the Arabian Peninsula. Between the 8th century BC and the 6th century AD, Yemen was dominated by six main states which vied for control of the lucrative spice trade of the region.[NEWLINE][NEWLINE]The Arab historian al-Hamdani wrote that Sana'a was walled by the Sabeans under their ruler Sha'r Awtar, who also built Sana'a's Ghumdan Palace. Because of its location, Sana'a has served as an urban center for the surrounding tribes of the region and as a nucleus of regional trade in southern Arabia. By the first century AD Sana'a emerged as a centre of inland trade, positioned at the crossroad of two major ancient trade routes linking Marib in the east to the Red Sea in the west.[NEWLINE][NEWLINE]The remains of Sana'a's pre-Islamic period were largely destroyed as a result of profound changes in the city from AD 628. Beginning with the early years of the Hegira, Sana'a became a major centre for the spread of the Islamic faith. Sana'a's great mosque is said to have been constructed while the Prophet Muhammad was still living, with materials recovered from the Ghumdan Palace. The successive reconstructions of Sana'a under Ottoman domination, beginning in the 16th century, respected the proportions and balance of the medieval city while changing its appearance. At the same time, a new city grew up to the west of the first settlement and is today contiguous with it.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_TIMURID_MOD_DUMMY_DESC">
+			<Text>Timurid Palace Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TIMURID_MOD_SILK_ROAD_DUMMY_DESC">
+			<Text>Timurid Silk Road Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIMURID_MOD_DUMMY_TEXT">
+			<Text>Sarai is the Persian term for "palace".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TIMURID_MOD_DUMMY_STRATEGY">
+			<Text>This building cannot be built but rather facilitates the Timurid unique abilities.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_TIMURIDS_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>My people have begun to decorate everything with turquoise tiles and insist on only using Persian when issuing legal documents. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_TIMUR_MOD">
+			<Text>Umai</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_UNIT_TIMURID_MOD_DUMMY_DESC">
+			<Text>Timurid Dummy</Text>
+		</Row>
+	</Language_DE_DE>
+</GameData>

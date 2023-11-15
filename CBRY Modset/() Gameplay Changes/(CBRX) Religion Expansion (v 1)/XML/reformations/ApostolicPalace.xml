@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2016-09-26 23:38:28 -->
+<GameData>
+	
+	<!-- Grand Temple provides +5 to all yields -->
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_APOSTOLIC_PALACE</Type>
+			<Description>TXT_KEY_BELIEF_APOSTOLIC_PALACE</Description>
+			<ShortDescription>TXT_KEY_BELIEF_APOSTOLIC_PALACE_SHORT</ShortDescription>
+			<Reformation>true</Reformation>
+		</Row>
+	</Beliefs>
+	<Belief_BuildingClassYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_APOSTOLIC_PALACE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GRAND_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>5</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_APOSTOLIC_PALACE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GRAND_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>5</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_APOSTOLIC_PALACE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GRAND_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>5</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_APOSTOLIC_PALACE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GRAND_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>5</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_APOSTOLIC_PALACE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GRAND_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>5</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_APOSTOLIC_PALACE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GRAND_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>5</YieldChange>
+		</Row>
+	</Belief_BuildingClassYieldChanges>
+	
+	<Belief_BuildingClassTourism>
+		<Row>
+			<BeliefType>BELIEF_APOSTOLIC_PALACE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GRAND_TEMPLE</BuildingClassType>
+			<Tourism>5</Tourism>
+		</Row>
+	</Belief_BuildingClassTourism>
+	
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BELIEF_APOSTOLIC_PALACE">
+			<Text>Grand Temple provides +5 [ICON_FOOD] Food, +5 [ICON_PRODUCTION] Production, +5 [ICON_RESEARCH] Science, +5 [ICON_GOLD] Gold, +5 [ICON_CULTURE] Culture, +5 [ICON_PEACE] Faith, and +5 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_APOSTOLIC_PALACE_SHORT">
+			<Text>Apostolic Palace</Text>
+		</Row>
+	</Language_en_US>
+	
+</GameData>

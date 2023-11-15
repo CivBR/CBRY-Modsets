@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_US_ROME_TRAJAN_ADJECTIVE">
+			<Text>Roman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_US_ROME_TRAJAN_DESC">
+			<Text>Roman Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_US_ROME_TRAJAN_SHORT_DESC">
+			<Text>Rome</Text>
+		</Row>
+		<!--TAL-->
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV_US_ROME_TRAJAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_US_ROME_TRAJAN_TEXT_1">
+			<Text>The Roman Empire is the most remarkable and long-lived political entity in the history of Western Civilization. It was founded around the 8th century BC, and portions of it survived until the 14th century AD. The Romans were great innovators in some areas, and they were not shy about appropriating good ideas they found in other cultures. They greatly shaped Western culture, law, art, architecture, religion, language, and warfare.[NEWLINE]NEWLINE]According to legend, Rome was founded by twin brothers named "Romulus" and "Remus," the sons of the god Mars and a king's daughter. The children were abandoned at birth, but they were rescued by a she-wolf who suckled and raised them. Upon reaching maturity the boys founded a new city, then quarreled over who would rule. Romulus won: he killed his brother and became the first king of Rome. [NEWLINE] [NEWLINE] Archaeologists date the first major settlement in the area from the eighth century BC (though there is some evidence suggesting that there were settlements in the area as far back as the 10th century BC). The city was founded by the Latin tribe atop the Palatine Hill, which overlooks a crossing of the Tiber River. The city's strategic location made it a natural trading post between the Etruscan civilization to the north and the Greek settlements to the south. Thus Rome benefitted from technological and cultural advances of both groups. Its location also made it greatly prized by its neighbors, and for two centuries the Latins fought off attacks by the Etruscans and the Sabines, another local tribe.[NEWLINE][NEWLINE]During much of its history, the Roman Republic was at war with one or more of its neighbors. It was constantly expanding its territory at the expense of other Italian tribes. It fought and conquered the nearby town of Fidenae in 426 BC after an eleven-year struggle, and this was followed soon thereafter by a painful ten-year fight to conquer the Etruscan city of Veii. Much of these gains were swept away in 390 BC, when a Gallic tribe defeated the Roman armies and sacked the city. It took almost half a century for Rome to recover from this devastating defeat. By the middle of the third century, however, Rome was master of most of central Italy, with Latin colonies extending far to the north and south. Further, work was progressing on the incomparable Roman road network linking the growing empire, and Rome was in the process of constructing its first navy. As Rome's power grew, it began to come into conflict with other regional powers. One such power was Carthage, a one-time Phoenician colony based on the North African coast in Tunisia. At the time Carthage had a mighty trading empire which covered most of North Africa west of Egypt, coastal Spain and France, and much of Sicily. Rome and Carthage fought three "Punic Wars" (264 - 146 BC) to decide who would control the Western Mediterranean. While Roman historians placed the blame for the wars on Carthage, modern historians believe that the Romans actually provoked the conflict by attempting to muscle in on Carthaginian territory in Sicily.[NEWLINE][NEWLINE]Although Rome continued to expand, fighting wars across the Mediterranean, the first century BC saw tens of thousands of demobilized soldiers return from foreign lands. There was not enough work for the ex-soldiers, especially since Rome was being flooded with slaves from overseas possessions. These men were angry, and they had the vote. Several men attempted to enact land reforms, taking property away from the extremely wealthy and distributing it to the soldiers, but the senate (which was largely comprised of wealthy men) stymied these reforms. To be elected consul, Roman politicians had to appease the ex-soldiers, and Roman politics turned increasingly populist, and political infighting became increasingly bitter. [NEWLINE][NEWLINE]In 88 BC Sulla, an elected consul, marched his army into Rome to force the assembly to enact laws that would permanently weaken the opposing party. After his army left, the opposition retook the city and negated Sulla's laws. In 83 BC Sulla returned again with his army and slaughtered most of the members of the opposing party. He then passed a series of constitutional reforms and retired. It was now clear that control of Rome would fall to whoever commanded the loyalty of the army. In 62 BC three men agreed to share power between them. This "First Triumvirate" consisted of the generals Gnaeus Pompey the Great and Marcus Lucinius Crassus, and a soldier and sharp politician from a very wealthy family named Julius Caesar. These men had the same ability to cooperate and desire to share power as one might expect to find in your average killer shark, and following Crassus's death in battle, Caesar and Pompey were at each other's throats. Caesar was in the field at the time, and Pompey and the senate sought to remove him from his army. He refused the orders and advanced on Rome. The army defending Rome was untrained and Pompey did not believe it would stand against Caesar's highly-motivated veterans, so he and the senate fled the city, and in 49 BC Caesar marched into Rome unopposed, forming the Roman Empire as we know it.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_1">
+			<Text>Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_2">
+			<Text>Alexandria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_3">
+			<Text>Antioch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_4">
+			<Text>Carthago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_5">
+			<Text>Messalia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_6">
+			<Text>Nicomedia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_7">
+			<Text>Athens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_8">
+			<Text>Aquilea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_9">
+			<Text>Ctesiphon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_10">
+			<Text>Lugdunum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_11">
+			<Text>Neapolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_12">
+			<Text>Nicea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_13">
+			<Text>Miletus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_14">
+			<Text>Londonium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_15">
+			<Text>Eboracum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_16">
+			<Text>Palmyra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_17">
+			<Text>Babylon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_18">
+			<Text>Cremona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_19">
+			<Text>Utica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_20">
+			<Text>Tyrus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_21">
+			<Text>Gades</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_22">
+			<Text>Babylon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_US_ROME_TRAJAN_23">
+			<Text>Ravenna</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_US_ROME_TRAJAN_0">
+			<Text>Marcus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_ROME_TRAJAN_1">
+			<Text>Publius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_ROME_TRAJAN_2">
+			<Text>Gnaeus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_ROME_TRAJAN_3">
+			<Text>Lucius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_ROME_TRAJAN_4">
+			<Text>Apollodorus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_ROME_TRAJAN_5">
+			<Text>Pompeia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_ROME_TRAJAN_6">
+			<Text>Salonia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_ROME_TRAJAN_7">
+			<Text>Ulpia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_ROME_TRAJAN_8">
+			<Text>Felix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_US_ROME_TRAJAN_9">
+			<Text>Paulina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN">
+			<Text>Trajan</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_ROME_TRAJAN_NAME">
+			<Text>Trajan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_ROME_TRAJAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_ROME_TRAJAN_TEXT_1">
+			<Text>Trajan - born Marcus Ulpius Traianus - was a Roman emperor, the second of the "Five Good Emperors." He was famed for bringing the Roman Empire to its greatest-ever territorial extent, as well as for his building projects and social welfare policies.[NEWLINE][NEWLINE]Trajan was born in 53 AD in southern Spain, near the modern city of Seville. Though he is often called the first provincial emperor, his family was already a highly esteemed one; Trajan's father had been a senator and served as a general in the First Jewish-Roman War. Trajan himself began his career as a successful military officer all along the Roman frontier, and was eventually appointed consul in 91. He would then go on to be named as the adoptive son and heir to the emperor Nerva in 97, and upon Nerva's death the following year, he became emperor himself. [NEWLINE][NEWLINE]Trajan's reign was most famous for its military achievements. He fought two wars against Dacia, in 101-102 and 105-106 respectively; the first weakened Dacia, but allowed it to retain its client-kingdom status, while the second reduced it entirely to a Roman colony. Shortly afterward, the death of the client-king Rabbel Soter allowed Rome to annex Nabataea as well. Trajan's final major campaign, lasting from 113 to his death, was against Parthia. He began this campaign by annexing Armenia (then a Parthian puppet) and proceeded onward to Mesopotamia in 115. He pushed as far as the Persian Gulf, and secured Mesopotamia as a Roman province, but his health began to fail during this period; Trajan headed back toward the imperial heartland throughout 117, and died in Cilicia that August. [NEWLINE][NEWLINE]Trajan was also renowned for his internal accomplishments. One of his early actions was the creation of the correctores - agents to audit the civic finances of Greek cities and curb overspending and internal competition. This position also had the additional benefit of being an office Trajan could use to reward his preferred senators, giving the Senate an incentive to seek his favor. Trajan also formalized the welfare system known as the alimenta, which provided food, money, and education to the needy.[NEWLINE][NEWLINE]During Trajan's periods of peace, he was a prolific builder. He honored his victories in Dacia by building a forum and market in Rome, as well as his eponymous column; he also oversaw much construction in Hispania and Egypt. Trajan also built many roads on the Italian peninsula and in the Near East. Overall, so great and diverse were his achievements that the Senate termed him "Optimus Princeps" - the best prince.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_ROME_TRAJAN_LIVED">
+			<Text>53 - 117</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_ROME_TRAJAN_SUBTITLE">
+			<Text>Leader of Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_US_ROME_TRAJAN_TITLES_1">
+			<Text>Imperator of the Roman Empire</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_US_ROME_TRAJAN_TEXT">
+			<Text>All who hear your name are awed by the sound, Emperor Trajan, greatest ruler of mighty Rome. The Roman Empire was powerful indeed when you took the throne, but under your lead the legions of Rome conquered all who stood against them, swelling their borders to include all lands bordering the Mediterranean. You inherited an empire marred by strife between the throne and the Senate, but despite your autocratic and independent methods, which largely ignored the desires of the Senators, you ruled so well that they declared you the Optimus Princeps (best ruler) and, after your death, even to be a god. [NEWLINE][NEWLINE]Hail Trajan! All who are about to embark on this new adventure salute you! Expand your borders, conquer your enemies, build timeless monuments in your name, and lead us to an empire that will stand the test of time!</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_FIRSTGREETING_1">
+			<Text>Halt barbarian! Come one step further and I'll have my guards deal with you - further than that and you'll be unfortunate enough to reckon with me! Ha ha!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_DEFEATED_1">
+			<Text>Ha! A bloody good first round, for a barbarian! Come find me when you're ready for the next - I've a javelin with your name on it, old friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_ATTACKED_HOSTILE_1">
+			<Text>Gods, you cant surely think you have a chance? Well I can take some time out of my schedule to give you a schooling, though now I'll have to put off my other planned invasions. You're welcome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_DEC_FRIENDSHIP_1">
+			<Text>Good friends, better steel - what more is needed in life! How about you join me for the next battle? We can even be on the same side in this one!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_DENOUNCE_1">
+			<Text>The other leaders and I had a bloody good laugh about how weak you are - I know you've no hope of matching myself, but you could at least pretend to be trying.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_DENOUNCE_FRIEND_1">
+			<Text>Rome has no friends, only subjects. Know that you were never the former, and will soon be the latter..[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_DOW_GENERIC_1">
+			<Text>The Gods may decide all our fates in the end, but I already know yours... I'll try not to spoil too much, but it doesn't work out too well for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I am a servant of the almighty lord Terminus; he demands that the boundaries of order march ever on, enveloping the chaotic void of nature... But still, your expansion is a bit much, even for me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_GREETING_HOSTILE_HELLO_1">
+			<Text>Ah, the target practic-I mean-"foreign dignitary" has arrived! Come, come, sit on that X.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_GREETING_NEUTRAL_HELLO_1">
+			<Text>Is this really important? I've got empires to crush.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_GREETING_POLITE_HELLO_1">
+			<Text>My friend! You've arrived just in time for the hunt! Now, where did those captives get to?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Just coming by to tell you not to change anything about your current policies, I've been itching for a good war and the senate says I can't have one without an excuse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_LUXURY_TRADE_1">
+			<Text>I hate to ask for something so soft, but the senators need their silk underwear or fancy spices or whatever else it is they're always nattering on about.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_OPEN_BORDERS_EXCHANGE_1">
+			<Text>The Roman Empire trades only with her near-equals: consider this the highest compliment you will ever be granted. Were you not my friend, I wouldn't be making the mistake of asking first.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_REQUEST_1">
+			<Text>This isn't really a request. Requests can be refused.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_TOO_SOON_NO_PEACE_1">
+			<Text>And stop all the fun so soon? Surely you're joking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_US_ROME_TRAJAN_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Savour those rancid words while you still have a tongue, barbarian.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_US_ROME_TRAJAN_SHORT">
+			<Text>All Roads Lead to Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_US_ROME_TRAJAN">
+			<Text>Founding or conquering a new city rushes [ICON_PRODUCTION] production in the [ICON_CAPITAL] Capital, increasing for each city you own. +1 [ICON_WAR] experience to newly trained units for every building in the [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_UNIT_US_SINGULARES">
+			<Text>Singulares</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_US_SINGULARES_HELP">
+			<Text>If disbanded in the Capital, this unit and any stacked civilians are respawned in the furthest city. When near a barbarian encampment, the singulares receive a bonus movement point and +15% combat strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_US_SINGULARES_STRATEGY">
+			<Text>This stronger early game horseman is exceptional for growing your empire. Made much stronger in the presence of barbarians, singulares are excellent for scouting ahead into neutral lands and clearing them of any pesky 'inhabitants'. Furthermore, by teleporting this unit across the empire with stacked civillians, you'll be able to stretch even further and faster than ever before!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_US_SINGULARES_TEXT">
+			<Text>The equites singulares Augusti ("personal cavalry of the emperor") were the cavalry arm of the Praetorian Guard. They were a highly trained unit who escorted and protected the emperor whenever he left the city of Rome. Their members were drawn from the auxilia, and were given citizenship upon appointment in order to qualify for the Praetorian Guard. Their existence is first reliably attested during Trajan's reign; they were present on Trajan's Column, indicating that they participated in the Dacian Wars. They then continued to be used until Constantine disbanded the Praetorians in their entirety.</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_BUILDING_US_COLUMN">
+			<Text>Victory Column</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_US_COLUMN_HELP">
+			<Text>The Victory column is more expensive than the Monument it replaces, but is cheaper to construct for every other Victory Column in existence. Yields +1 happiness, or +2 while at war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_US_COLUMN_STRATEGY">
+			<Text>The Victory Column is an absolute god(s)send for wide empires, not only for the happiness bonus it provides, but because the wider your empire is, the cheaper Victory Columns become. By spamming cheap monuments across your empire, you'll be able to stay competitive in culture and happiness with taller empires. Make sure you found or conquer lots of cities to get the maximum bonus from this building!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_US_COLUMN_TEXT">
+			<Text>A variety of cultures used triumphal columns to celebrate their victories; of these cultures, the Romans were probably the most prolific and influential column-builders. Trajan's Column, built in AD 107-113 to commemorate his victory in the Dacian Wars, was a particularly famous example. A spiral bas-relief around the column forms an artistic depiction of the Dacian Wars, and a statue of Trajan topped the piece. The design of Trajan's column inspired many subsequent triumphal columns, including the Column of Marcus Aurelius (ca. 190) and the Column of Theodosius (ca. 390).</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_US_ROME_TRAJAN_DESCRIPTION">
+			<Text>TWO-SICILIES (FERDINAND I)[NEWLINE][NEWLINE]UNIQUE TRAIT: PRIDE OF BOURBON SICILY[NEWLINE]Naval Units upgrade automatically as new [ICON_RESEARCH] Technologies are discovered. Receive a free Naval Unit when a Cargo Ship is built or purchased.[NEWLINE][NEWLINE]UNIQUE BUILDING: WINE CELLAR (BANK)[NEWLINE]The Wine Cellar is a unique Bank replacement for the Two Sicilies. It improves the range and [ICON_GOLD] Gold output of Land and Sea Trade Routes, in addition to the standard [ICON_GOLD] Gold bonuses that it provides as a Bank. Build Wine Cellars wherever your most lucrative trade hubs are located to turn them into prosperous ventures.[NEWLINE][NEWLINE]UNIQUE UNIT: STEAM FRIGATE (FRIGATE)[NEWLINE]The Steam Frigate is the unique unit for the Two Sicilies. Unlike the Frigate that it replaces, the Steam Frigate can move at double the normal speed through Coastal Tiles. It also begins with additional [ICON_MOVES] Movement that carries on after upgrade and it can be moved immediately if purchased with [ICON_GOLD] Gold. Deploy Steam Frigates along your coastlines to ensure the safety of your seas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_US_SINGULARES">
+			<Text>Praetorian Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_US_SINGULARES_HELP">
+			<Text>+1 Moves and +15% combat strength when near a barbarian encampment.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- JFD's SOVEREIGNTY -->	
+		<!--Unique Title-->
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TRIBE_TITLE_GOVERNMENT_DMS_DERVISH">
+			<Text>Qabiil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TRIBE_TITLE_LEADER_DMS_DERVISH">
+			<Text>Suldaan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_PRINCIPALITY_TITLE_GOVERNMENT_DMS_DERVISH">
+			<Text>Gobolka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_PRINCIPALITY_TITLE_LEADER_DMS_DERVISH">
+			<Text>Ina Boqor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_MONARCHY_TITLE_GOVERNMENT_DMS_DERVISH">
+			<Text>Boqortooyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_MONARCHY_TITLE_LEADER_DMS_DERVISH">
+			<Text>Sayyid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_EMPIRE_TITLE_GOVERNMENT_DMS_DERVISH">
+			<Text>Boqortooyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_EMPIRE_TITLE_LEADER_DMS_DERVISH">
+			<Text>Boqor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_COMMONWEALTH_TITLE_GOVERNMENT_DMS_DERVISH">
+			<Text>Xoolocaadi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_REPUBLIC_TITLE_GOVERNMENT_DMS_DERVISH">
+			<Text>Jamhuuriyadda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_REPUBLIC_TITLE_LEADER_DMS_DERVISH">
+			<Text>Imam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_REPUBLIC_TITLE_LEADER_LATE_DMS_DERVISH">
+			<Text>Imam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_FEDERATION_TITLE_GOVERNMENT_DMS_DERVISH">
+			<Text>Xiriirka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_DICTATORSHIP_TITLE_LEADER_DMS_DERVISH">
+			<Text>Emir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_DMS_DERVISH">
+			<Text>Khususi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_OFFICE_DMS_DERVISH">
+			<Text>Caliph</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_1">
+			<Text>Sultan Nur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_2">
+			<Text>Hajji Suudi Shahrelle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_3">
+			<Text>Muhammed Ali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_4">
+			<Text>Abdullah Shihiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_5">
+			<Text>Amir Hassan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_6">
+			<Text>Muhammed Salih</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_7">
+			<Text>Muhammed Qulid al-Rahisdi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_8">
+			<Text>Isma'il  ibn Ishaq al-Urwayni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_9">
+			<Text>Ali Nairobi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_10">
+			<Text>Adballah Hassan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_11">
+			<Text>Hirsi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_12">
+			<Text>Muhammed Zubayr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_13">
+			<Text>Yusuf Ali Kenadid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_14">
+			<Text>Boqor 'Uthman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_15">
+			<Text>'Abdi Gafle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_16">
+			<Text>Abdallah Koryo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_17">
+			<Text>Ali Sa'id Pasha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_18">
+			<Text>Mehmet Ali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_19">
+			<Text>Mahmud bin Yusuf al-Warsanghani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_20">
+			<Text>Uways bin Muhammed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_21">
+			<Text>Qasim al-Barawi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_22">
+			<Text>Abdallah ibn Mu'lliam Yusuf al-Qutbi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_23">
+			<Text>Mohamed Abdullahi Mohamed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_24">
+			<Text>Abdiqasim Salad Hassan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_AOI_DERVISH_25">
+			<Text>Omar Abdirashid Ali Sharmarke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_CHANCELLOR_DESC_AOI_DERVISH">
+			<Text>Boqortiishe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_MARSHAL_DESC_AOI_DERVISH">
+			<Text>Qadi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_HERALD_DESC_AOI_DERVISH">
+			<Text>Muqaddim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_STEWARD_DESC_AOI_DERVISH">
+			<Text>Wazir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FACTION_JFD_NATIONALIST_AOI_DERVISH">
+			<Text>Ogadeen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FACTION_JFD_POPULARIST_AOI_DERVISH">
+			<Text>Dolbahanta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_REVOLUTIONARY_AOI_DERVISH">
+			<Text>Ishaaks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_BURGHERS_AOI_DERVISH">
+			<Text>Khadira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_CLERGY_AOI_DERVISH">
+			<Text>Shaykh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_NOBILITY_AOI_DERVISH">
+			<Text>Gobta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_COMMUNIST_AOI_DERVISH">
+			<Text>Work and Socialism Party </Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_CONSERVATIVE_AOI_DERVISH">
+			<Text>Daljir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_FASCIST_AOI_DERVISH">
+			<Text>Tariqah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERAL_AOI_DERVISH">
+			<Text>Cahdi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERTARIAN_AOI_DERVISH">
+			<Text>Tayo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_SOCIALIST_AOI_DERVISH">
+			<Text>Xisbiga Ummadda Somaliyeed</Text>
+		</Row>
+		<!-- RYOGA's UNIQUE CULTURAL INFLUENCE -->
+		<Row Tag="TXT_KEY_GENERIC_CIVILIZATION_AOI_DERVISH_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now taking courses in "Advanced Fortress Building" and "Rude Letter Writing 101". I worry the rest of the world will also succumb to the influence of your culture."</Text>
+		</Row>
+		<!-- SUKRITACT's DECISIONS -->
+		<!--Fortify Taleh-->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_DERVISH_FORTIFY_TALEH">
+			<Text>Fortify Taleh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_DERVISH_FORTIFY_TALEH_DESC">
+			<Text>
+				Our [ICON_CAPITAL] Capital is still but a town. We should build new fortresses and walls to fortify it, thus preventing it from falling into enemy hands.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Dervish State
+				[NEWLINE][ICON_BULLET]Player must be at War
+				[NEWLINE][ICON_BULLET]Player must have reached the Industrial era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive an Engineer Specialist slot in the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]+1 [ICON_PRODUCTION] Production from Engineer specialists
+				[NEWLINE][ICON_BULLET]+1 [ICON_PRODUCTION] Production from Forts
+				[NEWLINE][ICON_BULLET]+2 [ICON_PRODUCTION] Production from Citadels
+				[NEWLINE][ICON_BULLET]+25% [ICON_PRODUCTION] Production when building militaristic buildings
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_DERVISH_FORTIFY_TALEH_ENACTED_DESC">
+			<Text>
+				Our [ICON_CAPITAL] Capital is still but a town. We should build new fortresses and walls to fortify it, thus preventing it from falling into enemy hands.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive an Engineer Specialist slot in the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]+1 [ICON_PRODUCTION] Production from Engineer specialists
+				[NEWLINE][ICON_BULLET]+1 [ICON_PRODUCTION] Production from Forts
+				[NEWLINE][ICON_BULLET]+2 [ICON_PRODUCTION] Production from Citadels
+				[NEWLINE][ICON_BULLET]+25% [ICON_PRODUCTION] Production when building militaristic buildings
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_DECISIONS_DMS_DERVISH_FORTIFY_TALEH">
+			<Text>Abdullah Hassan has fortified his Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DMS_DERVISH_FORTIFY_TALEH">
+			<Text>+25% [ICON_PRODUCTION] Production when building militaristic buildings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_DERVISH_FORTIFY_TALEH">
+			<Text>Fortify Taleh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_DERVISH_FORTIFY_TALEH_HELP">
+			<Text>Enacting the Fortify Taleh decision provides 1 Engineer Specialist slot as well as +1 [ICON_PRODUCTION] Production from Engineer specialists</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_DERVISH_FORTIFY_TALEH_PEDIA">
+			<Text>Fortify Taleh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_DERVISH_FORTIFY_TALEH_STRATEGY">
+			<Text>Enacting the Fortify Taleh decision provides 1 Engineer Specialist slot as well as +1 [ICON_PRODUCTION] Production from Engineer specialists</Text>
+		</Row>
+		<!--Establish Trade Hegemony-->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_DERVISH_TRADE_HEGEMONY">
+			<Text>Establish Trade Hegemony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_DERVISH_TRADE_HEGEMONY_DESC">
+			<Text>
+				We live in a strategic location where many caravans pass - caravans owned by our rivals. They bring in much gold and fine wares. We should put these trade route under our hegemony, to further our goals.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Dervish State
+				[NEWLINE][ICON_BULLET]Player must have reached the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The [ICON_CAPITAL] Capital's production is rushed whenever you plunder a Trade Route
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_DERVISH_TRADE_HEGEMONY_ENACTED_DESC">
+			<Text>
+				We live in a strategic location where many caravans pass - caravans owned by our rivals. They bring in much gold and fine wares. We should put these trade route under our hegemony, to further our goals.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The [ICON_CAPITAL] Capital's production is rushed whenever you plunder a Trade Route
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_DECISIONS_DMS_DERVISH_TRADE_HEGEMONY">
+			<Text>The Dervishes have begun "redirecting" trade routes to their cities.</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- Institution of the Hed Kaldig -->
+		<Row Tag="TXT_KEY_EVENT_DMS_INSTITUTION_OF_THE_HED_KALDIG">
+			<Text>Institution of the Hed Kaldig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_INSTITUTION_OF_THE_HED_KALDIG_DESC">
+			<Text>While many remain loyal to us our prestigious King, some rather swear fealty to treachery and fiendishness. Some of these traitors are locked up behind bars, and must be appropriated with sincere and decisive action. Our advisors suggest we should institute an official execution field for them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_INSTITUTION_OF_THE_HED_KALDIG_OUTCOME_1">
+			<Text>Let’s do it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_INSTITUTION_OF_THE_HED_KALDIG_OUTCOME_2">
+			<Text>No, they are still our brothers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_INSTITUTION_OF_THE_HED_KALDIG_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_GoldenAge} [ICON_GOLDEN_AGE] Golden Age points[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Permanent reduction to Enemy Spy efficiency in all Cities[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_INSTITUTION_OF_THE_HED_KALDIG_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET]Nothing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_INSTITUTION_OF_THE_HED_KALDIG_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>By creating an official execution field for traitors befallen to treachery and fiendishness, we have scared away foreign spies and the like.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_INSTITUTION_OF_THE_HED_KALDIG_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>The traitors will stay locked up for the time being.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DMS_WORLD_EVENTS_DERVISH_INSTITUTION_OF_THE_HED_KALDIG_1">
+			<Text>In the Dervish State an official execution field has been created to deal with those who do not love their most prestigious King.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DMS_WORLD_EVENTS_DERVISH_INSTITUTION_OF_THE_HED_KALDIG_2">
+			<Text>World event text - not used - can delete.</Text>
+		</Row>
+		<!--The Foreign Letter-->
+		<Row Tag="TXT_KEY_EVENT_DMS_THE_FOREIGN_LETTER">
+			<Text>The Foreign Letter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_THE_FOREIGN_LETTER_DESC">
+			<Text>A foreign statesman from the City-State of {1_CS} has sent us a letter. It contains highly rude and unjust accusations of theft of an official gun. This gun was, in fact, bought from some of his soldiers, who have obviously lied to their commander.[NEWLINE]What should we do about this?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_THE_FOREIGN_LETTER_OUTCOME_1">
+			<Text>Write a rude message back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_THE_FOREIGN_LETTER_OUTCOME_2">
+			<Text>Admit to the theft.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_THE_FOREIGN_LETTER_OUTCOME_3">
+			<Text>Ignore it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_THE_FOREIGN_LETTER_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_influence} [ICON_INFLUENCE] Influence with {2_CS}[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {3_GoldenAge} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_THE_FOREIGN_LETTER_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_GoldenAge} [ICON_GOLDEN_AGE] Golden Age points[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_influence} [ICON_INFLUENCE] Influence with {3_CS}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_THE_FOREIGN_LETTER_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET]Nothing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_THE_FOREIGN_LETTER_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have replied the foreign statesman with a letter even more rude! This has damaged our relationship with {1_CS}, but also contributed to our path towards a Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_THE_FOREIGN_LETTER_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>Admitting to false accusations has halted our progress on the path towards a Golden Age, but our influence with {1_CS} has improved greatly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_THE_FOREIGN_LETTER_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have chosen to ignore the letter from {1_CS}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_DMS_THE_FOREIGN_LETTER_OUTCOME_RESULT_1">
+			<Text>In The Dervish State writing rude letters to foreign statesmen has become a national activity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_DMS_THE_FOREIGN_LETTER_OUTCOME_RESULT_2">
+			<Text>The Dervish State and the City-State of {1_CS} has recently been getting along very well!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_DMS_THE_FOREIGN_LETTER_OUTCOME_RESULT_3">
+			<Text>World event text - not used - can delete.</Text>
+		</Row>
+		<!-- VICEVIRTUOSO's WISH FOR THE WORLD -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_CIVILIZATION_AOI_DERVISH">
+			<Text>Hasna Doreh</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

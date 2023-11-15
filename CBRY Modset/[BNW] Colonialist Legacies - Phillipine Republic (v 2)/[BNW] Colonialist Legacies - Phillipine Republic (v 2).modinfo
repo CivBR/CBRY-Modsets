@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2b5ad645-8094-4ed7-a488-1e49eb9277aa" version="2">
+  <Properties>
+    <Name>[BNW] Colonialist Legacies - Phillipine Republic</Name>
+    <Teaser>Adds the Philippine Civilization to Brave New World, with José Rizal as its leader!</Teaser>
+    <Description>Adds the Philippine Civilization to Brave New World, with José Rizal as its leader!</Description>
+    <Authors>JFD, TPangolin</Authors>
+    <SpecialThanks>Neirai, Veregel, LastSword, Sasquatch</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="9FE739B6A9BACBC200A1E62C1D59681B" import="0">Art/ArtDefines.sql</File>
+    <File md5="3A78A3CB9D078C8E333226853DA656F6" import="1">Art/Graphics/sv_Katipunero.dds</File>
+    <File md5="632807357574C2C8D64639D3225C911C" import="1">Art/Graphics/u_katipunero.fxsxml</File>
+    <File md5="FB9CD6C35DC01F8B63D5CF161155320A" import="1">Art/Graphics/u_katipunero.gr2</File>
+    <File md5="763A34E6DF90192BE21979DE3CA13E82" import="1">Art/Graphics/u_katipunero_d.dds</File>
+    <File md5="7F34A859B8DB1EB407361019B1F869A9" import="1">Art/Graphics/u_katipunero_s.dds</File>
+    <File md5="09A2F01494AC479786EA708D37070D7A" import="1">Art/IconAtlas/JFD_PhilippinesAlphaAtlas_128.dds</File>
+    <File md5="90CD0C678DB46C7C667A09BB9E2A0709" import="1">Art/IconAtlas/JFD_PhilippinesAlphaAtlas_16.dds</File>
+    <File md5="84D43A83F420E5E4365EBAF4F7D46D90" import="1">Art/IconAtlas/JFD_PhilippinesAlphaAtlas_24.dds</File>
+    <File md5="A7139E395E7661A6139C9E18B1D017B7" import="1">Art/IconAtlas/JFD_PhilippinesAlphaAtlas_32.dds</File>
+    <File md5="3C5E3E2FD9C29B347E56C4A1F7B91958" import="1">Art/IconAtlas/JFD_PhilippinesAlphaAtlas_45.dds</File>
+    <File md5="C730512B9A056588B56AAEF96BFBD9C7" import="1">Art/IconAtlas/JFD_PhilippinesAlphaAtlas_48.dds</File>
+    <File md5="270C9B9E07887859D44014931372771A" import="1">Art/IconAtlas/JFD_PhilippinesAlphaAtlas_64.dds</File>
+    <File md5="A6EB687840AC098DBC9A3B6A7ECE73B4" import="1">Art/IconAtlas/JFD_PhilippinesAlphaAtlas_80.dds</File>
+    <File md5="E448F36294EEF196773CFEA156554418" import="1">Art/IconAtlas/JFD_PhilippinesAtlas_128.dds</File>
+    <File md5="073D802ABFDA7F6D96E40FB7E12E3145" import="1">Art/IconAtlas/JFD_PhilippinesAtlas_256.dds</File>
+    <File md5="6C904D0519A1ABA8DEB65CB8C910855F" import="1">Art/IconAtlas/JFD_PhilippinesAtlas_32.dds</File>
+    <File md5="4F4C5CAE9451784753A440DC8FABCE05" import="1">Art/IconAtlas/JFD_PhilippinesAtlas_45.dds</File>
+    <File md5="F8CCA9ADBDEDCC97F3A2E9DC76AE48BF" import="1">Art/IconAtlas/JFD_PhilippinesAtlas_64.dds</File>
+    <File md5="AB984CDEA440C9440DD4DFEC3D1571B8" import="1">Art/IconAtlas/JFD_PhilippinesAtlas_80.dds</File>
+    <File md5="4B6B5ECBB07166461DC1114D5258980E" import="1">Art/IconAtlas/Unit_Katipunero_Flag_32.dds</File>
+    <File md5="CB7B390A73B52772EF0130BB7E48BD37" import="1">Art/Leaderscene/Rizal_Scene.xml</File>
+    <File md5="8B833261D231596D4913071FA8D7ACFD" import="1">Art/Leaderscene/Rizal_Diplo.dds</File>
+    <File md5="71A2D4707460F99EE69DC4BD8E31423E" import="1">Art/Map/PhillipinesMap512.dds</File>
+    <File md5="CFAFF07438D9E7E65961C5F544B04F55" import="1">Art/Map/Rizal_DOM.dds</File>
+    <File md5="E7066F6A43463187914EA9368AA25159" import="0">Audio/Audio.sql</File>
+    <File md5="ACC57C61BB0B7476B94ECC9CEEC5C506" import="1">Audio/DOMRizal.mp3</File>
+    <File md5="291C8DD953E2B01DD3B35469A81D2A96" import="1">Audio/RizalPeace.mp3</File>
+    <File md5="B3E2A1FBA8A00C5117F89E503EDBBED2" import="1">Audio/RizalWar.mp3</File>
+    <File md5="8AB3F659DFC476CD47CA8C17C4FA108F" import="0">Core/Buildings.sql</File>
+    <File md5="AD58E7D91095E29B3DC170D59456BB1F" import="0">Core/Civilizations.sql</File>
+    <File md5="0A075C4747CB7A7A7247817C77992C91" import="1">Core/Decisions.xml</File>
+    <File md5="73F72C2BEEDFAB354404DA2F003B78AA" import="0">Core/DecisionsSupport.sql</File>
+    <File md5="0F9AE13A19821DB3CDB29DED89122DD7" import="0">Core/Diplomacy.sql</File>
+    <File md5="A8D25C5EE82D520C1AB1A4B79E1C146A" import="0">Core/GameText.xml</File>
+    <File md5="0656D69CA86364207F5B4A390277021A" import="0">Core/Leaderhead.sql</File>
+    <File md5="CDA9D0C4BBD414EC2DBCDD79D4E3543B" import="0">Core/MinorCivilizations.sql</File>
+    <File md5="17AB627DE143F207E5A3EC0C1D1B4138" import="0">Core/PlayerColours.sql</File>
+    <File md5="FEE1B5F71847E93DA02884E8E4741E9B" import="0">Core/Promotions.sql</File>
+    <File md5="E6D8D8F9BB1280A099EDA2BCAC1B123A" import="0">Core/Traits.sql</File>
+    <File md5="A8E1F66B060BD152DA37BCC39E438371" import="0">Core/TSL.sql</File>
+    <File md5="9D27050F388FA35988BBE0E83F7CA8F8" import="0">Core/Units.sql</File>
+    <File md5="FE6E83CF097B5C5909D21166D43CA067" import="1">Lua/FilopinoDecisions.lua</File>
+    <File md5="38D3682C6135D92228B579733CB09AE6" import="0">Lua/Philippine_Functions.lua</File>
+    <File md5="7C83BC818781F9DFFDA2B2A06BC8978F" import="1">Lua/TableSaverLoader016.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DecisionsSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MinorCivilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/TSL.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Philippine_Functions.lua">
+      <Name>Phillipine_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

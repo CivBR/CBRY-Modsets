@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_FERTILITY_RITES</Type>
+			<Description>TXT_KEY_BELIEF_FERTILITY_RITES</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FERTILITY_RITES_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+			<RiverHappiness>1</RiverHappiness>
+		</Row>
+	</Beliefs>
+
+	<Belief_BuildingClassYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_FERTILITY_RITES</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_WATERMILL</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FERTILITY_RITES</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_AQUEDUCT</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+	</Belief_BuildingClassYieldChanges>
+
+	<Language_en_US>
+	<Delete Tag="TXT_KEY_BELIEF_FERTILITY_RITES" />
+		<Row Tag="TXT_KEY_BELIEF_FERTILITY_RITES">
+			<Text>+1 [ICON_FOOD] Food from Aqueducts and Water Mills. +1 Happiness from Cities on Rivers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FERTILITY_RITES">
+			<Text>Fertility Rites</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

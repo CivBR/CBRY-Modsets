@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Buildings>
+		<Update>
+			<Set ConquestProb="66" FaithCost="225" Happiness="0" GreatWorksTourismModifier="0" GreatWorkCount="0" Help="TXT_KEY_BUILDING_CATHDEDRAL_HELP" />
+			<Where Type="BUILDING_CATHEDRAL" />
+		</Update>
+	</Buildings>
+	
+	<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+	<SpecialistCount>1</SpecialistCount>
+
+	<Building_YieldChanges>
+		<Update>
+			<Set Yield="0" />
+			<Where BuildingType="BUILDING_CATHEDRAL" YieldType="YIELD_CULTURE" />
+		</Update>
+		<Row>
+			<BuildingType>BUILDING_CATHEDRAL</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CATHEDRAL</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_CATHEDRALS" />
+		<Row Tag="TXT_KEY_BELIEF_CATHEDRALS">
+			<Text>Use [ICON_PEACE] Faith to purchase Cathedrals (+2 [ICON_CULTURE] Gold, +2 [ICON_PEACE] Faith, 1 Engineer Specialist)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CATHDEDRAL_HELP">
+			<Text>+50% [ICON_TOURISM] Tourism output from Great Works.</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

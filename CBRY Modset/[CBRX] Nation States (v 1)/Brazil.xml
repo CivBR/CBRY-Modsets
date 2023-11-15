@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_BRAZIL">
+			<Text>Brazil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_BRAZIL_ADJ">
+			<Text>Brazilian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_BRAZIL_1">
+			<Text>Rio de Janeiro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_BRAZIL_2">
+			<Text>São Paulo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_BRAZIL_3">
+			<Text>Salvador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_BRAZIL_4">
+			<Text>Brasília</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_BRAZIL_5">
+			<Text>Fortzleza</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_BRAZIL</Type>
+			<Description>TXT_KEY_MINOR_CIV_BRAZIL</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_BRAZIL</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_BRAZIL_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_BRAZIL</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_SOUTH_AMERICA</ArtStyleType>
+			<ArtStylePrefix>AMERICAN</ArtStylePrefix>
+			<ArtStyleSuffix>_AMER</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+<!--FLAVOR_RELIGION:          Religious=10, other=3 
+<!--FLAVOR_CULTURE:           Cultured=10, other=3 
+<!--FLAVOR_GOLD:              Mercantile=10, other=3 
+<!--FLAVOR_NAVAL:             Maritime=8, other=3 
+<!--FLAVOR_GROWTH:            Maritime=8, other=3 
+<!--FLAVOR_CITY_DEFENSE:      Militaristic=7, other=3
+<!--FLAVOR_DEFENSE:           Militaristic=7, other=3
+<!--FLAVOR_OFFENSE:           Militaristic=7, other=3 
+<!--FLAVOR_MILITARY_TRAINING: Militaristic=7, other=3 --> 
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_BRAZIL_ICON</Type>
+            <Red>0.58</Red>
+            <Green>0.941</Green>
+            <Blue>0</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_BRAZIL_BACKGROUND</Type>
+            <Red>0.474</Red>
+            <Green>0.443</Green>
+            <Blue>0.188</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_BRAZIL</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_BRAZIL_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_BRAZIL_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_BRAZIL_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_BRAZIL_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_BRAZIL_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRAZIL</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_BRAZIL_5</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

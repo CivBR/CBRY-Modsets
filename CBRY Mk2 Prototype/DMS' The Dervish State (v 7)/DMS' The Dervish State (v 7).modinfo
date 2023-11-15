@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f22b8f9e-6d2b-4374-8fd4-a963dba47604" version="7">
+  <Properties>
+    <Name>DMS' The Dervish State</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]The Dervish State[ENDCOLOR] led by Mohammed Abdullah Hassan to the game.</Teaser>
+    <Description>See more on civfanatics.com</Description>
+    <Authors>Zantonius Hamm, OrderOfOlav, Civitar, DMS, TarcisioCM, TPangolin</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events and Decisions" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="The Enlightenment Era" />
+    <Mod id="237d8bb2-bc30-4a8a-a0cf-e8ff1f71f8cd" minversion="0" maxversion="999" title="Sukritact's Modular City Info Stack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Rise to Power" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's and Pouakai's Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's CLAIMS AND COLONIES" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="085C8924FDC6B011CE174577DF3047E7" import="1">Art/Diplomacy/AbdullahHassan_Diplo.xml</File>
+    <File md5="A11DE49012CFAB9E7657CC3B3380D254" import="1">Art/Diplomacy/AbdullahHassan_Diplo.dds</File>
+    <File md5="30D5DB543DDBC33B41FC926BC7C98367" import="1">Art/Graphics/sv_u_dervish_maara_weyn.dds</File>
+    <File md5="CBAB7CC4D51BDD39E98E809BA7D86DD8" import="1">Art/Graphics/u_dervish_maara_weyn.fxsxml</File>
+    <File md5="00FA63B8A62802B0BE1B8A3F9B0803C7" import="1">Art/Graphics/u_dervish_maara_weyn.gr2</File>
+    <File md5="7208BB593C17E2D22A5A2D838BFD355F" import="1">Art/Graphics/u_dervish_maara_weyn_diff.dds</File>
+    <File md5="41ED0E5DB1FDFB973D91013555AA28B2" import="1">Art/Graphics/u_dervish_maara_weyn_sref.dds</File>
+    <File md5="1C4566553B46ACC913D1E30E7DA911AB" import="1">Art/IconAtlas/AoI_DervishAlphaIconAtlas128.dds</File>
+    <File md5="8C75450150E4CEE23F0B33F8E3F34648" import="1">Art/IconAtlas/AoI_DervishAlphaIconAtlas16.dds</File>
+    <File md5="959ACC8AE261CCFA31EE2719F70026CE" import="1">Art/IconAtlas/AoI_DervishAlphaIconAtlas24.dds</File>
+    <File md5="123862C5704E4C258DBD60E308BFC728" import="1">Art/IconAtlas/AoI_DervishAlphaIconAtlas32.dds</File>
+    <File md5="5680B138E16BB18A74EF6680FF5070A0" import="1">Art/IconAtlas/AoI_DervishAlphaIconAtlas45.dds</File>
+    <File md5="27C81775F09A45638AC1A848E8FD4612" import="1">Art/IconAtlas/AoI_DervishAlphaIconAtlas48.dds</File>
+    <File md5="7D243AD55E79D8F1A0B83D184D8378CC" import="1">Art/IconAtlas/AoI_DervishAlphaIconAtlas64.dds</File>
+    <File md5="E8EA776ED866CF1A5452A4E0F47CF510" import="1">Art/IconAtlas/AoI_DervishAlphaIconAtlas80.dds</File>
+    <File md5="3DE7964A5B82C42C0F6D28EB5F4A3FA8" import="1">Art/IconAtlas/AoI_DervishIconAtlas128.dds</File>
+    <File md5="E4D1ECDEF55038F635A8729F11EADBBA" import="1">Art/IconAtlas/AoI_DervishIconAtlas256.dds</File>
+    <File md5="0043EFD49152DDE494F35C21042D66CE" import="1">Art/IconAtlas/AoI_DervishIconAtlas32.dds</File>
+    <File md5="FE6E5148E0394DCFD3931051D6B39E78" import="1">Art/IconAtlas/AoI_DervishIconAtlas45.dds</File>
+    <File md5="B79D0F386834EA7C632235B4A98B51D5" import="1">Art/IconAtlas/AoI_DervishIconAtlas64.dds</File>
+    <File md5="67A7B4F47050FA73759412260B3C4448" import="1">Art/IconAtlas/AoI_DervishIconAtlas80.dds</File>
+    <File md5="FE993C38FB5D5C745548103E5628F896" import="1">Art/IconAtlas/AoI_DervishUnitFlagAtlas32.dds</File>
+    <File md5="307A7490FE17F8E3949856F9743A2C50" import="1">Art/Map/AoI_DervishDOM.dds</File>
+    <File md5="E3852C2738AEA2175F431017AD44D627" import="1">Art/Map/AoI_DervishMap.dds</File>
+    <File md5="8F774C46BA5ACBD129101D7D608E78E5" import="1">Audio/AbdullahHassan_Peace.mp3</File>
+    <File md5="6A5469C8312F897E1BF6B0C320AF50F7" import="1">Audio/AbdullahHassan_War.mp3</File>
+    <File md5="04D79293E864A3B369A7A8457534A54A" import="0">Core/DMS_Dervish_ArtDefines.sql</File>
+    <File md5="342A6AAAA07EB78749359C864E13E075" import="0">Core/DMS_Dervish_GameDefines.sql</File>
+    <File md5="ADC471FF780B05CEF42F8082BA67F458" import="0">Core/DMS_Dervish_GameDefines_Diplomacy.sql</File>
+    <File md5="1432147638F3DA368D59046A87BC34DF" import="0">Core/DMS_Dervish_GameDefines_ModSupport.sql</File>
+    <File md5="7DE90266C3DBC51389D78E03D36FC4DD" import="0">Core/DMS_Dervish_GameText.xml</File>
+    <File md5="A15A4EA4ECD70E0EBA2E7664B8ACFA66" import="0">Core/DMS_Dervish_GameText_Diplomacy.xml</File>
+    <File md5="C20BD97C374B2B32E5E272B6B179D80D" import="0">Core/DMS_Dervish_GameText_ModSupport.xml</File>
+    <File md5="FC6E117C75835973F759656BB4F6EF97" import="0">DeleteMissingReferences.xml</File>
+    <File md5="944B4C17B402B050D2352FF8047C2118" import="0">DMS_DervishState_UserSettings.sql</File>
+    <File md5="71882D1C1123987D0EA69DC18397C8CA" import="1">Lua/DervishStateDecisions.lua</File>
+    <File md5="AF6325004E702BC7B78B349042BAC4F4" import="1">Lua/DervishStateEvents.lua</File>
+    <File md5="EB09268352C9807CC55C2820210A75FA" import="0">Lua/DervishStateFunctions.lua</File>
+    <File md5="B6EC8CF5BB3AEE500C218DF871077BB9" import="0">Lua/Utilities/CivilopediaScreen.lua</File>
+    <File md5="4D04833C7FFE2DF2CC4105CE25DBD7E7" import="0">Lua/Utilities/EnemyUnitPanel.lua</File>
+    <File md5="0586C7E2959BBBF74FAC3814DBC2E014" import="0">Lua/Utilities/JFD's DTP/JFD_TopPanelUpdated.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.xml</File>
+    <File md5="F0326777BF39067C03862FA01F794B1E" import="0">Lua/Utilities/UnitPanel.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DMS_Dervish_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Dervish_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Dervish_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Dervish_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Dervish_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Dervish_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Dervish_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+      <UpdateDatabase>DMS_DervishState_UserSettings.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DervishStateFunctions.lua">
+      <Name>DervishStateFunctions.lua</Name>
+      <Description>DervishStateFunctions.lua</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

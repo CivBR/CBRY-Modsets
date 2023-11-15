@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+	
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_FORS_FORTUNA</Type>
+			<Description>TXT_KEY_BELIEF_FORS_FORTUNA</Description>
+			<ShortDescription>TXT_KEY_BELIEF_FORS_FORTUNA_SHORT</ShortDescription>
+			<Enhancer>true</Enhancer>
+		</Row>
+	</Beliefs>
+	<Belief_ImprovementYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_FORS_FORTUNA</BeliefType>
+			<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FORS_FORTUNA</BeliefType>
+			<ImprovementType>IMPROVEMENT_FW_HYDROPONICS_DOME</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FORS_FORTUNA</BeliefType>
+			<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_FORS_FORTUNA</BeliefType>
+			<ImprovementType>IMPROVEMENT_FW_HYDROPONICS_DOME</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Belief_ImprovementYieldChanges>
+	
+	
+	<Language_en_US>
+	 <Delete Tag="TXT_KEY_BELIEF_FORS_FORTUNA" />
+		<Row Tag="TXT_KEY_BELIEF_FORS_FORTUNA">
+			<Text>+2 [ICON_GOLD] Gold, and +2 [ICON_CULTURE] Culture for Farms and Hydroponic Domes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_FORS_FORTUNA_SHORT">
+			<Text>Fors Fortuna</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

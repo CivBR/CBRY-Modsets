@@ -1,0 +1,14 @@
+-- --==========================================================================================================================
+-- -- UnitPromotions
+-- --==========================================================================================================================	
+-- INSERT INTO UnitPromotions 
+-- 			(Type, 								Description, 								Help, 												Sound, 				CannotBeChosen, LostWithUpgrade,	AttackMod,	PortraitIndex, 	IconAtlas, 						PediaType, 			PediaEntry)
+-- VALUES		('PROMOTION_JFD_KATIPUNAN', 		'TXT_KEY_PROMOTION_JFD_KATIPUNAN',			'TXT_KEY_PROMOTION_JFD_KATIPUNAN_HELP', 			'AS2D_IF_LEVELUP', 	1, 				0, 					25,			59, 			'ABILITY_ATLAS', 				'PEDIA_ATTRIBUTES', 'TXT_KEY_PROMOTION_JFD_KATIPUNAN');
+-- --==========================================================================================================================
+-- -- UnitPromotions_UnitCombats
+-- --==========================================================================================================================	
+-- INSERT INTO UnitPromotions_UnitCombats 
+-- 			(PromotionType, 			UnitCombatType)
+-- VALUES		('PROMOTION_JFD_KATIPUNAN', 'UNITCOMBAT_GUN');
+-- --==========================================================================================================================
+-- --==========================================================================================================================

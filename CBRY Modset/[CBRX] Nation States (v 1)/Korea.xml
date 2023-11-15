@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_KOREA">
+			<Text>Korea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_KOREA_ADJ">
+			<Text>Korean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_KOREA_1">
+			<Text>Seoul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_KOREA_2">
+			<Text>Busan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_KOREA_3">
+			<Text>Jeonju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_KOREA_4">
+			<Text>Daegu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_KOREA_5">
+			<Text>Pyongyang</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_KOREA</Type>
+			<Description>TXT_KEY_MINOR_CIV_KOREA</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_KOREA</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_KOREA_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_KOREA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_SOUTH_AMERICA</ArtStyleType>
+			<ArtStylePrefix>AMERICAN</ArtStylePrefix>
+			<ArtStyleSuffix>_AMER</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+<!--FLAVOR_RELIGION:          Religious=10, other=3 
+<!--FLAVOR_CULTURE:           Cultured=10, other=3 
+<!--FLAVOR_GOLD:              Mercantile=10, other=3 
+<!--FLAVOR_NAVAL:             Maritime=8, other=3 
+<!--FLAVOR_GROWTH:            Maritime=8, other=3 
+<!--FLAVOR_CITY_DEFENSE:      Militaristic=7, other=3
+<!--FLAVOR_DEFENSE:           Militaristic=7, other=3
+<!--FLAVOR_OFFENSE:           Militaristic=7, other=3 
+<!--FLAVOR_MILITARY_TRAINING: Militaristic=7, other=3 --> 
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_KOREA_ICON</Type>
+            <Red>0.353</Red>
+            <Green>0.312</Green>
+            <Blue>0.996</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_KOREA_BACKGROUND</Type>
+            <Red>0.474</Red>
+            <Green>0.443</Green>
+            <Blue>0.188</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_KOREA</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_KOREA_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_KOREA_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_KOREA_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_KOREA_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_KOREA_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KOREA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_KOREA_5</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_TREASURY_MANDATE</Type>
+			<Description>TXT_KEY_BELIEF_TREASURY_MANDATE</Description>
+			<ShortDescription>TXT_KEY_BELIEF_TREASURY_MANDATE_SHORT</ShortDescription>
+			<Founder>true</Founder>
+		</Row>
+	</Beliefs>
+
+	  	<Belief_YieldChangePerForeignCity>
+	 	 <Row>
+			<BeliefType>BELIEF_TREASURY_MANDATE</BeliefType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		 </Row>
+	</Belief_YieldChangePerForeignCity>
+
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_TREASURY_MANDATE" />
+		<Row Tag="TXT_KEY_BELIEF_TREASURY_MANDATE">
+			<Text>2 [ICON_GOLD] Gold for each foreign City following this Religion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_TREASURY_MANDATE_SHORT">
+			<Text>Treasury Mandate</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

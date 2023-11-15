@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- JAPAN (MEIJI) -->
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_1">
+			<Text>Tokyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_2">
+			<Text>Osaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_3">
+			<Text>Kyoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_4">
+			<Text>Nagoya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_5">
+			<Text>Kanazawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_6">
+			<Text>Hiroshima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_7">
+			<Text>Yokohama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_8">
+			<Text>Wakayama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_9">
+			<Text>Sendai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_10">
+			<Text>Tokushima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_11">
+			<Text>Hagi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_12">
+			<Text>Shuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_13">
+			<Text>Toyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_14">
+			<Text>Kumamoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_15">
+			<Text>Fukuoka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_16">
+			<Text>Kobe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_17">
+			<Text>Fukui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_18">
+			<Text>Kochi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_19">
+			<Text>Sakai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_20">
+			<Text>Akita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_21">
+			<Text>Matsue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_22">
+			<Text>Niigata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_23">
+			<Text>Takamatsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_24">
+			<Text>Okayama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_25">
+			<Text>Shizuoka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_26">
+			<Text>Nagasaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_27">
+			<Text>Hakodate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_28">
+			<Text>Kagoshima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_29">
+			<Text>Akamazeki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_30">
+			<Text>Amagasaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_31">
+			<Text>Otaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_32">
+			<Text>Kawasaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_33">
+			<Text>Yokosuka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_34">
+			<Text>Sapporo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_35">
+			<Text>Sasebo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_36">
+			<Text>Kokura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_37">
+			<Text>Miyahara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JAPAN_MEIJI_38">
+			<Text>Yahata</Text>
+		</Row>
+		<!--Spy List-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_JAPAN_MEIJI_0">
+			<Text>Kido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_JAPAN_MEIJI_1">
+			<Text>Sakamoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_JAPAN_MEIJI_2">
+			<Text>Saigo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_JAPAN_MEIJI_3">
+			<Text>Ogaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_JAPAN_MEIJI_4">
+			<Text>Yodo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_JAPAN_MEIJI_5">
+			<Text>Kuroishi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_JAPAN_MEIJI_6">
+			<Text>Nobuko</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_JAPAN_MEIJI_7">
+			<Text>Sachiko</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_JAPAN_MEIJI_8">
+			<Text>Masako</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_JAPAN_MEIJI_9">
+			<Text>Nakayama</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- MEIJI -->
+		<Row Tag="TXT_KEY_LEADER_JFD_MEIJI">
+			<Text>Meiji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MEIJI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MEIJI_TEXT_1">
+			<Text>Emperor Meiji, or Meiji the Great, was the 122nd Emperor of Japan according to the traditional order of succession, reigning from February 3, 1867 until his death on July 30, 1912. He presided over a time of rapid change in the Empire of Japan, as the nation quickly changed from a feudal state to a capitalist and imperial world power, characterized by Japan's industrial revolution.[NEWLINE][NEWLINE]At the time of his birth in 1852, Japan was an isolated, pre-industrial, feudal country dominated by the Tokugawa Shogunate and the daimyo, who ruled over the country's more than 250 decentralized domains. By the time of his death in 1912, Japan had undergone a political, social, and industrial revolution at home and emerged as one of the great powers on the world stage. The New York Times summed up this transformation at his funeral in 1912, with the words: "the contrast between that which preceded the funeral car and that which followed it was striking indeed. Before it went old Japan; after it came new Japan."[NEWLINE][NEWLINE]In Japan, the reigning emperor is always referred to as "the Emperor", and since the modern era a deceased emperor is referred to by his particular reign name. The correct usage is thus "the Meiji Emperor". His personal name, which is not used in any formal or official context, was Mutsuhito.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MEIJI_LIVED">
+			<Text>1852-1912</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MEIJI_NAME">
+			<Text>Meiji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MEIJI_TITLES_1">
+			<Text>Meiji the Great</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MEIJI_SUBTITLE">
+			<Text>Emperor of Japan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_MEIJI_TEXT">
+			<Text>May the sun rise with you, beloved Meiji Emperor - ruler of the Empire of Japan. When you ascended to the Chrysanthemum Throne at the age of 15, Japan was but a nation suspended in time; divided by its medieval Shogunates and ignorant of the ever Westernising world. During your reign, Japan would undergo one of the most dramatic shifts in history. Opening her borders to trade with the West, Japan would adapt rapidly to the Industrial Revolution of the previous century, reforming her government, her economy, and her armies to meet the standards of modernity. By the time of your death in 1912, Japan had become one of the foremost powers in Asia, setting the stage for a colonial empire that would come to dominate the Pacific.[NEWLINE][NEWLINE]Great emperor, Japan stands once more divided and alone. Can you unite the Japanese people as one and embrace them in a golden age to last the ages? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!-- IMPERIAL REVERENCE -->
+		<Row Tag="TXT_KEY_TRAIT_JFD_JAPAN_MEIJI">
+			<Text>[ICON_CULTURE] Culture and [ICON_PRODUCTION] Production bonuses from [ICON_GOLDEN_AGE] Golden Ages are doubled. Military Units trained in a [ICON_GOLDEN_AGE] Golden Age begin with 15 more XP.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_JAPAN_MEIJI_SHORT">
+			<Text>Imperial Reverence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_JAPAN_MEIJI_CULTURE_BONUS_TOP_PANEL">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] extra from your Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_JAPAN_MEIJI_PRODUCTION_BONUS_CITY_VIEW_HELP">
+			<Text>[NEWLINE]Your [ICON_GOLDEN_AGE] Golden Age increases [ICON_PRODUCTION] Production by an additional 20%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_JAPAN_MEIJI_GOLDEN_AGE_PRODUCTION">
+			<Text>JFD: Meiji Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_JAPAN_MEIJI_GOLDEN_AGE_PRODUCTION_HELP">
+			<Text>+20% extra [ICON_PRODUCTION] Production from your [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<!-- MIKASA -->
+		<Row Tag="TXT_KEY_UNIT_JFD_MIKASA">
+			<Text>Mikasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MIKASA_TEXT">
+			<Text>Mikasa is a pre-dreadnought battleship built for the Imperial Japanese Navy (IJN) in the late 1890s, and was the only ship of her class. Named after Mount Mikasa in Nara, Japan, the ship served as the flagship of Admiral Tōgō Heihachirō throughout the Russo-Japanese War of 1904–1905, including the Battle of Port Arthur on the second day of the war and the Battles of the Yellow Sea and Tsushima. Days after end of the Russo-Japanese War, Mikasa '​s magazine accidentally exploded and sank the ship. She was salvaged and her repairs took over two years to complete. Afterwards, the ship served coastal defence during World War I and supported Japanese forces during the Siberian Intervention in the Russian Civil War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_MIKASA">
+			<Text>Early Battleship unique to Meiji's Japan. Stronger in friendly borders and generates [ICON_GOLDEN_AGE] Golden Age points during construction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MIKASA_STRATEGY">
+			<Text>The Mikasa is the Japanese replacement for the Battleship. This unit comes earlier than the Battleship, at Replaceable Parts, and has increased [ICON_STRENGTH] Combat Strength in friendly territory. During construction, this unit generates points toward your next [ICON_GOLDEN_AGE] Golden Age, equal to the [ICON_PRODUCTION] Production output during construction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MIKASA">
+			<Text>Nippon Kaigun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MIKASA_HELP">
+			<Text>+25% [ICON_STRENGTH] Combat Strength in [COLOR_POSITIVE_TEXT]friendly[ENDCOLOR] territory.</Text>
+		</Row>
+		<!-- DAIMYO -->
+		<Row Tag="TXT_KEY_UNIT_JFD_DAIMYO">
+			<Text>Daimyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_DAIMYO_TEXT">
+			<Text>The daimyo were the powerful feudal lords in pre-modern Japan who ruled most of the country from their vast, hereditary land holdings. In the term, "dai" literally means "large", and "myō" stands for myōden, meaning private land. Subordinate only to the shogun, daimyo were the most powerful feudal rulers from the 10th century to the middle 19th century in Japan. From the shugo of the Muromachi period through the Sengoku to the daimyo of the Edo period, the rank had a long and varied history. The term "daimyo" is also sometimes used to refer to the leading figures of such clans, also called "lord". It was usually, though not exclusively, from these warlords that a shogun arose or a regent was chosen. Daimyo often hired samurai to guard their land and they paid the samurai in land or food. Relatively few daimyo could afford to pay samurai in money. The daimyo era came to an end soon after the Meiji restoration when Japan adopted the prefecture system in 1871.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_DAIMYO_STRATEGY">
+			<Text>The Daimyo is the unique Great General replacement for Meiji's Japan. This unit should be stationed in a city in the early eras in order to increase the starting experience and [ICON_PRODUCTION] Production of Melee Units. It can also be used to begin a [ICON_GOLDEN_AGE] Golden Age. Expend your Daimyo when they cease to be of any use to your empire's military ambitions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_DAIMYO">
+			<Text>This unique Great General replacement for Meiji's Japan may be stationed in a city in order to increase the starting XP and [ICON_PRODUCTION] Production of Melee Units. It may also be expended to begin a [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DAIMYO">
+			<Text>Daimyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DAIMYO_HELP">
+			<Text>Station this unit in a city to increase starting XP and [ICON_PRODUCTION] Production for Melee Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_DAIMYO_MELEE_BONUSES">
+			<Text>JFD: Daimyo Production/XP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_DAIMYO_MELEE_BONUSES_HELP">
+			<Text>+10 XP and +15% [ICON_PRODUCTION] Production for Melee Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DAIMYO_CITY_VIEW_HELP">
+			<Text>The Daimyo here increases the [ICON_PRODUCTION] Production of Melee Units and increases their starting XP by +10.</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_1">
+			<Text>Shimazu Nariakira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_2">
+			<Text>Abe Tadaaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_3">
+			<Text>Kamei Korenori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_4">
+			<Text>Itakura Shigenori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_5">
+			<Text>Ōmura Sumitada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_6">
+			<Text>Fudai daimyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_7">
+			<Text>Fukushima Masanori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_8">
+			<Text>Gamō Ujisato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_9">
+			<Text>Hayashi Tadataka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_10">
+			<Text>Date Tsunamura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_11">
+			<Text>Dodo Kuranosuke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_12">
+			<Text>Chōsokabe Motochika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_13">
+			<Text>Bessho Nagaharu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_14">
+			<Text>Ichijō Kanesada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_15">
+			<Text>Mimura Iechika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_16">
+			<Text>Ii Naotaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_17">
+			<Text>Maeda Nariyasu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_18">
+			<Text>Mōri Takachika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_19">
+			<Text>Tokugawa Akitake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_20">
+			<Text>Tokugawa Nariaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_21">
+			<Text>Niwa Nagashige</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_22">
+			<Text>Oda Nobunaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_23">
+			<Text>Nabeshima Naotora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_24">
+			<Text>Murakami Yoshikiyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_25">
+			<Text>Mōri Motonari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_26">
+			<Text>Kikkawa Motoharu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_27">
+			<Text>Katagiri Katsumoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_28">
+			<Text>Makino Tadayuki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_29">
+			<Text>Wakisaka Yasuharu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_30">
+			<Text>Yanagisawa Yoshiyasu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_31">
+			<Text>Ukita Hideie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_32">
+			<Text>Toyotomi Hideyoshi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_33">
+			<Text>Uesugi Harunori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_34">
+			<Text>Ōuchi Yoshitaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_35">
+			<Text>Ōoka Tadasuke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_36">
+			<Text>Rokkaku Yoshikata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_37">
+			<Text>Matsudaira Sadanobu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_38">
+			<Text>Sengoku Hidehisa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_39">
+			<Text>Tōdō Takatora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAIMYO_40">
+			<Text>Takeda Katsuyori</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

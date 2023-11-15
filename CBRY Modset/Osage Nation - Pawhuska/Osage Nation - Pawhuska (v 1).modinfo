@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2e92491d-8dfb-4698-b1a6-527a7ac7d96e" version="1">
+  <Properties>
+    <Name>Osage Nation - Pawhuska</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the [COLOR_YIELD_FOOD]Osage Nation led by Chief Pawhuska[ENDCOLOR] to the game.</Teaser>
+    <Description>One of the most famous and dominant Midwest Native American tribes, the Osage, has finally arrived!
+
+Strength of the Spider: Gain a burst of Golden Age Points, equal to 4 percent of the next Golden Age cost, in new or annexed Cities for each Strategic Resources within its borders. During a Golden Age, Units do not require Strategic Resources to Produce.
+
+Odon Warband: Enemy units within 2 tiles of a O-Don War-Band receive a combat penalty, increasing per War Band, max  of 24 percent penalty. Replaces Pikeman
+
+Wathito Worker: Improvements built by Wathito Workers receive bonus Yield on the turn they are built. During a Golden Age working speed is increased by 50 percent. Replaces Worker.</Description>
+    <Authors>Gragg9 / Coiot</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="4DA89401AC785BAA56D400F72EB99924" import="0">Art/.DS_Store</File>
+    <File md5="4D4125D116F7562727E6E762C8A3747C" import="0">Art/._.DS_Store</File>
+    <File md5="8CE3B66EAF3143297C761746126FC644" import="0">Art/._Music</File>
+    <File md5="8CE3B66EAF3143297C761746126FC644" import="0">Art/._Odon256.dds</File>
+    <File md5="8CE3B66EAF3143297C761746126FC644" import="0">Art/._Odon32.dds</File>
+    <File md5="8CE3B66EAF3143297C761746126FC644" import="0">Art/._OdonSV.dds</File>
+    <File md5="325E11C89E0F557AD015260A7C0F1340" import="0">Art/._OsageAlpha1.dds</File>
+    <File md5="2EAA03972E1D124BE87EF6C3F652F6B5" import="0">Art/._OsageAlpha128.dds</File>
+    <File md5="2EAA03972E1D124BE87EF6C3F652F6B5" import="0">Art/._OsageAlpha24.dds</File>
+    <File md5="55D397B7A9B51F11AF8CF1D1BC9D8AA9" import="0">Art/._OsageAlpha256.dds</File>
+    <File md5="2EAA03972E1D124BE87EF6C3F652F6B5" import="0">Art/._OsageAlpha32.dds</File>
+    <File md5="2EAA03972E1D124BE87EF6C3F652F6B5" import="0">Art/._OsageAlpha48.dds</File>
+    <File md5="2EAA03972E1D124BE87EF6C3F652F6B5" import="0">Art/._OsageAlpha64.dds</File>
+    <File md5="CF248519F0CE05B82660A46FF680A174" import="0">Art/._OsageAtlas128.dds</File>
+    <File md5="CF248519F0CE05B82660A46FF680A174" import="0">Art/._OsageAtlas256.dds</File>
+    <File md5="CF248519F0CE05B82660A46FF680A174" import="0">Art/._OsageAtlas32.dds</File>
+    <File md5="CF248519F0CE05B82660A46FF680A174" import="0">Art/._OsageAtlas45.dds</File>
+    <File md5="CF248519F0CE05B82660A46FF680A174" import="0">Art/._OsageAtlas64.dds</File>
+    <File md5="CF248519F0CE05B82660A46FF680A174" import="0">Art/._OsageAtlas80.dds</File>
+    <File md5="54F4BE9DF05FCF5AE930DE3135CE0416" import="0">Art/._OsageDOM.dds</File>
+    <File md5="8CE3B66EAF3143297C761746126FC644" import="0">Art/._OSAGE_DoM.mp3</File>
+    <File md5="8CE3B66EAF3143297C761746126FC644" import="0">Art/._UnitsModels</File>
+    <File md5="1CA5FDF9227BA042235C0F484EC8185F" import="0">Art/._Wathito.dds</File>
+    <File md5="03C4FEDF800FF320EC3B80B1B3AD1AFA" import="0">Art/._WathitoSV.dds</File>
+    <File md5="8CE3B66EAF3143297C761746126FC644" import="0">Art/Music/._OsagePeaceTheme.mp3</File>
+    <File md5="8CE3B66EAF3143297C761746126FC644" import="0">Art/Music/._OsageWarTheme.mp3</File>
+    <File md5="641973307733C1B941CF84127689203C" import="0">Art/Music/OsagePeaceTheme.mp3</File>
+    <File md5="3450E90AA4B94C66166651379065B472" import="0">Art/Music/OsageWarTheme.mp3</File>
+    <File md5="5B6C58A685AFFC56072B53BB7344CBA0" import="0">Art/Odon256.dds</File>
+    <File md5="620507520534258CF5CF2381EA43B3F0" import="0">Art/Odon32.dds</File>
+    <File md5="A05834676035CF66EF9AE23605574266" import="0">Art/OdonSV.dds</File>
+    <File md5="CEA8B3217B74B52966FED1AB2E58E81A" import="0">Art/OsageAlpha1.dds</File>
+    <File md5="9A7FB4D4C4A23AA80C1554C3DB4DCBC1" import="0">Art/OsageAlpha128.dds</File>
+    <File md5="E64E93E0B08F86830888F7C17E460F78" import="0">Art/OsageAlpha24.dds</File>
+    <File md5="C81252A82BD692AB6FD69B787E68F4D5" import="0">Art/OsageAlpha256.dds</File>
+    <File md5="D82C7910CA1B5047DCB225679A03ED79" import="0">Art/OsageAlpha32.dds</File>
+    <File md5="D1CB651D84FB8240FBF0F1705B91AA4B" import="0">Art/OsageAlpha48.dds</File>
+    <File md5="FB322B305439AFFE01D863D97A627CC4" import="0">Art/OsageAlpha64.dds</File>
+    <File md5="13C7B222EBB87B2501C42224636C7C9E" import="0">Art/OsageAtlas128.dds</File>
+    <File md5="2C9E4BB6D12B59E3368A65776BBF8A66" import="0">Art/OsageAtlas16.dds</File>
+    <File md5="3B32DE74F5E4A332A489DB79BDEFE9AF" import="0">Art/OsageAtlas256.dds</File>
+    <File md5="D1DC7ADE7B5C42E45265F430908D3C33" import="0">Art/OsageAtlas32.dds</File>
+    <File md5="331EA93D50DBADF046803698623D221F" import="0">Art/OsageAtlas45.dds</File>
+    <File md5="63370AB09337E75373F2F6BA8D1981DD" import="0">Art/OsageAtlas64.dds</File>
+    <File md5="7EE6AFE7402941A3331A25FC775D2CD0" import="0">Art/OsageAtlas80.dds</File>
+    <File md5="6A3AB953083BD1D996B60E3811B77EEB" import="0">Art/OsageAtlas90.dds</File>
+    <File md5="ACA1500C59B9EA5DB6847020083CE65F" import="0">Art/OsageDOM.dds</File>
+    <File md5="70FE35152494B7BFDD03A1A2638EDC24" import="0">Art/OsageLS.dds</File>
+    <File md5="45EBF6A587E2DB91CFA6E100B12F2009" import="0">Art/OsageMap.dds</File>
+    <File md5="B7A60D52E678634AE258A5058345752D" import="0">Art/OSAGE_DoM.mp3</File>
+    <File md5="8CE3B66EAF3143297C761746126FC644" import="0">Art/UnitsModels/._osage_odon.fxsxml</File>
+    <File md5="8CE3B66EAF3143297C761746126FC644" import="0">Art/UnitsModels/._osage_odon.gr2</File>
+    <File md5="864912A1A567F00503CEA09EB0EF72CA" import="0">Art/UnitsModels/._osage_odon_diff.dds</File>
+    <File md5="8CE3B66EAF3143297C761746126FC644" import="0">Art/UnitsModels/._osage_odon_sref.dds</File>
+    <File md5="867359D95943E0DB44A582A125F3D381" import="0">Art/UnitsModels/osage_odon.fxsxml</File>
+    <File md5="EC4AAEA75728989EF2E497408528C10F" import="0">Art/UnitsModels/osage_odon.gr2</File>
+    <File md5="6B81066AC517B91DC4069AB0C208AED3" import="0">Art/UnitsModels/osage_odon_diff.dds</File>
+    <File md5="11CF80625EA7C4A271D5E2CEFB32D49B" import="0">Art/UnitsModels/osage_odon_sref.dds</File>
+    <File md5="0CDD3AC6826D83C161BFAC2B07FA08AC" import="0">Art/Wathito.dds</File>
+    <File md5="E0742B7ED38E1E1F28BFCCAF8F0D739D" import="0">Art/WathitoSV.dds</File>
+    <File md5="2C2A99337B9AACD8B9118BE936195B6D" import="0">Core/._Game Rules1.xml</File>
+    <File md5="F17E3D2AEECB8C4106821CB001B920AB" import="0">Core/._OsageArtDefines.sql</File>
+    <File md5="A828EB0F22CCB7BF45E32C59F9F8DB98" import="0">Core/._OsageCore.sql</File>
+    <File md5="84BF9D8578A6310072E256D0412A8FAA" import="0">Core/._OsageLeaderscene.xml</File>
+    <File md5="DC15D83F60FA9728557BBE1F1766DF8A" import="0">Core/._OsageText.xml</File>
+    <File md5="73CA2DEC685F3477A712D102EB5AEE1E" import="0">Core/Game Rules1.xml</File>
+    <File md5="DFBF6E3DAB84293198CCE15E380833E4" import="0">Core/OsageArtDefines.sql</File>
+    <File md5="3F7FE9118CFFA621A138211FAC889E89" import="0">Core/OsageCore.sql</File>
+    <File md5="A0E1BF1FBA9AA0C14DB8D2B0ECF8C805" import="0">Core/OsageLeaderscene.xml</File>
+    <File md5="71B27C33AFEBBB6E2209301412B1F57F" import="0">Core/OsageText.xml</File>
+    <File md5="E753A2D6F520A384A48FFF3175980BF4" import="0">LUA/.DS_Store</File>
+    <File md5="4D4125D116F7562727E6E762C8A3747C" import="0">LUA/._.DS_Store</File>
+    <File md5="307190C7EB7A355271041A729AA07416" import="0">LUA/._GoldenAgeLuaEvent.lua</File>
+    <File md5="8CE3B66EAF3143297C761746126FC644" import="0">LUA/._PlotIterators.lua</File>
+    <File md5="B094536A6D8E9E6AAE52017CCCA0C940" import="0">LUA/._UA_StrengthOfTheSpider.lua</File>
+    <File md5="B6ECA560A5F39C3085B2BE0585992949" import="0">LUA/GoldenAgeLuaEvent.lua</File>
+    <File md5="9204A22CC1FD1698D35E4AC2D3354479" import="0">LUA/PlotIterators.lua</File>
+    <File md5="46F44C57CA4F016ABA08F3C146797984" import="0">LUA/UA_StrengthOfTheSpider.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/OsageText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/OsageLeaderscene.xml</UpdateDatabase>
+      <UpdateDatabase>Core/OsageCore.sql</UpdateDatabase>
+      <UpdateDatabase>Core/OsageArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Game Rules1.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/._UA_StrengthOfTheSpider.lua">
+      <Name>UA_OSAGE</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/._PlotIterators.lua">
+      <Name>PlotIter</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/._GoldenAgeLuaEvent.lua">
+      <Name>GAEvent</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

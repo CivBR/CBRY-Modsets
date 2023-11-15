@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="cc3e1671-2832-40dc-9bfd-8e053d3b76b1" version="60">
+  <Properties>
+    <Name>The Timurids (Brave New World)</Name>
+    <Teaser>Adds the Timurids to the base game. Requires the Brave New World expansion.</Teaser>
+    <Description>Adds the Timurids to the base game.
+[NEWLINE][NEWLINE]~~~
+[NEWLINE][NEWLINE]Note: 
+[NEWLINE]- This civilization requires the Brave New World expansion.
+[NEWLINE]- Updates to the mod will most likely break save games. Please do not update until you are ready to begin a new game. 
+[NEWLINE][NEWLINE]~~~
+[NEWLINE][NEWLINE]Leader: Timur
+[NEWLINE][NEWLINE]UA: Jewel of the East
+[NEWLINE][NEWLINE]UU: Tumen
+[NEWLINE][NEWLINE]UB: Maydan</Description>
+    <Authors>Tomatekh</Authors>
+    <SpecialThanks>FramedArchitect, Moriboe, Janboruta, JFD</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=472751</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>60</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="ExCE" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="C. Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="C. Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="Prestiege" />
+  </References>
+  <Blocks>
+    <Mod id="2626e6a3-a0fd-478d-a5ab-0d9dee67ed0a" minversion="0" maxversion="999" title="YnAEMP Patch" />
+  </Blocks>
+  <Files>
+    <File md5="342D068F87FB3D2A912314482A2BB9FF" import="1">Art/Ghazi Skin Mod/Knight_China.blend</File>
+    <File md5="DCEAD473E26D32B903E73771AE1F8D56" import="1">Art/Ghazi Skin Mod/Knight_China.dds</File>
+    <File md5="8F1623F7700F96F5F1F63445F860E3B8" import="1">Art/Ghazi Skin Mod/Knight_China.fxsxml</File>
+    <File md5="76093248416349CC632C122F69D1AAC2" import="1">Art/Ghazi Skin Mod/Knight_China.gr2</File>
+    <File md5="0FF92525112631CDA5AAB671E6761B02" import="1">Art/Ghazi Skin Mod/Knight_China_gloss.dds</File>
+    <File md5="754881107C02349672A75A6BC2A21A70" import="1">Art/Ghazi Skin Mod/Knight_China_Horse.dds</File>
+    <File md5="37E4F7526EDD9ED60400FB6BF5CF47C6" import="1">Art/Ghazi Skin Mod/Knight_China_Horse_gloss.dds</File>
+    <File md5="66005072C7FA418258948E039D60C98D" import="1">Art/Ghazi Skin Mod/sv_ghazi_mod.dds</File>
+    <File md5="DA7918DA76C727DDF096B6D757ECD879" import="1">Art/mapTimurids512.dds</File>
+    <File md5="9A18677BB90686E961A98E61EB6D5AF1" import="1">Art/Missing Building Atlases/BuildingAtlas80.dds</File>
+    <File md5="B8FEF4C18DB2DCFC5E5C35AACC5E6849" import="1">Art/Missing Building Atlases/BuildingPortraits2_80_Exp2.dds</File>
+    <File md5="EA04D9F41364177F6EC647F57DD0EB2A" import="1">Art/Missing Building Atlases/BuildingPortraits80_Exp2.dds</File>
+    <File md5="EBC2740038FBA611B09A380901DBD0AF" import="1">Art/Missing Building Atlases/BuildingPortraits80_Expansion.dds</File>
+    <File md5="B6AAF301B113F4775325110749D33E1A" import="1">Art/Missing Building Atlases/Building_Aqueduct80.dds</File>
+    <File md5="944CBD4DC802B917CB0FCAE178D262A2" import="1">Art/Timurid Alpha Atlas Mod/TimuridsAlphaAtlas128.dds</File>
+    <File md5="FC594F1B54DBC96C517C53FFCF84A5E0" import="1">Art/Timurid Alpha Atlas Mod/TimuridsAlphaAtlas16.dds</File>
+    <File md5="1AD2196F508D7B56F55824DF88BBA2D2" import="1">Art/Timurid Alpha Atlas Mod/TimuridsAlphaAtlas24.dds</File>
+    <File md5="4D35876E9189CDD70B814A8819A6F160" import="1">Art/Timurid Alpha Atlas Mod/TimuridsAlphaAtlas32.dds</File>
+    <File md5="F06C9FC25E0CD4A27842DDDBC6C23890" import="1">Art/Timurid Alpha Atlas Mod/TimuridsAlphaAtlas48.dds</File>
+    <File md5="A331E6DDD59E4C40963E9F73AB6D41D6" import="1">Art/Timurid Alpha Atlas Mod/TimuridsAlphaAtlas64.dds</File>
+    <File md5="E96DA22857B864EC51E73867EED8285E" import="1">Art/Timurids Atlas Mod/TimuridAtlas128.dds</File>
+    <File md5="4CD47AADE97D3382D3AF45683A433815" import="1">Art/Timurids Atlas Mod/TimuridAtlas214.dds</File>
+    <File md5="D4B35CA8251EF803123F9130D5B51BE9" import="1">Art/Timurids Atlas Mod/TimuridAtlas256.dds</File>
+    <File md5="C4DFF1A53D96061DD3C0A36B592B3283" import="1">Art/Timurids Atlas Mod/TimuridAtlas32.dds</File>
+    <File md5="96E5F0F0EE56773AF44FE156D298442C" import="1">Art/Timurids Atlas Mod/TimuridAtlas45.dds</File>
+    <File md5="8DA538B8167CD04106CD41D43CFDD790" import="1">Art/Timurids Atlas Mod/TimuridAtlas64.dds</File>
+    <File md5="1EEA6ECAA45DCF19469949867A2C6B3E" import="1">Art/Timurids Atlas Mod/TimuridAtlas80.dds</File>
+    <File md5="F7F9EDE972B8B6A0A7229C5C944D4F35" import="1">Art/Timurids Atlas Mod/TimuridUnitAlphaAtlas.dds</File>
+    <File md5="0FD40F8C4BE5EACE9DE56C17B87F0199" import="1">Art/Timurids_DOM_Mod.dds</File>
+    <File md5="3F95F62954C2AB94AA68A505E9B2D97A" import="1">Art/Timurids_Timur_Diplo_Mod.dds</File>
+    <File md5="B1073262C6D167D88DE3554D73FCB1FC" import="0">Decisions/Timurid Decisions Support.xml</File>
+    <File md5="B45209855FF1F939C998832563754F9E" import="1">Decisions/TomatekhTimuridDecisions.lua</File>
+    <File md5="66AE2F5A0C1A15707EFF0F095F99F635" import="0">Lua/Timurid Check.lua</File>
+    <File md5="76D0CB7D72E5C5BF67F5B866A73D8E76" import="1">Lua/Timurid lua scripts.lua</File>
+    <File md5="D7A6A1D9F9C31427810498901AEBB616" import="1">Sounds/TimuridsPeace.mp3</File>
+    <File md5="34B5A490CFF26F89611AF46CF5808265" import="1">Sounds/TimuridsWar.mp3</File>
+    <File md5="82F05596AE72932C3E28C3070E5A209A" import="0">SQL/Timurid Ghazi.sql</File>
+    <File md5="F4F6AB45E6C15F29DE93C72209D52BB7" import="0">SQL/Timurid Mod Support.sql</File>
+    <File md5="0219BBDF3BFEA705010E4F0EA82D0DCF" import="0">SQL/Timurid Trait Table.sql</File>
+    <File md5="3E22C3D7D27F1795EE5A18A92250767A" import="1">XML/Art/civ5artdefines_unitmembers.xml</File>
+    <File md5="9905490A5D52D03001C019227D7552E0" import="1">XML/Art/civ5artdefines_units.xml</File>
+    <File md5="4FBC413D1CA7A4CE77EA67E8773359D1" import="0">XML/Art/Missing Buildings Atlas.xml</File>
+    <File md5="84E723EB0E666DC692C244910B3F90CA" import="1">XML/Art/Timurids Atlas Mod.xml</File>
+    <File md5="9D5F4E691863157CCE612F4A8619562A" import="1">XML/Art/Timurids Strategic View Mod.xml</File>
+    <File md5="6EA8AF25FEE1121969E0B58D0A555C0A" import="1">XML/Art/Timurids_Leader_Scene_Mod.xml</File>
+    <File md5="DD334EDEE4EF3A3BC819F516CE9C9DC0" import="0">XML/Buildings/Timurid Building Class Mod.xml</File>
+    <File md5="C9DB6E49F4EA13B9A09FD05E416A8458" import="0">XML/Buildings/Timurids Buildings Mod.xml</File>
+    <File md5="C50CF3891B5668C37DB919BC79A3B200" import="0">XML/City-State Update/Samarqand City-State Update.xml</File>
+    <File md5="28CD9B18D6BA1A837DA7B16E97167C4A" import="0">XML/Civilization/Timurids Civilization Mod.xml</File>
+    <File md5="3BBE548CC03864F6A720B4558A11A036" import="0">XML/Civilization/Timurids Leader Mod.xml</File>
+    <File md5="0FB0D66C3EE327617AA9DD2C24C8BCC0" import="0">XML/Civilization/Timurids Traits Mod.xml</File>
+    <File md5="473E627F345BCD0F45713A58E550AAF6" import="0">XML/Diplomacy/Timurids Diplomacy Mod.xml</File>
+    <File md5="7CF463639C3D0C71DD4729E7012C3D70" import="0">XML/Sounds/Timurids Sound Mod.xml</File>
+    <File md5="85C29EEFBA1F79AA31DDA9D7C1DC0D72" import="0">XML/Text/Non English XML Tags/Timurids Game Text DE_DE.xml</File>
+    <File md5="EFA9B07BC6CA6677DC5C159AB254DD6F" import="0">XML/Text/Non English XML Tags/Timurids Game Text ES_ES.xml</File>
+    <File md5="FBAB86A551940625F34075E1DE9E4C10" import="0">XML/Text/Non English XML Tags/Timurids Game Text FR_FR.xml</File>
+    <File md5="3FA0FB27D39CB7696C63044A7F8C8F3F" import="0">XML/Text/Non English XML Tags/Timurids Game Text IT_IT.xml</File>
+    <File md5="BFFAE4C613E12FBDB53E5BAB3066F0DA" import="0">XML/Text/Non English XML Tags/Timurids Game Text JA_JP.xml</File>
+    <File md5="289A1BD08F5A411B9389904C3FE37230" import="0">XML/Text/Non English XML Tags/Timurids Game Text KO_KR.xml</File>
+    <File md5="4D7AA7F719542089F8D01978E2870AFA" import="0">XML/Text/Non English XML Tags/Timurids Game Text PL_PL.xml</File>
+    <File md5="47B72722E5427DECE63D491DEEC1F3A9" import="0">XML/Text/Non English XML Tags/Timurids Game Text RU_RU.xml</File>
+    <File md5="0B320B13239A363582D92D35D6866FDC" import="0">XML/Text/Timurids Game Text mod.xml</File>
+    <File md5="0900EECFBA6AFB6005A071E3EFFF40AA" import="0">XML/Units/Timurids Promotions Mod.xml</File>
+    <File md5="36BD64C520D3EE3C47B077548697D866" import="0">XML/Units/Timurids Units Mod.xml</File>
+    <File md5="5C48DFDADA807CEA30E136A3891A0E3D" import="0">YnAEMP/Timurids YnAEMP Compatability.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/Timurid Ghazi.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Timurids Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Timurids_Leader_Scene_Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Timurids Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Timurids Strategic View Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Timurids Promotions Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/Timurids Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Missing Buildings Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Timurid Building Class Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Timurids Buildings Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/City-State Update/Samarqand City-State Update.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sounds/Timurids Sound Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/Timurids Civilization Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Diplomacy/Timurids Diplomacy Mod.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Timurid Trait Table.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/Timurids Traits Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Timurids Game Text mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Timurids Game Text DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Timurids Game Text ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Timurids Game Text FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Timurids Game Text IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Timurids Game Text JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Timurids Game Text KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Timurids Game Text PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Timurids Game Text RU_RU.xml</UpdateDatabase>
+      <UpdateDatabase>YnAEMP/Timurids YnAEMP Compatability.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/Timurid Decisions Support.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Timurid Mod Support.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Timurid Check.lua">
+      <Name>Timurid</Name>
+      <Description>Timurid</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

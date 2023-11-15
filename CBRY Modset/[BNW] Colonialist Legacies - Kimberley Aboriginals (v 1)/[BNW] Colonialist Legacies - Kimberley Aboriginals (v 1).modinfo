@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b3b3c21c-b119-49dd-81e3-82c2bed17d6a" version="1">
+  <Properties>
+    <Name>[BNW] Colonialist Legacies - Kimberley Aboriginals</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>This mod adds the Kimberley to the game, led by Jandamarra.</Teaser>
+    <Description>This mod adds the Kimberley to the game, led by Jandamarra.</Description>
+    <Authors>TPangolin, Sasquatch (AKA Kramer)</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="9BBD7228CB2B0D0D7278C67779075B41" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_128.dds</File>
+    <File md5="0456D6EC291FF76BC38103FCD8C53AB6" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_16.dds</File>
+    <File md5="4CAC335352B277A014150415510AD3D4" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_24.dds</File>
+    <File md5="96C02531E278F7ADF2C579E454C0858C" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_32.dds</File>
+    <File md5="26AC4BE2BCBBA5FBB576FDE3738BEE44" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_45.dds</File>
+    <File md5="FF31AAA71CDF09547537A20298B57B4B" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_48.dds</File>
+    <File md5="4BB9053525B3E78D53B5AB1C555D47D7" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_64.dds</File>
+    <File md5="C3990FC7F5A048B53D084C5F91B898A1" import="1">Art/Atlases/Alpha/CLKimberleyAlpha_80.dds</File>
+    <File md5="E83F906C812E169FEAEB56C38E71B5E0" import="1">Art/Atlases/CLKimAtlas128.dds</File>
+    <File md5="2AD79C1EAD3F1C86A1BB8A153433A6BF" import="1">Art/Atlases/CLKimAtlas256.dds</File>
+    <File md5="8EB7E6C675EFAD02F24D1F0A0D90251C" import="1">Art/Atlases/CLKimAtlas32.dds</File>
+    <File md5="45AC3194C23F85BA7ECD062DE97F2E8F" import="1">Art/Atlases/CLKimAtlas45.dds</File>
+    <File md5="35749E0D9951FDFB30F0AE6AC5BC26C2" import="1">Art/Atlases/CLKimAtlas64.dds</File>
+    <File md5="F85DD389E53F5E6DF1927CB0C2C81986" import="1">Art/Atlases/CLKimAtlas80.dds</File>
+    <File md5="97F04BC8CD1E323825DB3F4171D1E31E" import="0">Art/Atlases/CLKimAtlases.xml</File>
+    <File md5="3BA5A0881D568421C0C6303A2AD8C843" import="1">Art/CLJandamarraDOM.dds</File>
+    <File md5="86712758923A0CC32037831AC3978428" import="1">Art/CLJandamarra_Diplo.dds</File>
+    <File md5="9E2B7540DFFF03D4345456E23BC206F5" import="1">Art/CLTrackerFlag.dds</File>
+    <File md5="2E92994E3FDA73CF992925766093EC2E" import="1">Art/SV_CLTracker.dds</File>
+    <File md5="BF0AC8DECFBAF2EB8092F81B569ED2AC" import="1">Art/Tracker/SonghaiScout.dds</File>
+    <File md5="49B23A11498792A0926C164227D1B4FE" import="1">Art/Tracker/SonghaiScout.fbx</File>
+    <File md5="318FE752C0261026122150B3BED01C32" import="1">Art/Tracker/SonghaiScout.fxsxml.xml</File>
+    <File md5="7A21D15C3BFB60668B6C9401AED8E68C" import="1">Art/Tracker/SonghaiScout.gr2</File>
+    <File md5="85CC97ED04CDA6A9C6472FE69B6BD678" import="1">Art/Tracker/SonghaiScout_sref.dds</File>
+    <File md5="BF7107CA3F116EE3C09B32AE3F82A5E2" import="0">Core/Buildings/CLTrepanger.xml</File>
+    <File md5="A6D66C3B3BC9A81DBDF5663B2AC692A2" import="0">Core/Buildings/KimberleyHiddenBuildings.xml</File>
+    <File md5="C10349EC89E41EF59DBB37260C0BEFFC" import="0">Core/Civilization/CLKayuJawa.xml</File>
+    <File md5="4102DF4A5B4649B18E78D8BCE6E54154" import="0">Core/Civilization/CLKimberley.xml</File>
+    <File md5="9742B14CEF6C9A042000590655843AF8" import="0">Core/CLKimberleyText.xml</File>
+    <File md5="D7654149B5A3A4B946E1D5C68B1926C3" import="0">Core/CLKim_TSL.sql</File>
+    <File md5="0267E7B9FCE283A470314A53A377CF28" import="0">Core/Leader/CLJandamarra.xml</File>
+    <File md5="132BA7558C04C3532A2037672F7783DC" import="1">Core/Leader/CLJandamarra_Scene.xml</File>
+    <File md5="F5ED690C49A63E7EA6CF816E9E349B0C" import="0">Core/Units/CLKimTracker.xml</File>
+    <File md5="7F17A29372A8A46742BBB22FDA223D52" import="0">Core/Units/CLKimTrackerDefines.xml</File>
+    <File md5="4053A3A384566ED52FD35636B0BAE6CC" import="0">Lua/CLKimberleyLua.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Buildings/CLTrepanger.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization/CLKimberley.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leader/CLJandamarra.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/CLKimTracker.xml</UpdateDatabase>
+      <UpdateDatabase>Core/CLKimberleyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization/CLKayuJawa.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings/KimberleyHiddenBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/CLKimTrackerDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leader/CLJandamarra_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Atlases/CLKimAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Core/CLKim_TSL.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/CLKimberleyLua.lua">
+      <Name>CLKimberleyLua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

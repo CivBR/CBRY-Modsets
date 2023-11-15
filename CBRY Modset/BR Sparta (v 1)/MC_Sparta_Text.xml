@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unit Promotions - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_PROMOTION_MOLON_LABE">
+			<Text>Molon Labe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MOLON_LABE_HELP">
+			<Text>+20% Defense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ADD_A_STEP_FORWARD">
+			<Text>Add a Step Forward</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ADD_A_STEP_FORWARD_HELP">
+			<Text>+20% Attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_SPARTAN_SYSSITIA_HALL">
+			<Text>Syssitia Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_WALLS_OF_SPARTA_SHORT">
+			<Text>Walls of Sparta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_WALLS_OF_SPARTA">
+			<Text>Following your first Great General, receive an infantry unit every time your capital grows. Capturing cities may grant a free citizen in your capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SPARTA_DESC">
+			<Text>Spartan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SPARTA_SHORT_DESC">
+			<Text>Sparta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SPARTA_ADJECTIVE">
+			<Text>Spartan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LEONIDAS_DESC">
+			<Text>Leonidas</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Spy Names - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_0">
+			<Text>Zahir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_1">
+			<Text>Babur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_2">
+			<Text>Jalal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_3">
+			<Text>Faaiz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_4">
+			<Text>Qutb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_5">
+			<Text>Humayun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_6">
+			<Text>Mirza</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_7">
+			<Text>Muhy</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_8">
+			<Text>Shere</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_SPARTA_9">
+			<Text>Gauhar</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_SPARTA">
+			<Text>Sparta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_MESSENE">
+			<Text>Messene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_TEGEA">
+			<Text>Tegea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_CORINTH">
+			<Text>Corinth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_ELIS">
+			<Text>Elis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_OLYMPIA">
+			<Text>Olympia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_MANTINEA">
+			<Text>Mantinea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_EPIDAUROS">
+			<Text>Epidauros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_PHIGALEIA">
+			<Text>Phigaleia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_AMYKLAI">
+			<Text>Amyklai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_THERAPNE">
+			<Text>Therapne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_GYTHEION">
+			<Text>Gytheion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_GERONTHRAI">
+			<Text>Geronthrai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_HELOS">
+			<Text>Helos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_KYTHERA">
+			<Text>Kythera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_PYLOS">
+			<Text>Pylos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_PHARAI">
+			<Text>Pharai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_OITYLOS">
+			<Text>Oitylos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_PELLANA">
+			<Text>Pellana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_THOURIA">
+			<Text>Thouria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_THALAMAI">
+			<Text>Thalamai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_KYPARISSIA">
+			<Text>Kyparissia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_KYPHANTA">
+			<Text>Kyphanta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_METHONI">
+			<Text>Methoni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_SIKYON">
+			<Text>Sikyon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_SPARTA_AMBRAKIA">
+			<Text>Ambrakia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

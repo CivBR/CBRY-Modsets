@@ -1,0 +1,18 @@
+-- --==========================================================================================================================	
+-- -- Civilizations
+-- --==========================================================================================================================	
+-- UPDATE MinorCivilizations
+-- SET Description = 'TXT_KEY_CITYSTATE_JFD_TAIPEI_DESC',
+-- 	ShortDescription = 'TXT_KEY_CITYSTATE_JFD_TAIPEI_SHORT_DESC',
+-- 	Adjective = 'TXT_KEY_CITYSTATE_JFD_TAIPEI_ADJECTIVE',
+-- 	Civilopedia = 'TXT_KEY_CIV5_JFD_TAIPEI_TEXT_1'
+-- WHERE Type = 'MINOR_CIV_MANILA';	
+-- --==========================================================================================================================	
+-- -- Civilizations
+-- --==========================================================================================================================	
+-- DELETE FROM MinorCivilization_CityNames WHERE MinorCivType = 'MINOR_CIV_MANILA';
+-- INSERT INTO MinorCivilization_CityNames
+-- 			(MinorCivType, 			CityName)
+-- VALUES		('MINOR_CIV_MANILA', 	'TXT_KEY_CITYSTATE_JFD_TAIPEI');
+-- --==========================================================================================================================
+-- --==========================================================================================================================	

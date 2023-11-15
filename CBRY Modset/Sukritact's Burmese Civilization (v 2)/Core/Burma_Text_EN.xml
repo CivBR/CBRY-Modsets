@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!--Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_PAYA_DESC">
+			<Text>Paya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PAYA_HELP">
+			<Text>Unique Burmese Amphitheater replacement. Contains 1 slot for a Great Work of Writing which, when filled, provides +3 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]+1 [ICON_GREAT_PEOPLE] Great Person Points towards a Great Writer in the [ICON_CAPITAL] Capital or the city which contains the Writer's Guild.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PAYA_STRATEGY">
+			<Text>In addition to the regular abilities of the Amphitheater, the Paya provides 1 [ICON_GREAT_PEOPLE] Great Person Points towards a Great Writer in the [ICON_CAPITAL] Capital or the city which contains the Writer's Guild. Its Great Work of Writing slot also provides +3 [ICON_GOLD] Gold when filled: enough to negate its maintenance cost and provide an extra 2 [ICON_GOLD] Gold. The Paya does not require Monuments to be built. Only Burma may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_PAYA_TEXT">
+			<Text>A Paya (or pagoda) is a generic Burmese term covering a stupa, temple or shrine. There are two types of Paya: the solid, hand-bell shaped Zedi and the hollow square Pahto. A Zedi (or stupa) is usually thought to contain 'relics' - either objects taken from the Buddha himself (especially pieces of bone, teeth or hair) or certain holy materials. The term Pahto can refer to a temple (that can be entered), though more often a shrine as monks are not necessarily in attendance.</Text>
+		</Row>
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_BURMESE_KYUNDAW_CONSCRIPT">
+			<Text>Kyundaw Conscript</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BURMESE_KYUNDAW_CONSCRIPT">
+			<Text>Classical Era Melee unit which receives extra [ICON_STRENGTH] Combat Strength and heals itself while inside or adjacent to cities. Only Burma may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BURMESE_KYUNDAW_CONSCRIPT_STRATEGY">
+			<Text>The Kyundaw Conscript is the Burmese unique unit, replacing the Swordsman. Kyundaw Conscripts gain extra [ICON_STRENGTH] Combat Strength and heal themselves while stationed inside or adjacent to cities. These bonuses are increased adjacent to enemy cities, making Kyundaw Conscripts extremely useful on the offensive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BURMESE_KYUNDAW_CONSCRIPT_TEXT">
+			<Text>The early Pagan army consisted mainly of conscripts raised just prior to or during the times of war and was organized into a small standing army of a few thousand, which defended the capital and the palace, and a much larger conscript-based wartime army. Conscription was based on the Kyundaw system (called the Ahmudan system by later dynasties), which required local chiefs to supply their predetermined quota of men from their jurisdiction on the basis of population in times of war. This basic system of military organization was largely unchanged down to the precolonial period although later dynasties, especially the Toungoo Dynasty, did introduce standardization and other modifications.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KYUNDAW_CONSCRIPTION">
+			<Text>Kyundaw Conscription</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_KYUNDAW_CONSCRIPTION">
+			<Text>Kyundaw Conscription</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KYUNDAW_CONSCRIPTION_HELP">
+			<Text>+3 [ICON_STRENGTH] Combat Strength and +2 HP per turn while inside or adjacent to a city. Bonuses increased adjacent to enemy cities</Text>
+		</Row>
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_YAMA_ZATDAW_SHORT">
+			<Text>Yama Zatdaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_YAMA_ZATDAW">
+			<Text>Receive [ICON_GREAT_PEOPLE] Great Writer Points (GWP) when a city that Burma has never owned is conquered. Conquered cities provide +1 [ICON_GREAT_PEOPLE] GWP in the Capital or the City which contains the Writer's Guild and produce +2 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_0">
+			<Text>Thura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_1">
+			<Text>Thiha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_2">
+			<Text>Zeya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_3">
+			<Text>Wunna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_4">
+			<Text>Aung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_5">
+			<Text>Arun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_6">
+			<Text>Sanda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_7">
+			<Text>Thanda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_8">
+			<Text>Thiri</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BURMA_9">
+			<Text>Hayma</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_BURMA_DESC">
+			<Text>Burmese Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BURMA_SHORT_DESC">
+			<Text>Burma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BURMA_ADJECTIVE">
+			<Text>Burmese</Text>
+		</Row>
+		<!--Civilopedias-->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TITLE">
+			<Text>Burma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TEXT_1">
+			<Text>Located in the northwest of Southeast Asia, bordered by Bangladesh, China, India, Laos and Siam, Burma has a long and complex history - a land where magnificent and ancient Buddhist temples gaze out serenely over a nation that has seen centuries of both prosperity and turmoil.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TEXT_2">
+			<Text>
+				Burma is the northernmost country of Southeast Asia; it is shaped like a kite with a long tail that runs south along the Malay Peninsula. The country is bordered by China to the north and northeast, Laos to the east, Thailand to the southeast, the Andaman Sea and Bay of Bengal to the south and southwest, Bangladesh to the west, and India to the northwest.[NEWLINE][NEWLINE]Like its mountains, Burma’s main rivers run from north to south. About three-fifths of Burma’s surface is drained by the Irrawaddy and its tributaries. Flowing entirely through Burma, it is navigable for nearly 1,000 miles. At the apex of its delta, the Irrawaddy breaks up into a vast network of streams and empties into the Andaman Sea through multiple mouths. Its great tributary, the Chindwin, drains the western region. The Bassein River drains the southern Rakhine Mountains, and the Yangon River drains the Bago Mountains; both enter the Irrawaddy at the delta. The Sittang flows into the Gulf of Martaban of the Andaman Sea, and, for a comparatively short river, it has a large valley and delta.
+				[NEWLINE][NEWLINE]Burma has been a nexus of cultural and material exchange for thousands of years. The country’s coasts and river valleys have been inhabited since prehistoric times, and during most of the 1st millennium AD the overland trade route between China and India passed through Burma’s borders. Merchant ships from India, Sri Lanka, and even farther west converged on its ports, some of which also were the termini of the portage routes from the Gulf of Thailand across the narrow Isthmus of Kra on the Malay Peninsula. Thus, Burma has long served as the western gateway of mainland Southeast Asia.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_HEADING_3">
+			<Text>Prehistory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TEXT_3">
+			<Text>The first human settlers in Burma appeared in the central plain some 11,000 years ago. Little is known of these people except that they were a Paleolithic culture, using stone and fossilized-wood tools. A discovery in 1969, by workers from the government’s Department of Archaeology, of some cave paintings and stone tools in the eastern part of Shan state shows that that area too had Palaeolithic as well as early Neolithic (about 10,000 years ago) settlements, both of which bore similarities to the Hoabinhian culture, which was widespread in the rest of Southeast Asia from about 13,000 to about 4,000 BC. Crude shards and ring stones found at the site appear to have been attached to stonecutting tools to make them more suitable for digging. The woodcutting tools in the find probably were used to clear patches of forest for cultivation, which would indicate that the shift from gathering to agriculture had already begun.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_HEADING_4">
+			<Text>The Pyu and the Mon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TEXT_4">
+			<Text>Between the 1st century BC and the 9th century AD, speakers of Tibeto-Burman languages known as the Pyu established city-kingdoms in Burma at Binnaka, Mongamo, Shri Kshetra, and Halingyi. At the time, a long-standing trade route between China and India passed through northern Burma and then across the Chindwin River valley to the west. Chinese historical records noted that the Pyu claimed sovereignty over 18 kingdoms, many of them in the southern portions of Burma.[NEWLINE][NEWLINE]To the south of the Pyu lived the Mon, who were speakers of an Austroasiatic language. The Mon were closely related to the Khmer, who lived to the east of the Mon in what is now Cambodia. The capital of the Mon probably was the port of Thaton, which was located northwest of the mouth of the Salween River and not far from the portage routes of the Malay Peninsula.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_HEADING_5">
+			<Text>The Pagan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TEXT_5">
+			<Text>
+				The kingdom grew out of a small 9th-century settlement at Pagan by the Mranma, who had recently entered the Irrawaddy. Over the next two hundred years, the small principality gradually grew to absorb its surrounding regions until the 1050s and 1060s when King Anawrahta founded the Pagan Empire, for the first time unifying under one polity the Irrawaddy valley and its periphery.
+				[NEWLINE][NEWLINE]Anawrahta greatly expanded his empire, with campaigns in the Shan Hills, and extended conquests to Lower Burma down to the Tenasserim coast to Phuket and North Arakan. Estimates of the extent of his empire vary greatly. The Burmese and Siamese chronicles report an empire which covered the present-day Burma and northern Thailand. For more on Anawrahta, see his Civilopedia entry.
+				[NEWLINE][NEWLINE]By the late 12th century Anawrahta's successors had extended their influence farther to the south into the upper Malay peninsula, to the east at least to the Salween river, in the farther north to below the current China border, and to the west, in northern Arakan and the Chin Hills. In the 12th and 13th centuries, Pagan, alongside the Khmer Empire, was one of two main empires in mainland Southeast Asia. The Burmese language and culture gradually became dominant in the upper Irrawaddy valley, eclipsing the Pyu, Mon and Pali norms by the late 12th century. By then, the Burman leadership of the kingdom was unquestioned. The Pyu had largely assumed the Burman ethnicity in Upper Burma. The Burmese language, once an alien tongue, was now the lingua franca of the kingdom.
+				[NEWLINE][NEWLINE]The Mongols began their invasion of Burma in 1277, and sacked Pagan, ending the Pagan kingdom's 250-year rule of the Irrawaddy valley and its periphery. Pagan's rule of central Burma came to an end ten years later when it was toppled by Myinsaing.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_HEADING_6">
+			<Text>The Small Kingdoms of Burma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TEXT_6">
+			<Text>After the fall of Pagan, the Mongols left the searing Irrawaddy valley but the Pagan Kingdom was irreparably broken up into several small kingdoms. By the mid-14th century, the country had become organized along four major power centers: the Ava, Hanthawaddy Pegu, Shan States and Arakan. Many of the power centres were themselves made up of (often loosely held) minor kingdoms or princely states. This era was marked by a series of wars and switching alliances. Smaller kingdoms played a precarious game of paying allegiance to more powerful states, sometimes simultaneously.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_HEADING_7">
+			<Text>Toungoo Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TEXT_7">
+			<Text>
+				Beginning in the 1480s, Ava faced constant internal rebellions and external attacks from the Shan States, and began to disintegrate. In 1510, Toungoo, located in the remote southeastern corner of the Ava kingdom, also declared independence. When the Confederation of Shan States conquered Ava in 1527, many Burmans fled southeast to Toungoo, the only kingdom remaining under Burman rule, and one surrounded by larger hostile kingdoms.
+				[NEWLINE][NEWLINE]Toungoo, led by Tabinshwehti and Bayinnaung, would go on to reunify the petty kingdoms that had existed since the fall of the Pagan Empire, and found the largest empire in the history of Southeast Asia. Conquering Hanthawaddy, Ava, the Shan States, Siam, Manipur, Lan Xang and Lanna; bringing much of western and central mainland Southeast Asia under his rule.
+				[NEWLINE][NEWLINE]The overextended empire unraveled soon after Bayinnaung's death in 1581. Siam broke away in 1584 and went to war with Burma. By 1593, the kingdom had lost its possessions in Siam, Lang Xang and Manipur. By 1597, all internal regions, including the city of Toungoo had revolted. In 1599, the Arakanese forces aided by Portuguese mercenaries and the rebellious Toungoo forces sacked Pegu. The country fell into chaos, with each region claiming a king. Portuguese mercenary Filipe de Brito e Nicote promptly rebelled against his Arakanese masters, and established Goa-backed Portuguese rule at Thanlyin in 1603.
+				[NEWLINE][NEWLINE]The Taungoo rulers withdrew from southern Burma and founded a second dynasty at Ava, the Nyaungyan dynasty or Restored Taungoo dynasty (1597–1752). Bayinnaung's grandson, Anaukpetlun, once again reunited Burma in 1613 and decisively defeated Portuguese attempts to take over Burma, but the empire gradually disintegrated. Anaukpetlun's successor Thalun rebuilt the war torn country.
+				[NEWLINE][NEWLINE]The Taungoo dynasty survived for another century and a half, until the death of Mahadammayaza in 1752. Encouraged by the French in India, Hanthawaddy rebelled against Taungoo, further weakening the state, which fell in 1752.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_HEADING_8">
+			<Text>Konbaung Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TEXT_8">
+			<Text>
+				Soon after the fall of the Taungoo Dynasty, a new dynasty rose in Shwebo to challenge the authority of Hanthawaddy. Over the next 70 years, the highly militaristic Konbaung dynasty went on to create the largest Burmese empire, second only to the empire of Bayinnaung. By 1759, King Alaungpaya's Konbaung forces had reunited all of Burma (and Manipur), extinguished the Mon-led Hanthawaddy dynasty once and for all, and driven out the European powers who provided arms to Hanthawaddy.
+				[NEWLINE][NEWLINE]The Konbaung Dynasty proceeded to go to war and subdue Siam; however they soon found themselves defending against Qing China; holding their own and resulting in "the most disastrous frontier war the Qing dynasty had ever waged".[NEWLINE][NEWLINE]The Siamese used the Burmese preoccupation with China to recover their lost territories by 1770, and in addition, went on to capture much of Lan Na by 1776, ending over two centuries of Burmese suzerainty over the region. Burma and Siam went to war again in 1785–1786, 1787, 1792, 1803–1808, 1809–1812 and 1849–1855 but all resulted in a stalemate. After decades of war, the two countries essentially exchanged Tenasserim (to Burma) and Lan Na (to Siam).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_HEADING_9">
+			<Text>Wars with Britain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TEXT_9">
+			<Text>
+				Faced with a powerful China in the northeast and a resurgent Siam in the southeast, King Bodawpaya turned westward for expansion. He conquered Arakan in 1785, annexed Manipur in 1814, and captured Assam, leading to a long ill-defined border with British India. Bodawpaya's successor King Bagyidaw was left to put down British instigated rebellions in Manipur and Assam. Cross-border raids by rebels from the British protected territories and counter-cross-border raids by the Burmese led to the First Anglo-Burmese War.
+				[NEWLINE][NEWLINE]The war was the longest and most expensive war in British Indian history, but ended in a decisive British victory. Burma ceded all of Bodawpaya's western acquisitions (Arakan, Manipur and Assam) plus Tenasserim. Burma was crushed for years by repaying a large indemnity of one million pounds.
+				[NEWLINE][NEWLINE]In 1852, the British unilaterally and easily seized the Pegu province in the Second Anglo-Burmese War. After the war, King Mindon tried to modernize the Burmese state and economy, and made trade and territorial concessions to stave off further British encroachments. Nonetheless, the British, alarmed by the consolidation of French Indochina, annexed the remainder of the country in the Third Anglo-Burmese War in 1885, and sent the last Burmese king Thibaw and his family to exile in India.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_HEADING_10">
+			<Text>British Rule</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TEXT_10">
+			<Text>
+			Britain made Burma a province of India in 1886, with its capital at Rangoon, and ushered in a new period of economic growth. Traditional Burmese society was drastically altered by the demise of the monarchy and the separation of religion and state. Though war officially ended after only a couple of weeks, resistance continued in northern Burma until 1890, with the British finally resorting to a systematic destruction of villages and appointment of new officials to finally halt all guerrilla activity. Intermarriage between Europeans and Burmese gave birth to an indigenous Eurasian community known as the Anglo-Burmese who would come to dominate the colonial society, hovering above the Burmese but below the British. The economic nature of society also changed dramatically. After the opening of the Suez Canal, the demand for Burmese rice grew and vast tracts of land were opened up for cultivation. However, in order to prepare the new land for cultivation, farmers were forced to borrow money from Indian moneylenders called chettiars at high interest rates and were often foreclosed on and evicted losing land and livestock. Most of the jobs also went to indentured Indian labourers, and whole villages became outlawed as they resorted to 'dacoity' (armed robbery).[NEWLINE][NEWLINE]While the Burmese economy grew, all the power and wealth remained in the hands of several British firms and migrants from India. The civil service was largely staffed by Anglo-Burmese and Indians, and Burmese were excluded almost entirely from military service, which was staffed primarily with Indians, Anglo-Burmese, Karens and other Burmese minority groups. Though the country prospered, the Burmese people failed to reap the rewards.
+			</Text>
+		</Row>
+				<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_HEADING_11">
+			<Text>Rise of Nationalism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TEXT_11">
+			<Text>
+				During the 1920s, the first protests by Burma's intelligentsia and Buddhist monks were launched against British rule. By 1935, the Students Union at Rangoon University was at the forefront of what would evolve into an active and powerful movement for national independence. A young law student Aung San, executive-committee member and magazine editor for the Students Union, emerged as the potential new leader of the national movement. In the years that followed, he successfully organized a series of student strikes at the university, gaining the support of the nation.[NEWLINE][NEWLINE]At the outbreak of the Second World War, Aung San seized the opportunity to bring about Burmese independence. He and 29 others, known as the Thirty Comrades, left Burma to undergo military training in Japan. In 1941, they fought alongside the Japanese who invaded Burma. The Japanese promised Aung San that if the British were defeated, they would grant Burma her freedom. When it became clear that the Japanese would not follow through with their promise, Aung San quickly negotiated an agreement with the British to help them defeat the Japanese.[NEWLINE][NEWLINE]Hailed as the architect of Burma's new-found independence by the majority of Burmese, Aung San was able to negotiate an agreement in January 1947 with the British, under which Burma would be granted total independence from Britain. Although a controversial figure to some ethnic minorities, he also had regular meetings with ethnic leaders throughout Burma in an effort to bring about reconciliation and unity for all Burmese.
+			</Text>
+		</Row>
+				<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_HEADING_12">
+			<Text>Independence and Democracy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TEXT_12">
+			<Text>
+				As the new leader drafted a constitution with his party's ministers in July 1947, the course of Burmese history was dramatically and tragically altered. Aung San and members of his newly-formed cabinet were assassinated when an opposition group with machine guns burst into the room. A member of Aung San's cabinet, U Nu, was delegated to fill the position suddenly left vacant by Aung San's death. Burma was finally granted independence on January 4, 1948, at 4:20am.[NEWLINE][NEWLINE]For the next ten years, Burma's fledging democratic government was continuously challenged by communist and ethnic groups who felt under-represented in the 1948 constitution. Periods of intense civil war destabilized the nation. Although the constitution declared that minority states could be granted some level of independence in ten years, their long-awaited day of autonomy never arrived. As the economy floundered, U Nu was removed from office in 1958 by a caretaker government led by General Ne Win, one of Aung San's fellow thakins. In order to "restore law and order" to Burma, Ne Win took control of the whole country including the minority states, forcing them to remain under the jurisdiction of the central government. Although he allowed U Nu to be re-elected Prime Minister in 1960, two years later he staged a coup and solidified his position as Burma's military dictator.
+			</Text>
+		</Row>
+				<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_HEADING_13">
+			<Text>Burma under Dictatorship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TEXT_13">
+			<Text>
+				Ne Win's new Revolutionary Council suspended the constitution and instituted authoritarian military rule. Full attention turned to the military defeat of communist and ethnic-minority rebel groups. The country was closed off from the outside world as the new despot promoted an isolation ideology based on what he called the Burmese Way to Socialism. For the next three decades Ne Win set a thriving nation on a disastrous path of cultural, environmental and economic ruin. Outside visitors were few and restricted to Rangoon, Mandalay and a handful of other tightly controlled towns close to the central plains. Insurgency remained endemic and in many areas of Burma armed struggle became a way of life.[NEWLINE][NEWLINE]In July 1988 Ne Win suddenly announced that he was preparing to leave the stage. Seeing at last a possible escape from military rule, economic decline and routine human rights abuses, thousands of people took to the streets of Rangoon. Demonstrations broke out across the country during the so-called "Democracy Summer" that followed. But on August 8, 1988 troops began a four day massacre, firing into crowds of men, women and children gathered in Rangoon. At least 10,000 demonstrators were killed across the country.[NEWLINE][NEWLINE]Thousands of students and democracy advocates fled to the border regions under ethnic control and forged alliances with ethnic resistance movements. Some of these groups include the National Coalition Government of the Union of Burma (NCGUB), the All Burma Student Democratic Front, the Democratic Alliance of Burma, and the longstanding National Democratic Front situated in Manerplaw (the former headquarters of the Karen National Union which fell to SLORC in January 1995). Together these groups formed the National Council of the Union of Burma, an umbrella organization representing all the groups.
+			</Text>
+		</Row>
+				<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_HEADING_14">
+			<Text>A Leader Emerges</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TEXT_14">
+			<Text>
+				During this time of unrest in 1988, Aung San Suu Kyi, daughter of independence hero Aung San, who had been living abroad, returned to Burma to care for her ailing mother. Her devotion kept her there and brought her into the political foray. Attempting to quell international condemnation for its violence, the military announced it would hold multi-party elections. Under the persuasion of students and others opposed to the regime, Aung San Suu Kyi and like-minded colleagues founded the National League for Democracy (NLD). Her party quickly gathered country-wide support. Just when democratic changes seemed imminent Ne Win commandeered the army from behind the scenes to take over the country in a staged "coup".[NEWLINE][NEWLINE]On September 18, 1988, control of the country was handed to a 19-member State Law and Order Restoration Council (SLORC) and a vicious crackdown followed. Although committed to non-violence, Aung San Suu Kyi was placed under house arrest in July 1989 for "endangering the state" and kept there for the next six years. Desperate to improve their image and generate foreign investment, the SLORC went ahead on May 27, 1990 and held the multi-party elections they had promised. Despite the SLORC's severe repression against members of opposition parties (Aung San Suu Kyi was kept under house arrest) and the complete lack of freedom of expression throughout the country, Suu Kyi's NLD party won with 82% of the vote. Surprised and outraged, the SLORC refused to acknowledge the election results and has retained its repressive grip on power.
+			</Text>
+		</Row>
+				<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_HEADING_15">
+			<Text>Current Situation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_TEXT_15">
+			<Text>
+				Even though Aung San Suu Kyi was released from house arrest in May of 2002, the military has refused to relinquish power. The generals have not engaged in any sort of dialogue. The humanitarian situation in Burma is disastrous and civil war still ravages the border areas. The effect of military rule has been a severely impoverished and underdeveloped nation, Burma has been rated as the second least developed nation on the United Nations Development Index. Peace, democracy and the most basic human rights do not exist. Millions have been forced to flee due to military rule and are scattered all over the world, longing for the day when they can return to their homeland and be re-united with the families and live in peace.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BURMA_FACTOID_TEXT">
+			<Text>Your health is judged by how overweight you are. Plumpness is regarded as a sign of health.[NEWLINE][NEWLINE]During the British rule, it was the richest South East Asian country.[NEWLINE][NEWLINE]There is a widespread superstition around cutting hair in this country. No one cuts their hair on a Monday, Friday or their Birthday.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_RANGOON">	
+			<Text>Rangoon</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_BAGAN">	
+			<Text>Bagan</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_MANDALAY">	
+			<Text>Mandalay</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_MAWLAMYINE">	
+			<Text>Mawlamyine</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_BAGO">	
+			<Text>Bago</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_PATHEIN">	
+			<Text>Pathein</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_PYAY">	
+			<Text>Pyay</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_MONYWA">	
+			<Text>Monywa</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_MEIKTILA">	
+			<Text>Meiktila</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_SITTWE">	
+			<Text>Sittwe</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_MYEIK">	
+			<Text>Myeik</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_TAUNGGYI">	
+			<Text>Taunggyi</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_DAWEI">	
+			<Text>Dawei</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_MAYMYO">	
+			<Text>Maymyo</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_HENZADA">	
+			<Text>Henzada</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_THATON">	
+			<Text>Thaton</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_PAKOKKU">	
+			<Text>Pakokku</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_LASHIO">	
+			<Text>Lashio</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_PYINMANA">	
+			<Text>Pyinmana</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_YENANGYAUNG">	
+			<Text>Yenangyaung</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_MOGOK">	
+			<Text>Mogok</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_TOUNGOO">	
+			<Text>Toungoo</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_MAGWAY">	
+			<Text>Magway</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_MUDON">	
+			<Text>Mudon</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_MYITKYINA">	
+			<Text>Myitkyina</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_CHAUK">	
+			<Text>Chauk</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_THAYETMYO">	
+			<Text>Thayetmyo</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_NYAUNGLEBIN">	
+			<Text>Nyaunglebin</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_KALAY">	
+			<Text>Kalay</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_SHWEBO">	
+			<Text>Shwebo</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_TAUNGDWINGYI">	
+			<Text>Taungdwingyi</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_SAGAING">	
+			<Text>Sagaing</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_BOGALE">	
+			<Text>Bogale</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_YAMETHIN">	
+			<Text>Yamethin</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_BURMA_KENG_TUNG">	
+			<Text>Keng Tung</Text>
+		</Row>	
+		<!-- Leader Civlopedia Text -->
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_DESC">
+			<Text>Anawrahta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_PEDIA">
+			<Text>Anawrahta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_HEADING_3">
+			<Text>Accession to the Throne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_HEADING_4">
+			<Text>Consolidation of Central Burma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_HEADING_5">
+			<Text>Founding of Pagan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_HEADING_6">
+			<Text>Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_HEADING_7">
+			<Text>Judgment of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_LIVED">
+			<Text>1015 - 1078 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_NAME">
+			<Text>Anawrahta Minsaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_SUBTITLE">
+			<Text>Leader of Burma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_TEXT_1">
+			<Text>Anawrahta Minsaw was the founder of the Pagan Empire. Considered the father of the Burmese nation, Anawrahta turned a small principality in the dry zone of Upper Burma into the first Burmese Empire that formed the basis of modern-day Burma. Anawrahta unified the entire Irrawaddy valley for the first time in history, and placed peripheral regions such as Shan States and Arakan (Northern Rakhine) under Pagan's suzerainty. He successfully stopped the advance of Khmer Empire into Tenasserim coastline and into Upper Menam valley, making Pagan one of two main kingdoms in mainland Southeast Asia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_TEXT_2">
+			<Text>Anawrahta's youth, like much of early Pagan history, is still shrouded in legend, and should be treated as such. The Burmese chronicles do not agree on the dates regarding his life and reign.[NEWLINE][NEWLINE]In 1021, when Min Saw was about six years old, his father was deposed by his step-brothers Kyiso and Sokkate. His father had been a usurper of the Pagan throne, who overthrew King Nyaung-u Sawrahan two decades earlier. Kunhsaw then married three of Nyaung-u's chief queens, two of whom were pregnant at the time, and subsequently gave birth to Kyiso and Sokkate. Kunhsaw had raised Sokkate and Kyiso as his own sons. After the putsch, Kyiso became king and Sokkate became heir-apparent. They forced their step-father to a local monastery, where Kunhsaw would live as a monk for the remainder of his life.[NEWLINE][NEWLINE]Min Saw grew up in the shadow of his two step-brothers, who viewed Min Saw as their youngest brother and allowed him to retain his princely status at the court. Min Saw and his mother attended Kunhsaw, and lived nearby the monastery. In 1038, Kyiso died, and was succeeded by Sokkate. Min Saw was loyal to the new king. He took wives, and had at least two sons (Sawlu and Kyansittha) by the early 1040s.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_TEXT_3">
+			<Text>In 1044 however, Min Saw raised a rebellion at nearby Mount Popa, and challenged Sokkate to single combat. According to the chronicles, the reason for his uprising was that Sokkate had just raised Min Saw's mother as queen. Sokkate is said to have addressed Min Saw as brother-son, which the latter took great offense. Sokkate accepted the challenge to single combat on horseback. Min Saw slew Sokkate at Myinkaba, near Pagan. The king and his horse both fell into the river nearby.[NEWLINE][NEWLINE]Min Saw first offered the throne to his father. The former king, who had long been a monk, refused. On 16 December 1044, Min Saw ascended the throne with the title of Anawrahta, a Burmanized form of Sanskrit name Aniruddha. His full royal style was Maha Yaza Thiri Aniruddha Dewa. From this point onwards Burmese history begins to be less conjectural.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_TEXT_4">
+			<Text>Anawrahta's first acts as king were to organize his kingdom. He graded every town and village according to the levy it could raise. He made great efforts to turn the arid parched lands of central Burma into a rice granary. He constructed the irrigation system which is still used in Upper Burma today. He repaired the Meiktila Lake, and successfully built four weirs and canals (Kinda, Nga Laingzin, Pyaungbya, Kume) on the Panlaung River, and three weirs (Nwadet, Kunhse, Nga Pyaung) on the Zawgyi. (He also tried to control the Myitnge River but failed despite all his efforts. The work lasted three years and there were many casualties from fever.) He peopled the newly developed areas with villages, which under royal officers served the canals. The region, known as Ledwin (lit. the rice country) became the granary, the economic key in the north of Burma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_TEXT_5">
+			<Text>By the mid-1050s, Anawrahta's reforms had turned Pagan into a regional power, and he looked to expand. Over the next ten years, he founded the Pagan Empire, the Irrawaddy valley at the core, surrounded by tributary kingdoms.[NEWLINE][NEWLINE]His first efforts were in then lightly inhibited Shan Hills in the east and the north. He acquired allegiance of Shan Hills in two waves. In the early to mid-1050s, Anawrahta first visited the nearer Shan Hills in the east, and received tribute. The second wave came in the late 1050s and early 1060s after his march to Nanzhao Kingdom. After his return from Nanzhao expedition, Shan chiefs along the route presented Anawrahta with tributes. Still, their allegiance was nominal and he had to establish 43 forts along the eastern foothills of which the following 33 still exist as villages.[NEWLINE][NEWLINE]After his first Shan campaign, Anawrahta turned to the Mon-speaking kingdoms in the south, which like Pagan were merely large city-states in reality. He first received submission of the ruler of Pegu. But the Thaton Kingdom refused to submit. Anawrahta's armies, led by the "Four Paladins", invaded the southern kingdom in early 1057. After a 3-months' siege of the city of Thaton, on 17 May 1057, the Pagan forces conquered the city. The conquest of Thaton is seen as the turning point in Burmese history. Anawrahta brought back over 30,000 people, many of them artisans and craftsmen to Pagan. These captives formed a community that later helped build thousands of monuments at Pagan.[NEWLINE][NEWLINE]Anawrahta's next conquest was north Arakan. He marched over the pass from Ngape near Minbu to An in Kyaukphyu, and then laid siege to Pyinsa, then the capital of Arakan. There is no single unified Arakanese account to corroborate the event. Surviving Arakanese chronicles mention at least two separate raids from the east. According to the Arakanese accounts, the attacks from the east ousted kings Pe Byu and Nga Ton in succession. However, the dates are off by centuries with the ousted kings having reigned in the late 8th to early 9th centuries, 10th to 11th, or 11th to 12th centuries. Pagan never established an administrative system to govern Arakan, it continued to foster a vassal relationship for the remainder of Pagan dynasty, occasionally placing its nominees to the Arakanese throne. The Burmese language and script came to dominate the Arakan littoral over the next centuries. With Burmese influence came ties to Ceylon (Sri Lanka) and the gradual prominence of Theravada Buddhism.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_TEXT_6">
+			<Text>Anawrahta died in March 1078 in the outskirts of Pagan. The chronicles hint that his enemies ambushed and killed him and then disposed of the body in such a way that it was never found. The chronicles state that a nat (spirit) appeared in the guise of wild buffalo and gored him to death, and then demons took away his body.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_TEXT_7">
+			<Text>Anawrahta is considered one of the greatest, if not the greatest, kings of Burmese history for he founded first "charter polity" of what would later become modern Burma. Not only did he greatly expand the Pagan Kingdom but he also implemented a series of political and administrative reforms that enabled his empire to dominate the Irrawaddy valley and its periphery for another 250 years. The success and longevity of Pagan's dominance over the Irrawaddy valley laid the foundation for the ascent of Burmese language and culture, the spread of Burman ethnicity in Upper Burma. His embrace of Theravada Buddhism and his success in stopping the advance of Khmer Empire, a Hindu kingdom, provided the Buddhist school, which had been in retreat elsewhere in South and Southeast Asia, a much needed reprieve and a safe shelter. He helped restart Theravada Buddhism in Ceylon, the Buddhist school's original home. Ultimately he has well earned his title as “Father of the Burmese Nation”.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_TITLES_1">
+			<Text>King of Burma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_TITLES_2">
+			<Text>Father of the Burmese Nation</Text>
+		</Row>
+		<!--Unique Dialogue-->
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_FIRSTGREETING_1">
+			<Text>Welcome to Burma. I am Anawrahta, Father of this glorious land! </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_FIRSTGREETING_2">
+			<Text>Welcome stranger. I, King Anawrahta, invite you to gaze upon the splendour that is my realm.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_DEFEATED_1">
+			<Text>What Karma have I accrued that I have lost today? There can be no other reason for my defeat!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANAWRAHTA_DEFEATED_2">
+			<Text>Impossible! My armies cannot have failed! I refuse to accept this!</Text>
+		</Row>
+		<!-- DOM Text-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_BURMA_TEXT">
+			<Text>O' King Anawrahta, founder of the Pagan Empire, your people bow before you. Flourishing in the Irrawaddy Delta, the Burmese people have long endured. Since her establishment, Burma has continuously astounded the world with both her strength and her culture; the lesser nations around her trembled before the might of her armies and gazed in awe upon the beauty of her architecture. All this allowed the Burmese to eventually form one of the largest and most cultured empires in the history of Southeast Asia; leaving a legacy both profound and glorious.[NEWLINE][NEWLINE]Great Anawrahta, your people look to you to bring forth a new prosperous age for Burma! Will you restore your empire to her former splendour? Will you once again lead your armies to victory? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+	</Language_en_US>	
+</GameData>

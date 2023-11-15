@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MINOR_CIV_SPARTA">
+			<Text>Sparta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SPARTA_ADJ">
+			<Text>Spartan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SPARTA_1">
+			<Text>Sparta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SPARTA_2">
+			<Text>Messene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SPARTA_3">
+			<Text>Tegea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SPARTA_4">
+			<Text>Corinth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOR_CIV_SPARTA_5">
+			<Text>Elis</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_SPARTA</Type>
+			<Description>TXT_KEY_MINOR_CIV_SPARTA</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_SPARTA</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_SPARTA_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_SPARTA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_SOUTH_AMERICA</ArtStyleType>
+			<ArtStylePrefix>AMERICAN</ArtStylePrefix>
+			<ArtStyleSuffix>_AMER</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+<!--FLAVOR_RELIGION:          Religious=10, other=3 
+<!--FLAVOR_CULTURE:           Cultured=10, other=3 
+<!--FLAVOR_GOLD:              Mercantile=10, other=3 
+<!--FLAVOR_NAVAL:             Maritime=8, other=3 
+<!--FLAVOR_GROWTH:            Maritime=8, other=3 
+<!--FLAVOR_CITY_DEFENSE:      Militaristic=7, other=3
+<!--FLAVOR_DEFENSE:           Militaristic=7, other=3
+<!--FLAVOR_OFFENSE:           Militaristic=7, other=3 
+<!--FLAVOR_MILITARY_TRAINING: Militaristic=7, other=3 --> 
+
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_SPARTA_ICON</Type>
+           <Red>1</Red>
+		   <Green>0.235</Green>
+		   <Blue>0.235</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_SPARTA_BACKGROUND</Type>
+            <Red>0.474</Red>
+            <Green>0.443</Green>
+            <Blue>0.188</Blue>
+            <Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_SPARTA</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_SPARTA_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_SPARTA_1</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_SPARTA_2</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_SPARTA_3</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_SPARTA_4</CityName>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SPARTA</MinorCivType>
+			<CityName>TXT_KEY_MINOR_CIV_SPARTA_5</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

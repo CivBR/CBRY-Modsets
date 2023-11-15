@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="71600d15-1646-4cfc-b6c8-79efa0021724" version="1">
+  <Properties>
+    <Name>JFD's Rise to Power - (3) (Gameplay) Dark Ages</Name>
+    <Teaser>[COLOR_CYAN]Dark Ages[ENDCOLOR] component for Rise to Power. Click for details.</Teaser>
+    <Description>[COLOR_POSITIVE_TEXT]Dark Ages[ENDCOLOR] can now trigger if you lose more Prestige (Golden Age progress) from Excess Unhappiness than you have stored. During a Dark Age, your Great People rate is doubled but your cities grow 25% slower.[NEWLINE][NEWLINE]In addition, you will now lose Prestige if your Cities are captured, your Citizens or Units are killed, or your Improvements are pillaged. If you enter into Anarchy, ALL your Prestige will be lost as well.</Description>
+    <Authors>JFD</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="aeea1d87-bb9b-4542-af59-5e3541fc1b06" minversion="0" maxversion="999" title="JFD's Rise to Power - (2) (UI) Top Panel" />
+    <Mod id="a2cfe2eb-d94b-496d-a1ce-266c14d6afcb" minversion="0" maxversion="999" title="JFD's Rise to Power - (1) (Core) Utilities" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="79D19F6CDDD6D81885FFD227ED579D1F" import="1">Art/darkagepopuptop300hl.dds</File>
+    <File md5="BE11C150F852511224AEB3E0105B8133" import="1">Art/Fonts/FontIcons_JFD_DarkAge_22.ggxml</File>
+    <File md5="DD522C85A836B038714DFA12C912F1A2" import="1">Art/Fonts/FontIcons_JFD_DarkAge_22.dds</File>
+    <File md5="2CE416B94039A6CB6CE7415EBB83D328" import="1">Audio/Sounds/DarkAge.mp3</File>
+    <File md5="CB8F83E9309D366C692EBCB089525CFB" import="0">Core/DarkAges_ArtDefines.sql</File>
+    <File md5="CB62ED7A8438ED0A0D79ECD9A5192639" import="0">Core/DarkAges_Concepts.sql</File>
+    <File md5="D330CD25AA8D33C1D054686B7991AEE5" import="0">Core/DarkAges_Defines.sql</File>
+    <File md5="824121D3A7095968FE07B74D389F35FC" import="0">Core/DarkAges_GameText.sql</File>
+    <File md5="82A18A1E839FD4056886AA4151B71BA0" import="0">Core/DarkAges_GameText.xml</File>
+    <File md5="9C4C5DBD90ECA883231732886E5A63DD" import="0">Core/DarkAges_GameText_Interface.xml</File>
+    <File md5="C1D231FE0DBC05B4F2A7D4C795DA1106" import="0">Core/DarkAges_Notifications.sql</File>
+    <File md5="FCB944D0174F9C734FEE58F9156911E5" import="0">Lua/InGame/Popups/GoldenAgePopup.lua</File>
+    <File md5="8C0134C35BBB5A2E2FA71F6CF0C0832C" import="0">Lua/InGame/Popups/GoldenAgePopup.xml</File>
+    <File md5="CE9EE155D585439C89E41B53A10CBA06" import="0">Lua/JFD_RTP_DarkAgePopup.lua</File>
+    <File md5="795CFF612403D3DDB06E5BA9D4A3710F" import="0">Lua/JFD_RTP_DarkAgePopup.xml</File>
+    <File md5="1055ECA1E1F325771B25FFCE0073E4AE" import="1">Lua/InGame/WorldView.lua</File>
+    <File md5="B0BB04568C4EB0E0B1D34B75FE3B349F" import="1">Lua/InGame/WorldView.xml</File>
+    <File md5="8B0D91FB503E589FBD52F83A202857C9" import="0">Lua/JFD_RTP_DarkAges_Functions.lua</File>
+    <File md5="B6824E25AB280668462C261514544E40" import="1">Lua/Utilities/JFD_DarkAges_Utils.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DarkAges_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DarkAges_Concepts.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DarkAges_Defines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DarkAges_GameText.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DarkAges_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DarkAges_GameText_Interface.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DarkAges_Notifications.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_RTP_DarkAges_Functions.lua">
+      <Name>JFD_RTP_DarkAges_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_RTP_DarkAgePopup.lua">
+      <Name>JFD_RTP_DarkAgePopup.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

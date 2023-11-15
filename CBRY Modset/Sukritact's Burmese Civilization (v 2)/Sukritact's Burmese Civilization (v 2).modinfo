@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4dc228cd-bd0d-4c06-b116-93ef05d010f3" version="2">
+  <Properties>
+    <Name>Sukritact's Burmese Civilization</Name>
+    <Teaser>Burma: The Land of a Thousand Pagodas</Teaser>
+    <Description>Located in the northwest of Southeast Asia, Burma has a long and complex history - a land where magnificent and ancient Buddhist temples gaze out serenely over a nation that has seen centuries of both prosperity and turmoil. Under King Anawrahta, the regions constituting Burma were unified for the first time, laying the the foundation for the ascent of Burmese language and culture, the spread of Burman ethnicity in Upper Burma, and the growth of Theravada Buddhism in Burma and in mainland Southeast Asia.</Description>
+    <Authors>Sukritact, Leugi</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="3DCD33E4279E7E3EB4456B83CF44F95F" import="1">Art/Atlas/BurmaAlpha_128.dds</File>
+    <File md5="FB09FED5BE7704261137A14080208FE4" import="1">Art/Atlas/BurmaAlpha_16.dds</File>
+    <File md5="775C44D5053459540DE550D7983F33D4" import="1">Art/Atlas/BurmaAlpha_24.dds</File>
+    <File md5="DA79D933C8A54F2FBD80C8A4642ECB27" import="1">Art/Atlas/BurmaAlpha_32.dds</File>
+    <File md5="79ABF15BC74A45AD1B56F46F222A0659" import="1">Art/Atlas/BurmaAlpha_48.dds</File>
+    <File md5="76C6F92CD78C4197EF8253FE48472847" import="1">Art/Atlas/BurmaAlpha_64.dds</File>
+    <File md5="1F6F07F10D4DF2F46D68855BFAF623DC" import="1">Art/Atlas/BurmaAtlas_128.dds</File>
+    <File md5="5F0DD48648EFBFD718C7C8DE0DC3BFAB" import="1">Art/Atlas/BurmaAtlas_256.dds</File>
+    <File md5="DE23F8D806A324688BEA414BF663F0C1" import="1">Art/Atlas/BurmaAtlas_32.dds</File>
+    <File md5="5AFA49E8BBDB9BE24CCBAF5A7AB232E1" import="1">Art/Atlas/BurmaAtlas_45.dds</File>
+    <File md5="7C64D05CE5BEEF5F0B11AE45AC1C8B86" import="1">Art/Atlas/BurmaAtlas_48.dds</File>
+    <File md5="7EA60F13B3AC148DFB3ED25007CFC12A" import="1">Art/Atlas/BurmaAtlas_64.dds</File>
+    <File md5="C7C388B9E9E4ACD9375F9DD6EDB553FA" import="1">Art/Atlas/BurmaAtlas_80.dds</File>
+    <File md5="3E18910ADFAA347F8408FF0F31691A17" import="1">Art/Audio/Burma_Peace.mp3</File>
+    <File md5="01734AC0416BF30840DB26D0221FB5C5" import="1">Art/Audio/Burma_War.mp3</File>
+    <File md5="6661338226332DBE3D30C0986C893AF0" import="1">Art/Audio/Burma_DOM.mp3</File>
+    <File md5="C3C0764C6F9F0DA459CB584F8BD50105" import="0">Art/Audio/Burma_Audio.sql</File>
+    <File md5="9CE92D8BE9196287007A9DFC8DC28635" import="1">Art/Burma_Leaderhead.xml</File>
+    <File md5="8E62CCF3FA56B253A9AA8683BCF41BD6" import="1">Art/Scenes/Burma_Diplo.dds</File>
+    <File md5="AC079FB236393D18CFBEA979AC329009" import="1">Art/Scenes/Burma_DOM.dds</File>
+    <File md5="50655AE9DA1C052A6437CFED3A7D8936" import="1">Art/Scenes/BurmaMap512.dds</File>
+    <File md5="E18B0E9F45CCDD3C7A66C4BA8C0CDED2" import="0">Art/Burma_ArtDefines.sql</File>
+    <File md5="1A3631B5063E42256B22597F03C8787A" import="1">Art/Unit/flag_kyundaw.dds</File>
+    <File md5="E551CA86D3B01E1AB3D1D1F4F582FC1B" import="1">Art/Unit/kyundadw.gr2</File>
+    <File md5="B80178986A29420535EE00AFDFF7E680" import="1">Art/Unit/kyundaw.fxsxml</File>
+    <File md5="01B1C732C40C976B3C7BD63E45AC563F" import="1">Art/Unit/kyundaw.gr2</File>
+    <File md5="9B2FD496A8452DE6C9F38337305FCCC0" import="1">Art/Unit/kyundaw_diff.dds</File>
+    <File md5="2B71D888A66A1C28F5A31AC7200426C6" import="1">Art/Unit/kyundaw_sref.dds</File>
+    <File md5="6D6871037716ECA3F8CCF7D3BB40E7E8" import="1">Art/Unit/sv_kyundaw.dds</File>
+    <File md5="DF0DA235E6A5EB4B5CDCB82E34D08242" import="0">Core/Burma_Text_EN.xml</File>
+    <File md5="6CA6EFF9D79C810ED7EE1E53AFECB89B" import="1">Core/Decisions Support/Burma_Decisions.lua</File>
+    <File md5="19C6B3D677D8627C5820F583EF469AA9" import="0">Core/Decisions Support/Burma_Decisions.sql</File>
+    <File md5="47DBB9311AE56CEE036988F9AD189634" import="0">Core/Decisions Support/Burma_EN_US.xml</File>
+    <File md5="CD65FA3580357984D200DA4A6E5F90CA" import="0">Core/Lua/BuildingRemoteGreatPeoplePoints.lua</File>
+    <File md5="F0AE659D41DC27F8B94F73081902C7AB" import="0">Core/Lua/BuildingYieldFromGreatWorksInBuilding.lua</File>
+    <File md5="E4DDF4CF1E41DBF1E8C83F5CD8CD17B1" import="0">Core/Lua/Burma_CoreFunctions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Core/Lua/PlotIterators.lua</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Core/Lua/Sukritact_SaveUtils.lua</File>
+    <File md5="C335FCF008765EA329401BB17ABD2877" import="0">Core/Burma_Buildings.sql</File>
+    <File md5="92EBC890C8F73AA96814BE4833D05C72" import="0">Core/Burma_Civilizations.sql</File>
+    <File md5="E97B0F5DA4A44175494ACE80B0DD35FB" import="0">Core/Burma_Diplomacy.sql</File>
+    <File md5="E16326AB1703C949622AFF0C7DDCC7FA" import="0">Core/Burma_Leaderhead.sql</File>
+    <File md5="DD62A04F72745C58B811A2036AF6C9B2" import="0">Core/Burma_PlayerColours.sql</File>
+    <File md5="4A3987F6F2D237332C05A67D8CDA6599" import="0">Core/Burma_Promotions.sql</File>
+    <File md5="3E6EE5C4733CD6462B9404579E216AA7" import="0">Core/Burma_Traits.sql</File>
+    <File md5="01E4DBC384F8029E8F495974595E0431" import="0">Core/Burma_Units.sql</File>
+    <File md5="303A90BF08F9E067BDB8EA2F35141CD7" import="0">Core/Piety and Prestige Support/Burma_Flavor.sql</File>
+    <File md5="0C12B82D7C14C1C37D87BA9EB397560B" import="0">Core/YnAEMP Support/Burma_TSL.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Audio/Burma_Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Burma_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/YnAEMP Support/Burma_TSL.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Burma_Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Burma_Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Burma_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Burma_Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Burma_PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Burma_Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Burma_Text_EN.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Burma_Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Burma_Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions Support/Burma_Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions Support/Burma_EN_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/Lua/BuildingRemoteGreatPeoplePoints.lua">
+      <Name>BuildingRemoteGreatPeoplePoints</Name>
+      <Description>BuildingRemoteGreatPeoplePoints</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/Lua/BuildingYieldFromGreatWorksInBuilding.lua">
+      <Name>BuildingYieldFromGreatWorksInBuilding</Name>
+      <Description>BuildingYieldFromGreatWorksInBuilding</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/Lua/Burma_CoreFunctions.lua">
+      <Name>BurmaUA</Name>
+      <Description>BurmaUA</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

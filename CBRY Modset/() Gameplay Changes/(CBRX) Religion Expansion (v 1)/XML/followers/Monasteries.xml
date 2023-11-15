@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/20/2018 10:38:45 PM -->
+<GameData>
+
+	<Building_ResourceYieldChanges>
+		<Delete BuildingType="BUILDING_MONASTERY" ResourceType="RESOURCE_INCENSE" YieldType="YIELD_CULTURE" />
+		<Delete BuildingType="BUILDING_MONASTERY" ResourceType="RESOURCE_WINE" YieldType="YIELD_CULTURE" />
+	</Building_ResourceYieldChanges>
+
+	<Belief_BuildingClassFaithPurchase>
+		<Row>
+			<BeliefType>BELIEF_MONASTERIES</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MONASTERY</BuildingClassType>
+		</Row>
+	</Belief_BuildingClassFaithPurchase>
+	
+	<Building_YieldChanges>
+		<Delete BuildingType="BUILDING_MONASTERY" />
+	</Building_YieldChanges>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MONASTERY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MONASTERY</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	
+	<Building_Flavors>
+		<Delete BuildingType="BUILDING_MONASTERY" />
+	</Building_Flavors>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_MONASTERY</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MONASTERY</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+	</Building_Flavors>
+	
+	<Buildings>
+		<Update>
+			<Set ConquestProb="66" FaithCost="225" SpecialistType="SPECIALIST_WRITER" GreatPeopleRateChange="2" IconAtlas="COMMUNITY_ATLAS" PortraitIndex="5" />
+			<Where Type="BUILDING_MONASTERY" />
+		</Update>
+	</Buildings>
+
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_MONASTERIES" />
+		<Row Tag="TXT_KEY_BELIEF_MONASTERIES">
+			<Text>Use [ICON_PEACE] Faith to purchase Monasteries (+2 [ICON_CULTURE] Culture, +2 [ICON_GOLD] Gold, 2 Great Writer Points).</Text>
+		</Row>
+	</Language_en_US>
+
+
+</GameData>

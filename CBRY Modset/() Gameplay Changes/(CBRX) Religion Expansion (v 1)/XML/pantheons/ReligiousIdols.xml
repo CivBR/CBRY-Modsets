@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_THRIFT</Type>
+			<Description>TXT_KEY_BELIEF_THRIFT</Description>
+			<ShortDescription>TXT_KEY_BELIEF_THRIFT_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+	</Beliefs>
+
+	<Belief_BuildingClassYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_THRIFT</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_THRIFT</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+	</Belief_BuildingClassYieldChanges>
+
+	<Language_en_US>
+	<Delete Tag="TXT_KEY_BELIEF_THRIFT" />
+		<Row Tag="TXT_KEY_BELIEF_THRIFT">
+			<Text>+1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture from Monuments</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_BELIEF_THRIFT_SHORT" />
+		<Row Tag="TXT_KEY_BELIEF_THRIFT_SHORT">
+			<Text>Religious Idols</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						Phillipines
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_CIV_JFD_PHILIPPINES_ADJECTIVE">
+			<Text>Filipino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_PHILIPPINES_DESC">
+			<Text>Philippine Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_PHILIPPINES_SHORT_DESC">
+			<Text>The Philippines</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_TEXT_1">
+			<Text>The Republic of the Philippines is a nation situated in South-East Asia, somewhat near to Taiwan and to the north-east of the Indonesian island of Borneo. Until about 500 years ago, the islands were relatively isolated from the rest of the world.  This changed in 1521, when Ferdinand Magellan, a Spanish explorer, came across the modern-day Philippines while trying to sail around the world. Magellan was later killed by the natives, who kept his body as a war trophy. In 1565, the first Spanish settlement was established on the islands, making way for around 350 years of colonial rule for the islands. In the late 19th Century, nationalist and reform movements began in the Philippines among both the natives and the Spanish. In 1898, they proclaimed independence, but were handed over to the USA in the Treaty of Paris. The Filipinos eventually got a home government in 1934, and in 1946, they finally got full independence after the fight against the Japanese in the Second World War. In the 20th Century, the dictator Ferdinand Marcos took power, and through his corrupt regime he deprived the country of a lot of its wealth. Marcos was overthrown almost bloodlessly in 1986, and the power of the Philippine Republic was restored to its people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_TEXT_2">
+			<Text>The Philippines is made up of 7,107 islands, and as a result has the 5th largest coastline in the world. It is prone to natural disasters, as it is located near the Pacific Ring of Fire. Around 20 earthquakes happen there daily, but the majority are too weak to even be felt. However, the islands have had a lot of publicity recently due to the damage caused by hurricanes. However, international aid quickly came to their rescue, and as a result, it didn’t completely destroy their economy or anything. The islands embrace a lot of storms and flooding, but it is normally quite warm. Due to the fact that deadly storms are quite rare, the islands have a lot of tourism because of the generally good weather, and the magnificent landscape. Although the Philippines is an island nation, it is quite hilly, due to geological activity on the Pacific Ring of Fire. In the north, rice terraces were built by the indigenous people as a way of feeding themselves, because the rest of the land was too difficult to cultivate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_HEADING_3">
+			<Text>Early People</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_TEXT_3">
+			<Text>Before the Europeans colonised the land, there was already a lot of diversity in the states there. After the Philippine pre-history period ended in 900 with the first piece of dated work there, new states began to emerge and interact with their neighbours in Asia. The people of these states were mostly maritime, and were for the most part controlled by various Rajahnates, such as Tondo, Cebu and Butuan. These states operated mainly by trading with their neighbours. They also had a written language, and appeared to have knowledge about astronomy and a couple of other scientific matters. However, in the late 1300s, Islam spread to the islands. The Sultanate of Sulu was created in the south, and took up part of the Philippines as well as a large section of the slowly-crumbling Majapahit Empire. The two main parties of the archipelago vied for both land control and maritime trade link domination. The native people of the Philippines were under attack from a lot of Islamic states that captured the nearby islands, and they remained a dominant force in the south until the European expansion into the Philippines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_HEADING_4">
+			<Text>Colonial Encounters and Spanish Exploration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_TEXT_4">
+			<Text>The first Spanish encounter, and the one that goes down in history, of the Philippines was made by Ferdinand Magellan, an explorer for the Crown of Spain. He was on an attempt to circumnavigate the globe, but on the way there, he encountered the Philippines. Magellan landed there, which proved to be a fatal mistake, as he was later killed by the natives of the land. The rest of his crew decided to go home after this incident, and it also meant that Magellan wasn’t the first person to sail around the world (it was his slave, Enrique) contrary to the Civ V achievements. The first permanent settlement on the islands was done by Miguel López de Legazpi, another Spanish explorer, with the setting off point this time being the sensible Mexico. Legazpi was able to keep out the Portuguese, and at the same time he kept converting the inhabitants to Christianity. He militarised the colony, and before long, it was in good shape to become a territory of New Spain. However, the entire archipelago was yet to be explored, and threats from the Islamic states and the natives were still real. The Spanish aimed to make sure that they repelled all this to establish the Philippines as a Spanish territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_HEADING_5">
+			<Text>European Settlement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_TEXT_5">
+			<Text>By 1590, the missionaries were ready to convert the rest of the archipelago. Following the conquest of Luzon, a large part of the Philippines was under Spanish control. Manila was made into a holy site for the Catholic Church; the majority of the education was done by the missionaries. The education in the islands was better than what the Asian counterparts could offer; more European, but still quite advanced for the day. The Spanish opened up more trade routes to places around Asia and the world, like the predecessors of the land. The natives eventually merged with the Spanish due to intermarriage, and the culture of the Philippines became somewhat different to that of Spain. In 1646, the Dutch attempted to capture the Philippines in the Eighty Years’ War. However, the Dutch navy was destroyed when it tried to capture Manila, despite it outnumbering the Spanish one by nearly 6:1, and the fact that the Dutch sailors were trained, as opposed to the Spanish navy being made out of the native Filipino populous, despite them never having much formal training.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_HEADING_6">
+			<Text>Revolution and Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_TEXT_6">
+			<Text>Due to the Spanish colonial methods, not a lot of Filipinos were happy with their rule over the islands, and a lot of the islanders wanted independence. Several movements were in place to gain independence for the land, including the Katipuan, a secret organisation set up to create a Filipino state, and the Propaganda movement, aiming to turn public opinion against the Spanish, with José Rizal as a prominent figure within it. In 1896, the revolution broke out, perhaps prematurely. Unfortunately, Rizal was executed in December, and a lot of the other revolutionary leaders were later killed as well. They managed to get help from the United States of America due to their shared Liberty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_HEADING_7">
+			<Text>American Takeover</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_TEXT_7">
+			<Text>The islands now had their independence from Spain, with a large amount of help from the Americans. However, the USA stayed in the Philippines, which angered a lot of the Katipuan Nationalists, who believed that the islands could stand well enough on its own. There was an uneasy relationship between the two sides for about a year, as the Americans refused to recognise the Philippine Republic as a nation. In 1899, fighting broke out between the Filipinos and the Americans, which resulted in complete American victory two years later. The islands became a puppet of the United States, and they were somewhat oppressed by them. For years, the USA held onto the islands, attempting to keep the peace. Eventually, they were granted more rights, but the one thing that the Filipinos wanted most of all was independence, which they hadn’t yet achieved. In 1934, due to increasing demands for self-rule, a bill was created starting a ten year transition period for the islands to become independent. However, this would take slightly longer than expected due to a new threat – the Japanese Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_HEADING_8">
+			<Text>World War Two</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_TEXT_8">
+			<Text>On the 7th of December 1941, the Japanese forces attacked an American naval base at Pearl Harbour, Hawaii. The United States declared war on the Japanese the next day, dragging the Philippines into the war as well. The Japanese soon after attacked more American bases in the Philippines, and soon launched a full land invasion. On January 2nd 1942, Manila fell to the Japanese forces. The politicians on the islands were split on what to do; some returned to the USA, while others collaborated with the Japanese. The Filipino nationalists attacked the Japanese in a guerrilla fashion, and were able to hold off against them for some time. General Douglas MacArthur was eventually able to send in a larger army to attack the Japanese, and he did so with a large amount of success. Once more, the American and Filipino forces were fighting side by side. Fierce fighting continued in the Philippines until the Japanese surrender. The next year, the Philippines were granted independence by the Americans. Around one million Filipino soldiers died in the war, so the Americans thought them worthy to keep their nation strong.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_HEADING_9">
+			<Text>The Marcos Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_TEXT_9">
+			<Text>In 1965, Ferdinand Marcos was elected as President of the Philippines. He was incredibly intelligent, and had been previously famed for his guerrilla campaign against the Japanese in the Second World War. He promised a lot of reforms such as infrastructure development and economic growth, which eventually got him the post of president. Marcos supported the Americans in Vietnam, an unexpected, but not badly judged more. Although Marcos did implement a lot of reforms, his reign turned autocratic and authoritarian, and he quickly got a bad reputation in the Philippines and abroad. Marcos had a family dictatorship, and took money out of the treasury to help fund their wants, and his wife had literally thousands of pairs of shoes by the end of Marcos’ rule. Unsurprisingly, his people grew more and more discontent with him, and in 1986, campaigns from the Filipino masses ousted Marcos as he tried to run for another term in office with rigged elections, following the mysterious death of a popular candidate. Marcos fled to Hawaii while democracy was restored in the Philippines, where he died in 1989. He is suspected to have stolen around 6 billion US dollars from the Philippine economy, as well as taking massive loans from other leaders, putting the Philippines into a large amount of debt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_HEADING_10">
+			<Text>The Philippines Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PHILIPPINES_TEXT_10">
+			<Text>The islands of the Philippines are doing pretty well today. The total population of the isles is 100 million, making it the 12th largest country (by population). The Philippines are also a large tourist resort, and as a result, they have recovered from the massive losses that Marcos created. The current system is fully democratic, but there are still some ethnic tensions in some areas, but mostly, people are able to get on quite well. There is a high degree of multiculturalism due to the combination of Spanish, Filipino and American influences; as a result, there are loads of official languages to reflect this, and a lot of people speak English as either a first or second language, helping it more in international trade. However, there are still various territorial disputes going on, but these are for the most part resolved. Amid various political crises, the Philippines managed to avoid the Great Recession in 2010. More recently, in 2013, Typhoon Haiyan struck the islands, and made for international headlines. Filipinos living there received support from around the world, showing what a great international community we are. Back to the Philippines, they seem to be doing well enough to continue doing well in years to come.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MANILA">
+			<Text>Manila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CEBU">
+			<Text>Cebu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DAVAO">
+			<Text>Davao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BUTUAN">
+			<Text>Butuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CALOOCAN">
+			<Text>Caloocan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ILOILO">
+			<Text>Iloilo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QUEZON">
+			<Text>Quezon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LAGUNA">
+			<Text>Laguna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VIGAN">
+			<Text>Vigan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PANGASINAN">
+			<Text>Pangasinan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAGUIO">
+			<Text>Baguio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZAMBOANGA">
+			<Text>Zamboanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_OLONGAPO">
+			<Text>Olongapo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LEGASPI">
+			<Text>Legaspi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SAGADA">
+			<Text>Sagada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PEURTO_PRINCESA">
+			<Text>Peurto Princesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BACOLOD">
+			<Text>Bacolod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CALBAYOG">
+			<Text>Calbayog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PASIG">
+			<Text>Pasig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TAGUIG">
+			<Text>Taguig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LEYTE">
+			<Text>Leyte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_COTABATO">
+			<Text>Cotabato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BACOOR">
+			<Text>Bacoor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CABANATUAN">
+			<Text>Cabanatuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANTIPOLO">
+			<Text>Antipolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAKATI">
+			<Text>Makati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DASMARINAS">
+			<Text>Dasmarines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SAN_JOSE_DEL_MONTE">
+			<Text>San Jose del Monte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_EL_NIDO">
+			<Text>El Nido</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PHILIPPINES_9">
+			<Text>Angelo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PHILIPPINES_8">
+			<Text>Bayani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PHILIPPINES_7">
+			<Text>Eduardo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PHILIPPINES_6">
+			<Text>Jollibee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PHILIPPINES_5">
+			<Text>Marcelo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PHILIPPINES_4">
+			<Text>Makisig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PHILIPPINES_3">
+			<Text>Flora</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PHILIPPINES_2">
+			<Text>Kyla</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PHILIPPINES_1">
+			<Text>Sampaguita</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_PHILIPPINES_0">
+			<Text>Lea</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Rizal
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_JFD_RIZAL">
+			<Text>Rizal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_LIVED">
+			<Text>1861 - 1896</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_NAME">
+			<Text>José Rizal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_SUBTITLE">
+			<Text>Leader of the Philippines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_TEXT_1">
+			<Text>José Rizal is considered by many Filipinos their greatest national hero. During his short life, he was able to influence the politics of the islands, and he managed to gain popular support from the people of the nation due to his idealist policies. Rizal, from an early age, was interested in politics, but he was opposed to the Spanish colonial rule of the islands. He went to Spain, where he played a major role in the Reform and Propaganda movements, which aimed to make life more equal for Filipinos, including giving the colony more representation, and more freedom of speech. However, upon his return to the Philippines, the Spanish realised he was back. As they were gravely worried about his nationalist ideas, they decided that something needed to be done, so while Rizal was going to Cuba as a doctor, the Spanish army arrested him, and executed him on December 30th, 1896. At this point, there was a revolution taking place, which Rizal opposed, but largely sparked due to his arrest. Today, he is known by several titles, such as “The First Filipino”. Due to his large amount of written work, a lot is known about his life, and is possibly why he is so well known.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_HEADING_2">
+			<Text>Childhood and Medicine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_TEXT_2">
+			<Text>José Rizal was born on the 19th of June 1862 in Calamba, in the Spanish Philippines. His family were very wealthy, having inherited a hacienda and rice farm, and as a result, he was able to receive a good education. He originally studied under Justiniano Aquino Cruz for most of his childhood, and later went to Manila to continue his education. He took the entrance examination at the Colegio de San Juan de Letran there, at his father’s request. He passed it, and went on to go to the Ateneo de Manila University, where he passed his exams with an “outstanding” mark. When Rizal found out that his mother was going blind, he went to the medical school at Santo Tomas instead. Rizal learnt how to preform eye surgery, with being able to save his mother’s eyesight on his agenda. However, his brother encouraged him to study the subject in Madrid, and without his parent’s consent, he did so. Aged 25, he was able to perform eye surgery on his mother, saving her eyesight and possible her life. At an early age, he was described as a polymath, and certainly lived up to that title. He was very skilled in both the arts and sciences, and was able to write and draw very well. However, he also had radical political ideas on his mind.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_HEADING_3">
+			<Text>Diaries, Works and Relationships</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_TEXT_3">
+			<Text>Rizal was a keen diarist, and almost all works about him have survived. Rizal had a habit of changing from one language to another while writing, making it somewhat difficult to translate. However, most of his books were written in Spanish, occasionally Tagalog. Rizal had no trouble finding the lady of his dreams; I mean, if you had his hair, neither would you. In 1882, Rizal met Leonor Rivera, who is often thought to be the inspiration for the character of Maria Clara in Noli Me Tángere and El Filibusterismo. They had a lasting correspondence for several years, and after Rizal departed for Europe, Rivera reportedly felt unwell because of his absence. When Rizal returned to the Philippines in 1887, he attempted to marry Rivera, but found that all priests refused due to his beliefs, and Rivera’s parents disliked him anyway, leaving him heartbroken. Rizal also had a relationship with Josephine Bracken, a woman of Irish descent from Hong Kong. She was another major influence on Rizal’s life, but was only able to get married to him just hours before his untimely death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_HEADING_4">
+			<Text>Europe and Reform Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_TEXT_4">
+			<Text>José Rizal left for Europe in 1890. To start with, he travelled to Belgium, where he was starting the publication of one of his books. However, he quickly got bored, and decided to go to Madrid, Spain instead. Rizal was leader of the Reform Movement in the Philippines, and decided to help out with it in Spain. He contributed more writing towards the cause, trying to get more support. The man points of the Reform Movement were that the Philippines be a province of Spain (as they were better off that way) representation in the Spanish Parliament, Filipino priests instead of Spanish ones in churches, freedom of assembly and speech and equal rights before the law (for both Filipino and Spanish plaintiffs). Rizal’s ideas got a large amount of support in Spain, but the Philippine authorities disapproved of these radical thoughts, and refused to implement them, now branding Rizal as a dangerous man. Wenceslao Retana, a Spanish political commentator, insulted Rizal in one of his articles, by attacking the fact that his family were pushed off their property for not paying rent, and then further denouncing the family, based on articles not altogether true. Rizal, angered at these comments, challenged Retana to a duel. Instead, Retana issued a public apology, and went on to become one of Rizal’s largest admirers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_HEADING_5">
+			<Text>Return to the Philippines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_TEXT_5">
+			<Text>In 1892, Rizal went back to the Philippines, with the knowledge that a price was on his head. Rizal’s novels had made him a public enemy, and the state governors were mad at him. In Manila, he attempted to implement some social reforms, but the movement was suppressed and later disbanded. Rizal again attempted to implement his reforms by constructing a village for his idealist movement, with an education system that taught resourcefulness and self-sufficiency in its pupils. It also taught English as a foreign language, which was quite unusual for the day. There was also a hospital, showing Rizal’s generosity for the ill, and a water supply system, which helped the community further. In 1896, the Philippine Revolution began. Rizal had opposed this even in its planning stages due to the lack of resources the revolutionaries had, but nevertheless, the revolutionaries admired Rizal, using his name as a cry on the field of battle. Rizal was even made the honorary president of the Katipuan, despite never being directly involved in it. Instead of staying to help the revolutionaries, Rizal had new plans – he wanted to put his medical skills to better use. He decided to go to Cuba to help yellow fever victims, a decision that would kill him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_HEADING_6">
+			<Text>Trial and Execution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_TEXT_6">
+			<Text>Rizal departed to Cuba with his partner, Josephine Bracken, on August 1st 1896. However, while he was going there via Spain, he was arrested in Barcelona by the Spanish colonial authorities. He was left unchained as he was brought back to the Philippines (on suspicion of helping with the revolution) but refused to escape from the boat, even though he had effectively endless opportunities to do so. While he was in jail awaiting trial, he wrote up a manifesto highlighting the flaws in the revolution and the importance of national identity for Filipinos. His friend, Blanco, had been forced out of office when he stood trial, so he had practically no support on his side. Rizal was charged with Rebellion, Sedition and Conspiracy, and was sentenced to death. Leading up to his execution, he continued to make writings, but still claimed he was innocent till the end. On the morning of December 30th 1896, he was finally married to Josephine Bracken. The same day, he was executed by a squad of Filipino soldiers who were forced to kill their revolutionary leader. Rizal’s last words were the same as Jesus Christ’s – “Consummatum est”, or “It is finished” in English.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_HEADING_7">
+			<Text>Immediate Reaction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_TEXT_7">
+			<Text>Most of the other Filipino revolutionaries were appalled at Rizal’s execution. His death only made the fight for independence more vital now that their icon had been killed at the hands of their enemy. The United States, friends to liberty themselves, were also spurred on to help the Filipino revolutionaries, as they would have also deemed Rizal’s killing unlawful. Once the Spanish were defeated in 1898, the USA decided to keep promoting Rizal’s image, and made December 30th a day of observance for Filipinos. There are other theories that the Filipinos promoted Rizal’s image; either way, there was nobody to debunk Rizal as a national hero of the Philippines. However, this makes him unusual among national heroes as he never actually lead the nation to independence, only advocated it, and few Filipinos would have been aware of him during his lifetime. In other news, José Rizal’s wife, Josephine, helped the revolutionary forces for some time, and then decided to return to Hong Kong, where lived a peaceful life until her death in 1902.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_HEADING_8">
+			<Text>Legacy Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_RIZAL_TEXT_8">
+			<Text>Today, as it was viewed just after his death, José Rizal is indisputably the sole Philippine national hero. His reputation is almost always positive among fellow Filipinos and other scholars, although there are quite a few who disagree with this. Rizal was mostly anti-Catholic, but a lot of Filipinos and scholars argue that he wasn’t as annoyed by it as normally thought, perhaps to save his image. However, Rizal was very opposed to violence, and while he did have radical ideas at the time, he was not in any way opposed to the United States, probably why they advocated him as a national symbol for the Philippines. However, it has to be said that overall, Rizal was highly intelligent, magnanimous and was an all-round great guy, and will seemingly always be first in the hearts of his fellow countrymen, as a benevolent reformer, and advocate for Filipino nationalism. Rizal, in the eyes of some, created the fabric of the Philippines to exist as a state today, through his works and his wisdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_RIZAL_TEXT">
+			<Text>Your people gaze upon you with their hearts, José Rizal, national hero of all the Philippines. For thousands of years, the glimmering islands of this land have played host to one of the largest populations in the world, and has become a veritable melting pot for a great diversity of people; fusing together the cultures of Austronesians, Malay, Chinese, Spanish, British and Americans alike. Your ideals have forever shaped the course of Filipino history, and drives through the veins of your people their will for independence. After your execution at the hands of the Spanish colonists in 1896, your adherents rose up, and declared a new nation in the pacific, founded upon the principles of your life's work, and thus for this you are eternally honoured as the first Filipino.[NEWLINE][NEWLINE]O magnificent Rizal, your people call you to change their world once more. Can you defend this beautiful and tranquil homeland against all manner of foe? Can you forge a place for the Philippine Republic through peace and harmony with the world around you? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_JFD_RIZAL_DEFEATED_1">
+			<Text>You have destroyed a beautiful creation. In its place is the blood of the thousands that you have lustfully slain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_RIZAL_DEFEATED_2">
+			<Text>The Philippine Republic is no more. What sorrow must fill your heart to bring such destruction upon this beautiful land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_RIZAL_FIRSTGREETING_1">
+			<Text>At long last a friendly face has come to our shores. I am José Rizal, leader of the Philippine Republic! Come, tell me of your people and their culture.</Text>
+		</Row>
+    	<Row Tag="TXT_KEY_LEADER_JFD_RIZAL_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your ruthless expansion worries me. It is not the way to prompt peace with the Philippine Republic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_RIZAL_FIRSTGREETING_2">
+			<Text>Welcome to the Philippines, traveller! I am José Rizal, and I seek only peace, so that we might learn, in harmony, of the cultures that we both nurture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_RIZAL_GREETING_HOSTILE_HELLO_1">
+			<Text>The uncultured brute shows his face.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_RIZAL_GREETING_NEUTRAL_HELLO_1">
+			<Text>What can I do for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_RIZAL_GREETING_POLITE_HELLO_1">
+			<Text>My friend, if there is any way that I can serve you, tell me now and I will do it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_RIZAL_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Aggression is not the path to a lasting legacy. Only peace can nurture the culture of your people to last throughout the ages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_RIZAL_LUXURY_TRADE_1">
+			<Text>The Republic is in dire need of some assistance. Please, would you aide us?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_RIZAL_OPEN_BORDERS_EXCHANGE_1">
+			<Text>How can we learn of one another, if we are shackled by these arbitrary lines on the map? Let our people be free to walk in each other's lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_RIZAL_RESPONSE_REQUEST_1">
+			<Text>This deal would benefit us both, my friend. Please accept.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Pearl of the Orient
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_JFD_PHILIPPINES_SHORT">
+			<Text>Pearl of the Orient Seas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_PHILIPPINES">
+			<Text>Upon signing Open Borders, both Civilizations receive a free Cargo Ship. Whilst at Peace, foreign units within your borders provide Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PHILIPPINE_FRIENDSHIP_DESC">
+			<Text>Because of your recent Declaration of Friendship, {1_Civilization:textkey} officials have been sent to your [ICON_CAPITAL] Capital to establish a {2_Building:textkey}! In exchange, one [ICON_CITIZEN] Citizen has been sent to their [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PHILIPPINE_FRIENDSHIP_SHORT">
+			<Text>Unique building adopted!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_PHILIPPINES_CULTURE_DUMMY">
+			<Text>JFD: Culture From Foreigners</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_PHILIPPINES_CULTURE_DUMMY_HELP">
+			<Text>+2 Culture from every foreign Military Unit.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Katipunero
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_JFD_KATIPUNERO">
+			<Text>Katipunero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_KATIPUNERO_TEXT">
+			<Text>The Katipuan was a secret Filipino nationalist organisation that was set up to gain independence for a strong Filipino nation, and then to make sure it was a republic. The members of it were sworn to secrecy on the matter, and were ordered to spread propaganda for reform to the Philippines. However, the leaders of the Propaganda movement were executed in 1896, and seeing this as an ineffective method, Andrés Bonifacio, the leader of the movement, decided to take up a full armed struggle against the Spanish. However, before his death, Rizal informed Bonifacio that an armed revolt would be a bad move as the country was not in a good position to survive this onslaught, and neither were the Katipunero. Bonifacio went on with the planning of the revolution, and aimed to strengthen the military and seek support from Japan. However, the organisation was discovered, so Bonifacio started the revolution prematurely. In August 1896, they proclaimed themselves the legitimate government. They had a large amount of support from the USA, and used it to their advantage, and in 1898, they had achieved victory against the Spanish. However, the USA forces occupied most of the islands, and the next year, fighting broke out between the Katipuneros and the American forces. In 1901, the entire archipelago was annexed by the United States, ending the dream of a Philippine republic for another 45 years.[NEWLINE][NEWLINE]Katipuneros are no strangers to their native land. For years, the Katipuneros roamed that land now known as the Philippines. This was not unusual, because they lived there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_KATIPUNERO_HELP">
+			<Text>+1 [ICON_MOVES] Movement in friendly territory. +25% [ICON_STRENGTH] Attacking strength after the Phillipines adopts an Ideology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_KATIPUNERO_STRATEGY">
+			<Text>The Katipunero is the Philippines unique replacement for the Rifleman. Unlike the Rifleman, the Katipunero gains an additional [ICON_MOVES] Movement point whilst in friendly territory. It also gains an attack bonus after the Philippines chooses an Ideology, allowing it to find use in later eras.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_KATIPUNAN">
+			<Text>Katipunan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_KATIPUNAN_HELP">
+			<Text>+25% [ICON_STRENGTH] Attack bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KATIPUNERO_IDEOLOGY">
+			<Text>JFD: Katipunan Building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KATIPUNERO_IDEOLOGY_HELP">
+			<Text>Grants the Katipunero Ideology Minor building in all cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KATIPUNERO_IDEOLOGY_MINOR">
+			<Text>JFD: Katipunan Building Minor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KATIPUNERO_IDEOLOGY_MINOR_HELP">
+			<Text>+25% [ICON_STRENGTH] Attack bonus for Katipunero.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Coral Church
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CORAL_CHURCH">
+			<Text>Coral Church</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_CORAL_CHURCH_TEXT">
+			<Text>With a lot of the Philippine heritage coming from Spain, it is not surprising that a lot of Filipino architecture is church-based. The most lasting legacy of Spain in terms of architecture was its colonial parish churches designed by innumerable Spanish friars. Many structures were made from local materials such as coral and volcanic rock. These were made during the initial colonial period for the Philippines, and served as places to educate the settlers, convert the natives and as a place to land the Spanish colonial expeditions. They were set up all around the country to help the Spanish settlements thrive in the colonial period, as the friars working there would be well-educated and more than able to create a well-trained populous for the new colony. These churches were well adapted to Coral music, a tradition among even the natives in the Philippines, and would often serve as the main settlement or harbour at a certain location in the islands. For a good few hundred years, these were the main source of anything on the islands – I mean, who doesn’t love a good long mass? Unless you haven’t been educated by the Spanish priests, of course.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CORAL_CHURCH_STRATEGY"> 
+			<Text>The Coral Church is the unique replacement for the Harbour. Only the Philippines may build it. Unlike the Harbour, the Coral Church may be unlocked upon discovery of Theology and produces a small amount of [ICON_PEACE] Faith. It also increases the [ICON_FOOD] growth rate of a city based upon the number of sea resources that the city is working.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CORAL_CHURCH_HELP">
+			<Text>+10% [ICON_FOOD] Growth for every sea resource worked by this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CORAL_CHURCH_GROWTH">
+			<Text>JFD: Coral Church Growth Bonus</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Minor Civs
+		------------------------------------------------------------------>
+		<!-- Taipei -->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_TAIPEI">
+			<Text>Taipei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_TAIPEI_DESC">
+			<Text>Taipei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_TAIPEI_SHORT_DESC">
+			<Text>Taipei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_TAIPEI_ADJECTIVE">
+			<Text>Taipei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_TAIPEI_TEXT_1">
+			<Text></Text>
+		</Row>
+	</Language_en_US>
+	<!--Sasquatch here. I cannot into SQL and every time I try to fix something I end up breaking something else. So, I'm just gonna define the Culture Dummy Building in xml over here.-->
+	<!-- <BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_JFD_PHILIPPINES_CULTURE_DUMMY</Type>
+			<DefaultBuilding>BUILDING_JFD_PHILIPPINES_CULTURE_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_JFD_PHILIPPINES_CULTURE_DUMMY</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_JFD_PHILIPPINES_CULTURE_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_JFD_PHILIPPINES_CULTURE_DUMMY</BuildingClass>
+			<PrereqTech>NULL</PrereqTech>
+			<FaithCost>-1</FaithCost>
+			<Cost>-1</Cost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<Description>TXT_KEY_BUILDING_JFD_PHILIPPINES_CULTURE_DUMMY</Description>
+			<ArtDefineTag>ART_DEF_BUILDING_CASTLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>JFD_PHILLIPINES_ATLAS</IconAtlas>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_JFD_PHILIPPINES_CULTURE_DUMMY</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges> -->
+</GameData>

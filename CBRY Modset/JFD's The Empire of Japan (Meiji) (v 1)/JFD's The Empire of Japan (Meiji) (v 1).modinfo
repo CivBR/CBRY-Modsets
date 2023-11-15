@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1730da2d-af5e-40d2-922f-3b1360eb1fb6" version="1">
+  <Properties>
+    <Name>JFD's The Empire of Japan (Meiji)</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Empire of Japan[ENDCOLOR] with Meiji to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta, Regalman</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp;amp; Prestige" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp;amp; Decisions" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="EA0C22D6488ADC9F6968BFFA1961905F" import="1">Art/Diplomacy/Diplo_Meiji.dds</File>
+    <File md5="6F8679D9E36D3E368609A6D74CFEDC06" import="1">Art/Diplomacy/Meiji_Scene.xml</File>
+    <File md5="E90D18A9C9FBDE104755F4EB8D194E20" import="1">Art/Graphics/Daimyo/Akazonae_Japan.dds</File>
+    <File md5="071A691DB0C20F198D4F9296CB6CD3A2" import="1">Art/Graphics/Daimyo/Akazonae_Japan.fxsxml</File>
+    <File md5="1E9FDF900DC9E1AB3B826AB12F8F13A2" import="1">Art/Graphics/Daimyo/Akazonae_Japan.gr2</File>
+    <File md5="BE4B618DDA5E9E74E319A2E0C28E2E16" import="1">Art/Graphics/Daimyo/Akazonae_Japan_gloss.dds</File>
+    <File md5="4A1D4DA69AD782175A0F998CCC234E8A" import="1">Art/Graphics/Daimyo/Akazonae_Japan_Horse.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Graphics/Daimyo/no_gloss.dds</File>
+    <File md5="85AE827232B2F892559EB03030D371C4" import="1">Art/Graphics/Daimyo/sv_Daimyo.dds</File>
+    <File md5="5D5BC3DAD5F79F9FFF93DE062B1E09FA" import="1">Art/Graphics/Mikasa/Mikasa_BB.fxsxml</File>
+    <File md5="EAF0595F38D590A7D086A3920F925359" import="1">Art/Graphics/Mikasa/Mikasa_BB.gr2</File>
+    <File md5="0AEFF7BD1946DA9F8DCC87AC793A0818" import="1">Art/Graphics/Mikasa/mikasa_bb_diff.dds</File>
+    <File md5="2EA6C3A131D3C9CC8C020B487A2FA00A" import="1">Art/Graphics/Mikasa/mikasa_bb_sref.dds</File>
+    <File md5="3239F9EB0FCD9872168EAB8E25870F77" import="1">Art/Graphics/Mikasa/sv_Mikasa.dds</File>
+    <File md5="3685606369C7F97F8AFD01D6EF30F1B3" import="1">Art/Icon Atlas/JFD_DaimyoUnitFlag_32.dds</File>
+    <File md5="F8663C3AB1A3A3A41504DE7D74BA88B6" import="1">Art/Icon Atlas/JFD_MeijiAlphaIconAtlas_128.dds</File>
+    <File md5="F0742DD7CE27EC25D17AE1DB64C696BB" import="1">Art/Icon Atlas/JFD_MeijiAlphaIconAtlas_16.dds</File>
+    <File md5="27F12AB11EE982793D453F2AF45AB514" import="1">Art/Icon Atlas/JFD_MeijiAlphaIconAtlas_22.dds</File>
+    <File md5="899C0F6FC32CAD796683AA93BA983088" import="1">Art/Icon Atlas/JFD_MeijiAlphaIconAtlas_24.dds</File>
+    <File md5="4E133C5976752FD36B29FB6236233411" import="1">Art/Icon Atlas/JFD_MeijiAlphaIconAtlas_256.dds</File>
+    <File md5="B6AC0E515C5CF7D538AB58A0637F5966" import="1">Art/Icon Atlas/JFD_MeijiAlphaIconAtlas_32.dds</File>
+    <File md5="E1D3283472B3FFD48000747FB5FA7C84" import="1">Art/Icon Atlas/JFD_MeijiAlphaIconAtlas_45.dds</File>
+    <File md5="D0957EF979069A5F13AD250C88F632C5" import="1">Art/Icon Atlas/JFD_MeijiAlphaIconAtlas_48.dds</File>
+    <File md5="A0E9073395C5A53C6689F624277A8D0C" import="1">Art/Icon Atlas/JFD_MeijiAlphaIconAtlas_64.dds</File>
+    <File md5="39AC474D37EDA0DBC034770CBDB1419D" import="1">Art/Icon Atlas/JFD_MeijiAlphaIconAtlas_80.dds</File>
+    <File md5="78F5B931C901683BE0159B63976FCD6D" import="1">Art/Icon Atlas/JFD_MeijiIconAtlas_128.dds</File>
+    <File md5="22DF7CEB998EB717DBE5B96726031AD5" import="1">Art/Icon Atlas/JFD_MeijiIconAtlas_256.dds</File>
+    <File md5="0717ECC59E9B4B3270B170169F6743EF" import="1">Art/Icon Atlas/JFD_MeijiIconAtlas_32.dds</File>
+    <File md5="F06F56541DCC004566AA834EFDF6A9B6" import="1">Art/Icon Atlas/JFD_MeijiIconAtlas_45.dds</File>
+    <File md5="A07885320A6979FC501C10DF7145BA81" import="1">Art/Icon Atlas/JFD_MeijiIconAtlas_64.dds</File>
+    <File md5="870014F01393D1C8A9C0BA746AE5A4C9" import="1">Art/Icon Atlas/JFD_MeijiIconAtlas_80.dds</File>
+    <File md5="DCD05289DBDD596A683CEF99421768FA" import="1">Art/Icon Atlas/JFD_MikasaUnitFlag_32.dds</File>
+    <File md5="53E3B4C1B788EFE600B893B74A9B9DE2" import="1">Art/Map/JapanMeijiMap512.dds</File>
+    <File md5="C1E147AD3FEE3208A2BF74EDA7954938" import="1">Art/Map/Meiji_DOM.dds</File>
+    <File md5="E5E880CE5825E6E5B37B089F5CC8B333" import="1">Audio/Meiji_Peace.mp3</File>
+    <File md5="BB15F9C3D520496FFD1825ABA2A32A52" import="1">Audio/Meiji_War.mp3</File>
+    <File md5="5CEDF91E5BA26CD02ADF3BF7AC84E6FC" import="0">Core/JFD_JapanMeiji_ArtDefines.sql</File>
+    <File md5="4FA0BB2FF9B68EAFF0F6682986F8F4EA" import="0">Core/JFD_JapanMeiji_GameDefines.sql</File>
+    <File md5="B236CB974086E34DA1C730EB4DAF91E9" import="0">Core/JFD_JapanMeiji_GameDefines_Diplomacy.sql</File>
+    <File md5="1E30E7E65C63746202E5BCF447F30D20" import="0">Core/JFD_JapanMeiji_GameDefines_ModSupport.sql</File>
+    <File md5="5E6106FC84366E146C64A93F943B279C" import="0">Core/JFD_JapanMeiji_GameText.xml</File>
+    <File md5="AA3187938954E59183E44EF21F9AA3D7" import="0">Core/JFD_JapanMeiji_GameText_Diplomacy.xml</File>
+    <File md5="4DADC244532DAF659AF3B668412CC297" import="0">Core/JFD_JapanMeiji_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="C4C3B96C7443981AB99B486B513F7585" import="1">Lua/JFD's DTPS/JFD_JapanMeiji_TopPanel.lua</File>
+    <File md5="68360B04068DA145483C985765B8385C" import="1">Lua/JFD_JapanMeiji_Decisions.lua</File>
+    <File md5="8FBF4AAADEDE9F2A29B1CDF7CE700E4E" import="1">Lua/JFD_JapanMeiji_Events.lua</File>
+    <File md5="D6EA643AFEBE94D8990AFD061FF930BB" import="0">Lua/JFD_JapanMeiji_Functions.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Sukritact's MCIS/CityInfoStack.xml</File>
+    <File md5="D053017A9D941C852E1D829ABF31B528" import="0">Lua/Sukritact's MCIS/JFD_JapanMeiji_CityInfo.lua</File>
+    <File md5="4574906768C27680A5CB9294038FD68B" import="0">Lua/Sukritact's MCIS/JFD_JapanMeiji_CityInfo.xml</File>
+    <File md5="9663E8028FD4FABEFBC740F39E7914F9" import="0">Lua/Sukritact's MCIS/JFD_JapanMeiji_Daimyo_CityInfo.lua</File>
+    <File md5="243049BC2EAE2F514412D60BC4991D32" import="0">Lua/Sukritact's MCIS/JFD_JapanMeiji_Daimyo_CityInfo.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/JFD_JapanMeiji_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_JapanMeiji_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_JapanMeiji_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_JapanMeiji_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_JapanMeiji_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_JapanMeiji_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_JapanMeiji_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's MCIS/CityInfoStack.lua">
+      <Name>Sukritact's MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's MCIS/JFD_JapanMeiji_Daimyo_CityInfo.lua">
+      <Name>JFD_JapanMeiji_Daimyo_CityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's MCIS/JFD_JapanMeiji_CityInfo.lua">
+      <Name>JFD_JapanMeiji_CityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_JapanMeiji_Functions.lua">
+      <Name>JFD_JapanMeiji_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

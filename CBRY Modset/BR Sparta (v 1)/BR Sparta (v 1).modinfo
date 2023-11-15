@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b43335d2-ff4a-4baa-a6fa-4a310abd1f3c" version="1">
+  <Properties>
+    <Name>BR Sparta</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>From the Greek pack</Teaser>
+    <Description>From the Greek pack</Description>
+    <Authors>More Civs</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="22E4AFB5CE25729D9F9FE2962CC0B417" import="1">Art/MC_GREECEALPHA_128.dds</File>
+    <File md5="934743C5B036BB0D9A6A4BABE82DFC06" import="1">Art/MC_GREECEALPHA_16.dds</File>
+    <File md5="37AF7D45FB218FDC5FF6AD3A9FBBC31B" import="1">Art/MC_GREECEALPHA_24.dds</File>
+    <File md5="75EDBBB7DD879172C6BC3F1E4ED41728" import="1">Art/MC_GREECEALPHA_32.dds</File>
+    <File md5="D3361CBE384A619BE9DC6E1437590574" import="1">Art/MC_GREECEALPHA_48.dds</File>
+    <File md5="35234AC4436F92293869225C0E5637AF" import="1">Art/MC_GREECEALPHA_64.dds</File>
+    <File md5="7AEC0081576487391969656C563948D6" import="1">Art/MC_GREECE_128.dds</File>
+    <File md5="C00B594E8BB7C85EF6E99C837FE17AFE" import="1">Art/MC_GREECE_256.dds</File>
+    <File md5="394A6E33B72CF90702210690EE678D8E" import="1">Art/MC_GREECE_32.dds</File>
+    <File md5="C0FA9157E283768BCC42564520A2C2BB" import="1">Art/MC_GREECE_45.dds</File>
+    <File md5="C66FE94EB3C063A2E838F112F504C36E" import="1">Art/MC_GREECE_48.dds</File>
+    <File md5="5F6B9E0FCEC5A6A900BF84AD91F210AF" import="1">Art/MC_GREECE_64.dds</File>
+    <File md5="4B9062B167940BB0D7DBB66155AAA249" import="1">Art/MC_GREECE_80.dds</File>
+    <File md5="09B88DCF622CA0E9F5AEB975DE6C68E7" import="0">MC_Sparta_Text.xml</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/PlotIterators.lua</File>
+    <File md5="EBF55B0DD40E607E9171CFC9EFA7D7CA" import="0">Lua/SpartaLua.lua</File>
+    <File md5="17D8C6230E5F23EC194D06DBD5367BA8" import="0">Lua/Trait_Walls.lua</File>
+    <File md5="732CBAA30B9DBBCA0150384DDD74B22B" import="0">MC_Greece_Buildings.xml</File>
+    <File md5="42CDE71BEFFECCDCE272C9E17DD9E6EB" import="0">MC_Greece_Civilizations.xml</File>
+    <File md5="95CCFC051A848FFAFA0D3F278B2EFD1B" import="0">MC_Greece_IconTextureAtlases.xml</File>
+    <File md5="E47F9B71B7E66000C82EF5D2E6D4446C" import="0">MC_Greece_Leader.xml</File>
+    <File md5="E2FBC93450E86C259CD3351A7AF47D4E" import="0">MC_Greece_LeaderFlavors.sql</File>
+    <File md5="0363C26796797711CCFD27BE58301333" import="0">MC_Greece_UnitPromotions.xml</File>
+    <File md5="830A73A163E0495DF33053734011B73D" import="0">MC_Sparta.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>MC_Sparta.sql</UpdateDatabase>
+      <UpdateDatabase>MC_Greece_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>MC_Greece_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>MC_Greece_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>MC_Greece_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>MC_Greece_LeaderFlavors.sql</UpdateDatabase>
+      <UpdateDatabase>MC_Greece_UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>MC_Sparta_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/SpartaLua.lua">
+      <Name>SpartaLua</Name>
+      <Description>Lua for Sparta</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Trait_Walls.lua">
+      <Name>Walls of Sparta</Name>
+      <Description>Irkalla Lua for Sparta</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

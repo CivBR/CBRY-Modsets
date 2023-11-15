@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_CHURCHPROPERTY</Type>
+			<Description>TXT_KEY_BELIEF_CHURCHPROPERTY</Description>
+			<ShortDescription>TXT_KEY_BELIEF_CHURCHPROPERTY_SHORT</ShortDescription>
+			<Founder>true</Founder>
+		</Row>
+	</Beliefs>
+	
+	<Belief_HolyCityYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_CHURCHPROPERTY</BeliefType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>5</Yield>
+		</Row>
+	</Belief_HolyCityYieldChanges>
+
+	<Belief_MaxYieldModifierPerFollower>
+		<Update>
+			<Set Max="10" />
+			<Where BeliefType="BELIEF_CHURCHPROPERTY" YieldType="YIELD_GOLD" />
+		</Update>
+	</Belief_MaxYieldModifierPerFollower>
+
+	<Language_en_US>
+	<Delete Tag="TXT_KEY_BELIEF_CHURCHPROPERTY" />
+		<Row Tag="TXT_KEY_BELIEF_CHURCHPROPERTY">
+			<Text>+5 [ICON_GOLD] Gold from the Holy City. +1% [ICON_GOLD] Gold for each follower (max +10%)</Text>
+		</Row>
+	<Row Tag="TXT_KEY_BELIEF_CHURCHPROPERTY_SHORT">
+			<Text>Church Property</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

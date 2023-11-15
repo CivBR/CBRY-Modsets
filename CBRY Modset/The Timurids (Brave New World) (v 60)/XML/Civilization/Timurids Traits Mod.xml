@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_JEWEL_OF_THE_EAST</Type>
+			<Description>TXT_KEY_TRAIT_JEWEL_OF_THE_EAST</Description>
+			<ShortDescription>TXT_KEY_TRAIT_JEWEL_OF_THE_EAST_SHORT</ShortDescription>
+			<UniqueCapture>1</UniqueCapture>
+		</Row>
+	</Traits>
+</GameData>

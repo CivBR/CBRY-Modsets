@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CARTHAGE (DIDO)-->
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_QART_HADASHT">
+			<Text>Qart Hadasht</Text>
+		</Row>
+		<!--PHOENICIAN HERITAGE-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_CARTHAGE_DIDO_SHORT">
+			<Text>Phoenician Heritage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_CARTHAGE_DIDO">
+			<Text>Coastal cities claim all workable water tiles when founded and begin with a nearby source of the unique luxury resource [ICON_RES_JFD_SHELLFISH] Shellfish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_JFD_SHELLFISH">
+			<Text>Shellfish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_JFD_SHELLFISH_TEXT">
+			<Text>Muricidae is the name of a large and varied taxonomic family of small to large predatory sea snails, marine gastropod mollusks, commonly known as murex snails or rock snails. With about 1,600 living species, the Muricidae represent almost 10% of the Neogastropoda. Additionally, 1,200 fossil species have been recognized. Numerous subfamilies are recognized, although experts disagree about the subfamily divisions and about defining the genera. Many muricids have unusual shells which are considered attractive by shell collectors and by interior designers.</Text>
+		</Row>
+		<!--COTHON-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_COTHON">
+			<Text>Cothon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_COTHON_HELP">
+			<Text>+1 [ICON_GOLD] Gold from Sea Resources worked by this city. Provides additional [ICON_STRENGTH] Defense when a naval unit begins stationed in this city.[NEWLINE][NEWLINE]Forms a [ICON_CONNECTED] City Connection with the [ICON_CAPITAL] Capital over water (if they're not already [ICON_CONNECTED] connected by land). Sea trade routes originating from this city have a 50% increase in range and produce an additional 1 [ICON_GOLD] Gold when connecting to another civilization.[NEWLINE][NEWLINE]City must be built on the coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_COTHON_STRATEGY">
+			<Text>The Cothon is Dido's unique building, replacing the Harbour. In addition to its regular abilities, the Cothon may be unlocked at the discovery of Optics. It also increases the [ICON_GOLD] Gold output of Sea Resources worked by the city and increases the [ICON_STRENGTH] Defense of the city when a naval unit begins stationed in it. Cities with a Cothon should make for impenetrable centres of commerce and growth, giving you early advantages in securing lucrative trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_COTHON_TEXT">
+			<Text>A cothon is an artificial, protected inner harbor such as that in Carthage during the Punic Wars c.200 BC. The cothon at Carthage was divided into a rectangular merchant harbor followed by an inner protected harbor reserved for military use only. This inner harbor was circular and surrounded by an outer ring of structures divided into a series of docking bays for ship maintenance, along with an island structure at its centre that also housed navy ships. Each individual docking bay featured a raised slipway. Above the raised docking bays was a second level consisting of warehouses where oars and rigging were kept along with supplies such as wood and canvas. On the island structure there existed a raised 'cabin' where the admiral in command could observe the whole harbor along with the surrounding sea. Altogether the inner docking complex could house up to 220 ships. The entire harbor was protected by an outer wall and the main entrance could be closed off with iron chains.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CARTHAGE_DIDO">
+			<Text>JFD: Carthage Dido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CARTHAGE_DIDO_HELP">
+			<Text>+1 [ICON_STRENGTH] City Defense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_COTHON">
+			<Text>Cothon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_COTHON_HELP">
+			<Text>Station this unit in a city with a Cothon to increase that city's [ICON_STRENGTH] Defense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_COTHON_CITY_VIEW_HELP">
+			<Text>+{1_Num} [ICON_STRENGTH] Defense from Naval garrison.</Text>
+		</Row>
+		<!--QUINQUEREME-->
+		<Row Tag="TXT_KEY_UNIT_JFD_QUINQUEREME_HELP">
+			<Text>Ancient Era Naval Unit used to protect your ocean's borders. Ignores enemy Zone of Control. Only Dido's Carthage may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_QUINQUEREME_STRATEGY">
+			<Text>Only Dido's Carthage may build this unit. It is a stronger version of the Trireme when beginning in friendly territory and ignores enemy Zone of Control. Like the Trireme it is a melee attack unit, engaging units at sea or cities (but it has no ranged attack).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_QUINQUEREME">
+			<Text>Merchant Waters</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_QUINQUEREME_HELP">
+			<Text>+2 [ICON_STRENGTH] Combat Strength when beginning its turn within your borders.[NEWLINE][NEWLINE]Ignores enemy Zone of Control.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_BURMANATS">
+			<Text>Designate the Official Nats</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BURMANATS_DESC">
+			<Text>
+			Our people seem to be rather attached to the worship of Nats, or spirits. It is unlikely we would be able to properly eradicate such superstition from the empire. Instead, let us designate an official pantheon of Nats so we will be able to at least influence what our people worship.[NEWLINE]
+			[NEWLINE]Requirement/Restrictions:
+			[NEWLINE][ICON_BULLET]Player must be Burma
+			[NEWLINE][ICON_BULLET]Must have Payas built in all cities founded by the player[NEWLINE][ICON_BULLET]May only be enacted once per game 
+			[NEWLINE]Costs:
+			[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+			[NEWLINE]Rewards:
+			[NEWLINE][ICON_BULLET]Payas provide +1 [ICON_PEACE] Faith and +1 [ICON_HAPPINESS_1] Happiness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BURMANATS_ENACTED_DESC">
+			<Text>
+			Our people seem to be rather attached to the worship of Nats, or spirits. It is unlikely we would be able to properly eradicate such superstition from the empire. Instead, let us designate an official pantheon of Nats so we will be able to at least influence what our people worship.[NEWLINE]
+			[NEWLINE]Rewards:
+			[NEWLINE][ICON_BULLET]Payas provide +1 [ICON_PEACE] Faith and +1 [ICON_HAPPINESS_1] Happiness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BURMACHRONICLES">
+			<Text>Collate the Royal Burmese Chronicles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BURMACHRONICLES_DESC">
+			<Text>
+				Burma has a rich literary history, and of our neighbours, we have one of the most complete, detailed and continuous records of our nation's past. We should gather them, catalogue them and maintain them for all the generations to come.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Burma
+				[NEWLINE][ICON_BULLET]Must have Payas built in all cities founded by the player
+				[NEWLINE][ICON_BULLET]Must have researched Civil Service
+				[NEWLINE][ICON_BULLET]May only be enacted once per game 
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Payas provide +1 [ICON_CULTURE] Culture and +1 [ICON_HAPPINESS_1] Happiness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BURMACHRONICLES_ENACTED_DESC">
+			<Text>
+				Burma has a rich literary history, and of our neighbours, we have one of the most complete, detailed and continuous records of our nation's past. We should gather them, catalogue them and maintain them for all the generations to come.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Payas provide +1 [ICON_CULTURE] Culture and +1 [ICON_HAPPINESS_1] Happiness
+
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

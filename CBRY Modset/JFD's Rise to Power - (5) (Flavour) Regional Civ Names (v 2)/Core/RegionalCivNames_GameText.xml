@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--===================================================-->
+		<!--CIVILIZATIONS-->
+		<!--===================================================-->
+		<Row Tag="TXT_KEY_JFD_RCN_CIVILIZATION">
+			<Text>{1_Desc} Civilization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_EMPIRE">
+			<Text>{1_Desc} Empire</Text>
+		</Row>
+			<Row Tag="TXT_KEY_JFD_RCN_CAPITAL">
+			<Text>Capital {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_CAPITAL_PL">
+			<Text>The Capital {1_Desc}</Text>
+		</Row>
+		<!--NEW-->
+		<Row Tag="TXT_KEY_JFD_RCN_FREE">
+			<Text>Free {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_FREE_PL">
+			<Text>The Free {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_NEO">
+			<Text>Neo-{1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_NEO_PL">
+			<Text>The Neo-{1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_NEW">
+			<Text>New {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_NEW_PL">
+			<Text>The New {1_Desc}</Text>
+		</Row>
+		<!--DIRECTIONAL-->
+		<Row Tag="TXT_KEY_JFD_RCN_EAST">
+			<Text>East {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_EAST_PL">
+			<Text>The Eastern {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_LOWER">
+			<Text>Lower {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_LOWER_PL">
+			<Text>The Lower {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_NORTH">
+			<Text>North {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_NORTH_PL">
+			<Text>The Northern {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_SOUTH">
+			<Text>South {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_SOUTH_PL">
+			<Text>The Southern {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_UPPER">
+			<Text>Upper {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_UPPER_PL">
+			<Text>The Upper {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_WEST">
+			<Text>West {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_WEST_PL">
+			<Text>The Western {1_Desc}</Text>
+		</Row>
+		<!--CONTINENTAL-->
+		<Row Tag="TXT_KEY_JFD_RCN_AMERICA">
+			<Text>Columbian {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_AMERICA_PL">
+			<Text>The Columbian {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_ASIA">
+			<Text>Far {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_ASIA_PL">
+			<Text>The Far {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_EUROPE">
+			<Text>Continental {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_EUROPE_PL">
+			<Text>The Continental {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_GRECO_ROMAN">
+			<Text>Occidental {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_GRECO_ROMAN_PL">
+			<Text>The Occidental {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_MIDDLE_EAST">
+			<Text>Oriental {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_MIDDLE_EAST_PL">
+			<Text>The Oriental {1_Desc}</Text>
+		</Row>
+		<!--NEW-->
+		<Row Tag="TXT_KEY_JFD_RCN_OLD">
+			<Text>Old {1_Desc}</Text>
+		</Row>
+				<Row Tag="TXT_KEY_JFD_RCN_FIRST">
+			<Text>First {1_Desc}</Text>
+		</Row>
+				<Row Tag="TXT_KEY_JFD_RCN_LOST">
+			<Text>Lost {1_Desc}</Text>
+		</Row>
+				<Row Tag="TXT_KEY_JFD_RCN_UPSTART">
+			<Text>Upstart {1_Desc}</Text>
+		</Row>
+				<Row Tag="TXT_KEY_JFD_RCN_ETERNAL">
+			<Text>Eternal {1_Desc}</Text>
+		</Row>
+				<Row Tag="TXT_KEY_JFD_RCN_BROKEN">
+			<Text>Broken {1_Desc}</Text>
+		</Row>
+				<Row Tag="TXT_KEY_JFD_RCN_FORGOTTEN">
+			<Text>Forgotten {1_Desc}</Text>
+		</Row>
+				<Row Tag="TXT_KEY_JFD_RCN_CHAD">
+			<Text>Chad {1_Desc}</Text>
+		</Row>
+				<Row Tag="TXT_KEY_JFD_RCN_SUPREME">
+			<Text>Supreme {1_Desc}</Text>
+		</Row>
+						<Row Tag="TXT_KEY_JFD_RCN_GOLDEN">
+			<Text>Golden {1_Desc}</Text>
+		</Row>
+						<Row Tag="TXT_KEY_JFD_RCN_EMINENT">
+			<Text>Eminent {1_Desc}</Text>
+		</Row>
+						<Row Tag="TXT_KEY_JFD_RCN_EXPLOSIVE">
+			<Text>Explosive {1_Desc}</Text>
+		</Row>
+						<Row Tag="TXT_KEY_JFD_RCN_FERAL">
+			<Text>Feral {1_Desc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RCN_PUNISHED">
+			<Text>Punished {1_Desc}</Text>
+		</Row>
+
+	<Row Tag="TXT_KEY_JFD_RCN_SHINY">
+			<Text>Shiny {1_Desc}</Text>
+		</Row>
+			<Row Tag="TXT_KEY_JFD_RCN_METAL">
+			<Text>Metal {1_Desc}</Text>
+		</Row>
+			<Row Tag="TXT_KEY_JFD_RCN_SHIN">
+			<Text>Shin {1_Desc}</Text>
+		</Row>
+			<Row Tag="TXT_KEY_JFD_RCN_SUPER">
+			<Text>Super {1_Desc}</Text>
+		</Row>
+			<Row Tag="TXT_KEY_JFD_RCN_DARK">
+			<Text>Dark {1_Desc}</Text>
+		</Row>
+			<Row Tag="TXT_KEY_JFD_RCN_GIGA">
+			<Text>Giga {1_Desc}</Text>
+		</Row>
+			<Row Tag="TXT_KEY_JFD_RCN_CORRUPTED">
+			<Text>Corrupted {1_Desc}</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

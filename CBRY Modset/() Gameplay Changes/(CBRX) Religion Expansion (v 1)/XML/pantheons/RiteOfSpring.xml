@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_RITE_OF_SPRING</Type>
+			<Description>TXT_KEY_BELIEF_RITE_OF_SPRING</Description>
+			<ShortDescription>TXT_KEY_BELIEF_RITE_OF_SPRING_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+	</Beliefs>
+
+	<Belief_ImprovementYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_RITE_OF_SPRING</BeliefType>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RITE_OF_SPRING</BeliefType>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RITE_OF_SPRING</BeliefType>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RITE_OF_SPRING</BeliefType>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Belief_ImprovementYieldChanges>
+	
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_RITE_OF_SPRING" />
+		<Row Tag="TXT_KEY_BELIEF_RITE_OF_SPRING">
+			<Text>+1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith from Pastures and Plantations</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_BELIEF_RITE_OF_SPRING_SHORT" />
+		<Row Tag="TXT_KEY_BELIEF_RITE_OF_SPRING_SHORT">
+			<Text>Rite of Spring</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/20/2018 9:36:12 AM -->
+<GameData>
+
+	<Belief_BuildingClassYieldChanges>
+		<Delete BeliefType="BELIEF_RELIGIOUS_ART" />
+	</Belief_BuildingClassYieldChanges>
+
+	<Belief_BuildingClassYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_ART</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_WRITERS_GUILD</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>8</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_ART</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ARTISTS_GUILD</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>8</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_ART</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MUSICIANS_GUILD</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>8</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_ART</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_WRITERS_GUILD</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>8</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_ART</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ARTISTS_GUILD</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>8</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_ART</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MUSICIANS_GUILD</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>8</YieldChange>
+		</Row>
+	</Belief_BuildingClassYieldChanges>
+
+	<Belief_BuildingClassTourism>
+		<Delete BeliefType="BELIEF_RELIGIOUS_ART" />
+	</Belief_BuildingClassTourism>
+
+	<Belief_BuildingClassTourism>
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_ART</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_WRITERS_GUILD</BuildingClassType>
+			<Tourism>8</Tourism>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_ART</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_ARTISTS_GUILD</BuildingClassType>
+			<Tourism>8</Tourism>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_RELIGIOUS_ART</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_MUSICIANS_GUILD</BuildingClassType>
+			<Tourism>8</Tourism>
+		</Row>
+	</Belief_BuildingClassTourism>
+
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_RELIGIOUS_ART" />
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ART">
+			<Text>+6 [ICON_CULTURE] Culture, +6 [ICON_PEACE] Faith, and +6 [ICON_TOURISM] Tourism from Guilds</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_BELIEF_RELIGIOUS_ART_SHORT" />
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_ART_SHORT">
+			<Text>Religious Artisans</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

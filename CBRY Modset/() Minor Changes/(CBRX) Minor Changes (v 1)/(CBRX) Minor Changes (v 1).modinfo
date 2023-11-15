@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d789e5d9-7c5a-4bbe-9678-04bc4c0433ca" version="1">
+  <Properties>
+    <Name>(CBRX) Minor Changes</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>(CBRX) Minor Changes</Teaser>
+    <Description>(CBRX) Minor Changes</Description>
+    <Authors>Limerickarcher</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    
+  </Dependencies>
+  <References>
+    <Mod id="d9ece224-6cd8-4519-a27a-c417b59cdf35" minversion="0" maxversion="999" title="Dummy Loading" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="B1E92C1DD073C2CF1DA7E55B6837016F" import="0">ActiveRel.xml</File>
+    <File md5="373D6E725DE2DDA7763CB3D32D7AA217" import="0">AI.sql</File>
+    <File md5="762228B91EE7AA642A8CB3D03B39D153" import="0">ArchaeologistGenocideWhen.xml</File>
+    <File md5="9FEC5A0F2561E5DE14198B013FCC8118" import="0">Cities2_GlobalDefines.xml</File>
+    <File md5="3B43715F49890FABB4569E7B7D1A968E" import="0">cities_names.sql</File>
+    <File md5="F0B1BA044988AEF6BB7F178A93FB167E" import="0">cities_sql.sql</File>
+    <File md5="C3611DC9EE0795075C41728139249915" import="0">Historic Eras.sql</File>
+    <File md5="129E64F41E85D6E6C28DE7D2F848A9F7" import="0">New Colors.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>ActiveRel.xml</UpdateDatabase>
+      <UpdateDatabase>AI.sql</UpdateDatabase>
+      <UpdateDatabase>ArchaeologistGenocideWhen.xml</UpdateDatabase>
+      <UpdateDatabase>Cities2_GlobalDefines.xml</UpdateDatabase>
+      <UpdateDatabase>New Colors.sql</UpdateDatabase>
+      <UpdateDatabase>Historic Eras.sql</UpdateDatabase>
+      <UpdateDatabase>cities_sql.sql</UpdateDatabase>
+      <UpdateDatabase>cities_names.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

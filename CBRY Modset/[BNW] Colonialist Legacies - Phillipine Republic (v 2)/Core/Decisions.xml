@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/22/2014 1:00:11 AM
+<GameData>
+	<Policies>
+		<Row>
+			<Type>POLICY_NOLIMETANGERE</Type>
+			<Description>TXT_KEY_POLICY_FREE_RELIGION</Description>
+			<Civilopedia>TXT_KEY_POLICY_FREERELIGION_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_FREE_RELIGION_HELP</Help>
+			<GridX>984</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+	<Policy_BuildingClassYieldChanges>
+		<Row>
+			<PolicyType>POLICY_NOLIMETANGERE</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_HARBOR</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>-1</YieldChange>
+		</Row>
+	</Policy_BuildingClassYieldChanges>
+	<Policy_BuildingClassYieldModifiers>
+		<Row>
+			<PolicyType>POLICY_NOLIMETANGERE</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_PUBLIC_SCHOOL</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldMod>10</YieldMod>
+		</Row>
+	</Policy_BuildingClassYieldModifiers>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_PHILIPPINES_FOUNDKATIPUNAN_NAME">
+			<Text>Found the Katipunan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_PHILIPPINES_FOUNDKATIPUNAN_DESC">
+			<Text>
+				The people are in a fervor. Frenzied citizens are displeased with the current government and yearn for a change. Founding the Katipunan, a revolutionary party - may be able to change the actions of our oppressors.
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Philippines
+				[NEWLINE][ICON_BULLET]Player must have researched Rifling
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]150 [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]100 [ICON_GOLDEN_AGE] Golden Age Points
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive 3 free Katipunero units
+				[NEWLINE][ICON_BULLET]Receive a free Great General
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_PHILIPPINES_FOUNDKATIPUNAN_ADOPTED">
+			<Text>
+				The people are in a fervor. Frenzied citizens are displeased with the current government and yearn for a change. Founding the Katipunan, a revolutionary party - may be able to change the actions of our oppressors.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive 3 free Katipunero units
+				[NEWLINE][ICON_BULLET]Receive a free Great General
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_PHILIPPINES_NOLIMETANGERE_NAME">
+			<Text>Encourage Readings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_PHILIPPINES_NOLIMETANGERE_DESC">
+			<Text>
+				Our students and scholars must be informed of our roots, and by making the reading of your novels mandatory, O Rizal, you may inspire a new generation of enlightened Filipinos.
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Philippines
+				[NEWLINE][ICON_BULLET]Player must have 3 or more Coral Churches
+				[NEWLINE][ICON_BULLET]Player must have 3 or more Public Schools
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]200 [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]200 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]100 [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+10% [ICON_CULTURE] Culture in cities with a Public School
+				[NEWLINE][ICON_BULLET]-1 [ICON_PEACE] Faith from Coral Churches.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_PHILIPPINES_NOLIMETANGERE_ADOPTED">
+			<Text>
+				Our students and scholars must be informed of our roots, and by making the reading of your novels mandatory, O Rizal, you may inspire a new generation of enlightened Filipinos.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+10% [ICON_CULTURE] Culture in cities with a Public School
+				[NEWLINE][ICON_BULLET]-1 [ICON_PEACE] Faith from Coral Churches.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData> -->

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- PRC (Mao) -->
+		<Row Tag="TXT_KEY_CIV_OW_PRC_MAO_DESC">
+			<Text>People's Republic of China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OW_PRC_MAO_SHORTDESC">
+			<Text>China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_OW_PRC_MAO_ADJ">
+			<Text>Chinese</Text>
+		</Row>
+		<!-- Promotions-->
+		<Row Tag ="TXT_KEY_PROMOTION_OW_REDGUARD">
+			<Text>The Long March</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OW_REDGUARD_HELP">
+			<Text>Increased movement because of the unit's wounded status.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_1">
+			<Text>Beijing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_2">
+			<Text>Shanghai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_3">
+			<Text>Tianjin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_4">
+			<Text>Chonqing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_5">
+			<Text>Guangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_6">
+			<Text>Shaoshan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_7">
+			<Text>Shenzen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_8">
+			<Text>Wuhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_9">
+			<Text>Dongguan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_10">
+			<Text>Chengdu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_11">
+			<Text>Nanjing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_12">
+			<Text>Harbin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_13">
+			<Text>Xi'an</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_14">
+			<Text>Senyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_15">
+			<Text>Hangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_16">
+			<Text>Suzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_17">
+			<Text>Qingdao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_18">
+			<Text>Jinan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_19">
+			<Text>Zhengzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_20">
+			<Text>Dalian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_21">
+			<Text>Kuming</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_22">
+			<Text>Wuxi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_23">
+			<Text>Xiamen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_24">
+			<Text>Changchun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_25">
+			<Text>Mingbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_26">
+			<Text>Nanning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_27">
+			<Text>Taiyuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_28">
+			<Text>Hefei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_29">
+			<Text>Changzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_30">
+			<Text>Tangashan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_31">
+			<Text>Changsha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_32">
+			<Text>Xuzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_33">
+			<Text>Wenzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_34">
+			<Text>Guiyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_35">
+			<Text>Ürümqi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_36">
+			<Text>Zibo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_37">
+			<Text>Fuzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OW_PRC_MAO_38">
+			<Text>Shijiazhuang</Text>
+		</Row>
+		<!--Spy List-->
+		<Row Tag="TXT_KEY_SPY_NAME_OW_PRC_MAO_0">
+			<Text>Li Kenong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OW_PRC_MAO_1">
+			<Text>Mo Xiong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OW_PRC_MAO_2">
+			<Text>Xiong Xianghui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OW_PRC_MAO_3">
+			<Text>Huang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OW_PRC_MAO_4">
+			<Text>Zhao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OW_PRC_MAO_5">
+			<Text>Wu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OW_PRC_MAO_6">
+			<Text>Zhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OW_PRC_MAO_7">
+			<Text>Sun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OW_PRC_MAO_8">
+			<Text>Yang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OW_PRC_MAO_9">
+			<Text>Mao</Text>
+		</Row>
+		<!-- MAO -->
+		<Row Tag="TXT_KEY_LEADER_OW_PRC_MAO">
+			<Text>Mao Zedong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OW_PRC_MAO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OW_PRC_MAO_TEXT_1">
+			<Text>Mao Zedong was born in 1893 in the village of Shaoshan, China. His father, Mao Yichang was born an impoverished peasant, but had become one of the wealthiest farmers in Shaoshan. Zedong described his father as a harsh disciplinarian who would beat him and his three siblngs. His mother, Wen Qimei, was a Buddhist, and tried to temper her husband's harsh attitude. Zedong too became a Buddhist, although he abandoned his faith in his mid teenage years. At the age of 8, Mao was sent to Shaoshan primary school, where he studied until the age of 13. After he finished primary school, his father had him married to 17-year-old Luo Yigu, although Mao never recognized her as his wife. Mao read voraciously, interested especially in politics and history, and inspired by the military prowess of men such as George Washington and Napoleon Bonaparte.[NEWLINE][NEWLINE]In 1911, Mao began middle school in Changsha. Mao was influenced heavily by the revolutonary sentiment in the city. He wrote an essay advocating the that Sun Yat-sen be made president, and joined his friend in cutting off his pigtail, which was a sign of subservience to the emperor. Sun Yat-sen soon inspired the army to rebel across Southern China, in what was called the Xinhai Revolution. Mao joined the rebel army, although he was not actually involved in combat. The monarchy would eventually be abolished, although Yuan Shikai would become President, rather than Sun. Around the time of the rebellion, Mao discovered socialism from a newspaper article, and began to read pamphlets put out by the Chinese Socialist Party. Mao was interested in the idea, although not entirely convinced.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OW_PRC_MAO_LIVED">
+			<Text>1893 - 1976</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OW_PRC_MAO_NAME">
+			<Text>Mao Zedong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OW_PRC_MAO_TITLES_1">
+			<Text>Chairman of the People's Republic of China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OW_PRC_MAO_SUBTITLE">
+			<Text>President of China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_OW_PRC_MAO_TEXT">
+			<Text>
+				Salutations, Chairman Mao Zedong. Through your teachings and your leadership, you led a successful revolution in China, ending millennia of dynastic rule, imperialist influence, and internal strife in favor of the world’s most successful Communist state. Embroiled in a civil war against those who saw a different path for China, you made a temporary truce to halt the advance of the imperialist Japanese.  Just a few years after, you took Beijing and formed the People’s Republic of China, now a stable and prosperous state, the most populous country in the world.[NEWLINE] [NEWLINE] Chairman, your people call for you once again. Will you continue to provoke radical thought among your people? Will you help preserve the new China in a world of conflict? Will you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<!-- THE LONG MARCH -->
+		<Row Tag="TXT_KEY_TRAIT_OW_MAO">
+			<Text>Land units generate [ICON_CULTURE] Culture for moving in enemy territory, increased by every Social Policy tree completed or level 3 Tenet enacted.  Units below 33% health receieve +1 [ICON_MOVE] movement point and double movement in hill tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_OW_MAO_SHORT">
+			<Text>The Long March</Text>
+		</Row>
+		<!-- RED GUARD -->
+		<Row Tag="TXT_KEY_UNIT_OW_REDGUARD">
+			<Text>Red Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OW_REDGUARD_TEXT">
+			<Text>The Red Guards were a paramilitary social movement mobilized by Mao Zedong from 1966 - 1967.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_OW_REDGUARD">
+			<Text>Rifleman replacement unique to Mao's China.  It is weaker, but a free Red Guard is spawned next to built ones whenever a Social Policy is enacted. A Red Guard stationed in a city costs no maintenance and generates culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OW_REDGUARD_STRATEGY">
+			<Text>The Red Guard is the Chinese Rifleman replacement.  While it is weaker, it can be used domestically to boost culture.  Enacting a social policy can double the size of your army..</Text>
+		</Row>
+		<!-- DAHUITANG -->
+		<Row Tag="TXT_KEY_BUILDING_OW_DAHUITANG">
+			<Text>Dahuitang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OW_DAHUITANG_TEXT">
+			<Text>Dahuitang refers to the Great Hall of the People, the home to the People's Republic of China's National People's Congress, in Beijing.  The Dahuitang building exemplifies the slow but steady attempt by Mao Zedong to have his ideology reach even the furthest corners of vast China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OW_DAHUITANG_STRATEGY">
+			<Text>The dahuitang has an additional Great Work slot, allowing for Great Writers to be expended early on.  When all three slots are filled with Chinese works, a theming bonus is activated which grants even more culture and additional experience for units trained in that city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HELP_OW_DAHUITANG">
+			<Text>This unique Amphitheater for Mao's People's Republic allows for an early expenditure of Great Writers, and can provide +3 Culture and +10 XP to trained units when the building is filled with Chinese works.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OW_DAHUITANG_CITY_VIEW_HELP">
+			<Text>+3 [ICON_CULTURE] Culture and +10 Unit Experience with the Dahuitang's theming bonus active.</Text>
+		</Row>
+		<!-- NOTIFICATIONS-->
+		<Row Tag="TXT_KEY_OW_MAO_SPAWN_NOTIFICATION_TITLE">
+			<Text>Red Guard ready</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OW_MAO_SPAWN_NOTIFICATION_TEXT">
+			<Text>A new Red Guard unit is ready near {1_City}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OW_MAO_CULTURE_ALERT_TEXT">
+			<Text>You have gained {1_Amount} culture from a unit moving in enemy lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OW_MAO_GARRISON_CULTURE_ALERT_TEXT">
+			<Text>You have gained {1_Amount} culture from a garrisoned Red Guard in {2_City}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_BUILDING_OW_DAHUITANG">
+			<Text>Place two Chinese of Great Works of Art to gain +10 XP for trained units in this city, and +3 Culture.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

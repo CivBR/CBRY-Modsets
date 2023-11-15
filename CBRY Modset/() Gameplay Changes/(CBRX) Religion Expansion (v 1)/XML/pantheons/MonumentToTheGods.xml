@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Beliefs>
+		<Update>
+			<Set WonderProductionModifier="20" ObsoleteEra="ERA_RENAISSANCE" />
+			<Where Type="BELIEF_MONUMENT_GODS" />
+		</Update>
+	</Beliefs>
+	
+	<!-- localization -->
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_MONUMENT_GODS" />
+		<Row Tag="TXT_KEY_BELIEF_MONUMENT_GODS">
+			<Text>+20% [ICON_PRODUCTION] Production towards Ancient, Classical, and Medieval Wonders</Text>
+		</Row>
+	</Language_en_US>
+
+
+
+</GameData>

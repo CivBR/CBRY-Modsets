@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Beliefs>
+		<Delete Type="BELIEF_AXISMUNDI" />
+		<Row>
+			<Type>BELIEF_AXISMUNDI</Type>
+			<Description>TXT_KEY_BELIEF_AXISMUNDI</Description>
+			<ShortDescription>TXT_KEY_BELIEF_AXISMUNDI_SHORT</ShortDescription>
+			<Founder>true</Founder>
+			<SpreadStrengthModifier>5</SpreadStrengthModifier>
+		</Row>
+	</Beliefs>
+
+   <Buildings>
+		<Row>
+			<Type>BUILDING_CBRX_PANTHEON_AXIS_MUNDI</Type>
+			<BuildingClass>BUILDINGCLASS_CBRX_PANTHEON_AXIS_MUNDI</BuildingClass>
+			<ReligiousPressureModifier>50</ReligiousPressureModifier>
+			<Description>TXT_KEY_BUILDING_CBRX_PANTHEON_AXIS_MUNDI</Description>
+			<Help>TXT_KEY_BUILDING_CBRX_PANTHEON_AXIS_MUNDI_HELP</Help>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+		</Row>
+	</Buildings>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BELIEF_AXISMUNDI">
+			<Text>50% religious pressure from the Holy City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_AXISMUNDI_SHORT">
+			<Text>Axis Mundi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CBRX_PANTHEON_AXIS_MUNDI">
+			<Text>Axis Mundi Dummy Building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CBRX_PANTHEON_AXIS_MUNDI_HELP">
+			<Text>Axis Mundi Dummy</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

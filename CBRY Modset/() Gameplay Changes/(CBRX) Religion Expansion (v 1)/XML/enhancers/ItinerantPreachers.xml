@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+  
+  <Beliefs>
+	<Delete Type="BELIEF_ITINERANT_PREACHERS" />
+	<Row>
+		<Type>BELIEF_ITINERANT_PREACHERS</Type>
+		<Description>TXT_KEY_BELIEF_ITINERANT_PREACHERS</Description>
+		<ShortDescription>TXT_KEY_BELIEF_ITINERANT_PREACHERS_SHORT</ShortDescription>
+		<Enhancer>true</Enhancer>
+		<SpreadDistanceModifier>30</SpreadDistanceModifier>
+	</Row>
+  </Beliefs>
+  
+  	<Language_en_US>
+	  <Delete Tag="TXT_KEY_BELIEF_ITINERANT_PREACHERS" />
+		<Delete Tag="TXT_KEY_BELIEF_ITINERANT_PREACHERS_SHORT" />
+		<Row Tag="TXT_KEY_BELIEF_ITINERANT_PREACHERS">
+			<Text>Religion spreads to cities 30% further away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_ITINERANT_PREACHERS_SHORT">
+			<Text>Holy Order</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>	
+		<!--Chagatai Literature-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_TIMURID_CHAGATAI">
+			<Text>Promote Chagatai Literature</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_TIMURID_CHAGATAI_DESC">
+			<Text>
+				Although we have adopted Persian courtly culture, we should not forget our Turkic heritage. Let us encourage our poets to also write in the vernacular and develop a Chagatai literary tradition.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Timurids
+				[NEWLINE][ICON_BULLET]Must have constructed a Writers' Guild
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]+2 [ICON_GREAT_PEOPLE] Great Writer Points per turn in the City which contains the Writers' Guild
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount of [ICON_CULTURE] Culture received increases with every Game Era.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_TIMURID_CHAGATAI_ENACTED_DESC">
+			<Text>Although we have adopted Persian courtly culture, we should not forget our Turkic heritage. Let us encourage our poets to also write in the vernacular and develop a Chagatai literary tradition.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump Sum of [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]+2 [ICON_GREAT_PEOPLE] Great Writer Points per turn in the City which contains the Writers' Guild
+			</Text>
+		</Row>
+		<!--Silk Road-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_TIMURID_SILK_ROAD">
+			<Text>Trade Along the Silk Road</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_TIMURID_SILK_ROAD_DESC">
+			<Text>Our capital stands at the heart of the fabled Silk Road. We should build a network of inns to encourage merchants and facilitate the flow of commerce.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Timurids
+				[NEWLINE][ICON_BULLET]Player must have researched Horseback Riding
+				[NEWLINE][ICON_BULLET]At least 2 Civilizations must have an active Trade Route to the Timurids
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Free Caravansary in all Cities
+				[NEWLINE][ICON_BULLET]Incoming Trade Routes generate an additional 1 [ICON_GOLD] Gold for both the Trade Route owner and the Timurids
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_TIMURID_SILK_ROAD_ENACTED_DESC">
+			<Text>Our capital stands at the heart of the fabled Silk Road. We should build a network of inns to encourage merchants and facilitate the flow of commerce.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Free Caravansary in all Cities
+				[NEWLINE][ICON_BULLET]Incoming Trade Routes generate an additional 1 [ICON_GOLD] Gold for both the Trade Route owner and the Timurids
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
+
+
+
+

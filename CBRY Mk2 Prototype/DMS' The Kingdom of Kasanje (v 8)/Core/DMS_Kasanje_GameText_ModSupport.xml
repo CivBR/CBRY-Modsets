@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- JFD's Cities in Development -->
+		<Row Tag="TXT_KEY_UNIT_DMS_MAVALA_CID_STRATEGY">
+			<Text>The Mavala is one of two Imbagalan unique units, replacing the Worker. It cannot be trained nor bought, but is only obtained by constructing Cultural buildings in your Cities, and when new Citizens are born in captured Cities. The Mavala provides a free [ICON_CITIZEN] Citizen in the Kasanje City with the lowest population upon having expended all its uses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_MAVALA_CID_HELP">
+			<Text>Worker replacing Unit. Only the Kasanje may obtain it. This Unit provides a free [ICON_CITIZEN] Citizen in the Kasanje City with the lowest population upon having expended all its uses.</Text>
+		</Row>
+		<!-- JFD's SOVEREIGNTY -->
+		<!-- RYOGA's UNIQUE CULTURAL INFLUENCE -->
+		<!-- SUKRITACT's DECISIONS -->
+		<!-- Perform the Sangamento -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_SANGAMENTO">
+			<Text>Perform the Sangamento</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_SANGAMENTO_DESC">
+			<Text>
+				Our soldiers must be forever loyal to their officieting commanders. The best way for them to prove their loyalty would be in the traditional sangamento - military reviews including large-scale war dances where each individual has to demonstrate both dexterity and ferociousness against imaginary foes.
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kasanje
+				[NEWLINE][ICON_BULLET]Must be before the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{2_Culture} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your most experience Melee Unit receive +20 Experience
+				[NEWLINE][ICON_BULLET]There is a 25% chance Melee Units in the Captured Cities receive +10 Experience upon being trained
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_SANGAMENTO_ENACTED_DESC">
+			<Text>
+				Our soldiers must be forever loyal to their officieting commanders. The best way for them to prove their loyalty would be in the traditional sangamento - military reviews including large-scale war dances where each individual has to demonstrate both dexterity and ferociousness against imaginary foes.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your strongest Melee Unit receive +20 Experience
+				[NEWLINE][ICON_BULLET]There is a 25% chance Melee Units in the Captured Cities receive +10 Experience upon being trained
+			</Text>
+		</Row>
+		<!-- The Kixila Laws -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_KIXILA_LAWS">
+			<Text>The Kixila Laws</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_KIXILA_LAWS_DESC">
+			<Text>
+				To destroy the old traditions that maintain our subjects separate, we shall engage in deliberate taboo, so we can build a new society, forged in blood.
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kasanje
+				[NEWLINE][ICON_BULLET]Must have at least 4 [ICON_CITIZEN] Citizens in the Capital
+				[NEWLINE][ICON_BULLET]Must have at least 3 Captured Cities
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All currently owned Military Units gain the ability to Pillage Tiles without spending a Move Point
+				[NEWLINE][ICON_BULLET]+15% [ICON_FOOD] Food in the Capital during War
+				[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]3 [ICON_CITIZEN] Citizens in the Capital and 1 Citizen in all Captured Cities are killed (Current total: {1_citizens} Citizens)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_KIXILA_LAWS_ENACTED_DESC">
+			<Text>
+				To destroy the old traditions that maintain our subjects separate, we shall engage in deliberate taboo, so we can build a new society, forged in blood.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All currently owned Military Units gain the ability to Pillage Tiles without spending a Move Point
+				[NEWLINE][ICON_BULLET]+15% [ICON_FOOD] Food in the Capital during War
+				[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]3 [ICON_CITIZEN] Citizens in the Capital and 1 Citizen in all Captured Cities are killed[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_KIXILA_LAWS">
+			<Text>Kixila Laws</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_KIXILA_LAWS_HELP">
+			<Text>Pillaging does not use a Move Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_KIXILA_LAWS">
+			<Text>Kixila Laws dummy building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_KIXILA_LAWS_HELP">
+			<Text>Kixila Laws dummy building help</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- VICEVIRTUOSO's WISH FOR THE WORLD -->
+		<!-- SUKRITACT'S MCIS -->
+	</Language_en_US>
+</GameData>

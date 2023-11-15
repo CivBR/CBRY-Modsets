@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_MANDATORY_TRIBUTE</Type>
+			<Description>TXT_KEY_BELIEF_MANDATORY_TRIBUTE</Description>
+			<ShortDescription>TXT_KEY_BELIEF_MANDATORY_TRIBUTE_SHORT</ShortDescription>
+			<Enhancer>true</Enhancer>
+		</Row>
+	</Beliefs>
+
+	<Belief_BuildingClassYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_MANDATORY_TRIBUTE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>13</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MANDATORY_TRIBUTE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<YieldChange>13</YieldChange>
+		</Row>
+	</Belief_BuildingClassYieldChanges>
+	
+	<Belief_CityYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_MANDATORY_TRIBUTE</BeliefType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>-2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_MANDATORY_TRIBUTE</BeliefType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>-2</Yield>
+		</Row>
+	</Belief_CityYieldChanges>
+
+	<Language_en_US>
+	<Delete Tag="TXT_KEY_BELIEF_MANDATORY_TRIBUTE" />
+		<Row Tag="TXT_KEY_BELIEF_MANDATORY_TRIBUTE">
+			<Text>+15 [ICON_FOOD] Food and +15 [ICON_PRODUCTION] in the Capital but -2 [ICON_FAITH] Faith and -2 [ICON_CULTURE] Culture in all other cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MANDATORY_TRIBUTE_SHORT">
+			<Text>Mandatory Tribute</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

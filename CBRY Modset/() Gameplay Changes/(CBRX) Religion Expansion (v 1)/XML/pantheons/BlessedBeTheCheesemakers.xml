@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_BLESSED_BE_THE_CHEESEMAKERS</Type>
+			<Description>TXT_KEY_BELIEF_BLESSED_BE_THE_CHEESEMAKERS</Description>
+			<ShortDescription>TXT_KEY_BELIEF_BLESSED_BE_THE_CHEESEMAKERS_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+	</Beliefs>
+	<Belief_ImprovementYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_BLESSED_BE_THE_CHEESEMAKERS</BeliefType>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_BLESSED_BE_THE_CHEESEMAKERS</BeliefType>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Belief_ImprovementYieldChanges>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BELIEF_BLESSED_BE_THE_CHEESEMAKERS">
+			<Text>+1 [ICON_PRODUCTION] Production and +1 [ICON_PEACE] Faith from Pastures.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_BLESSED_BE_THE_CHEESEMAKERS_SHORT">
+			<Text>Blessed Be The Cheesemakers</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

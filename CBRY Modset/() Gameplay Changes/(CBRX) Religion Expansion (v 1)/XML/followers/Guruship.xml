@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Beliefs>
+		<Update>
+			<Set Follower="true" Founder="false" />
+			<Where Type="BELIEF_GURUSHIP" />
+		</Update>
+	</Beliefs>
+	
+	<Belief_YieldChangeAnySpecialist>
+		<Delete BeliefType="BELIEF_GURUSHIP" />
+	</Belief_YieldChangeAnySpecialist>
+	
+	<Belief_SpecialistYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_GURUSHIP</BeliefType>
+			<SpecialistType>SPECIALIST_ENGINEER</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GURUSHIP</BeliefType>
+			<SpecialistType>SPECIALIST_MERCHANT</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_GURUSHIP</BeliefType>
+			<SpecialistType>SPECIALIST_SCIENTIST</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Belief_SpecialistYieldChanges>
+
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_GURUSHIP" />
+		<Row Tag="TXT_KEY_BELIEF_GURUSHIP">
+			<Text>+2 [ICON_PEACE] Faith from Scientist, Engineer, and Merchant Specialists.</Text>
+		</Row>
+	</Language_en_US>
+	
+</GameData>

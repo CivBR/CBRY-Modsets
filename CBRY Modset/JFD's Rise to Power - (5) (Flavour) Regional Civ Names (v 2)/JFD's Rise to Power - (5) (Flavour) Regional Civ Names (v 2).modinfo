@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f45440d3-69de-411f-a6dd-672040f3a1e0" version="2">
+  <Properties>
+    <Name>JFD's Rise to Power - (5) (Flavour) Regional Civ Names</Name>
+    <Teaser>[COLOR_CYAN]Regional Civ Names[ENDCOLOR] component for Rise to Power. Click for details.</Teaser>
+    <Description>[COLOR_CYAN]Regional Civ Names[ENDCOLOR] component for Rise to Power.</Description>
+    <Authors>JFD</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="a2cfe2eb-d94b-496d-a1ce-266c14d6afcb" minversion="0" maxversion="999" title="JFD's Rise to Power - (1) (Core) Utilities" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="D58BB28DCA05902FEB4C1D11CE1E8AE9" import="0">Core/RegionalCivNames_Civilizations.sql</File>
+    <File md5="35BEDBD0139AB5A9D48A0FF9EE4EC7E7" import="0">Core/RegionalCivNames_GameText.xml</File>
+    <File md5="82EC78B37779208822B8EA12D045713D" import="0">Core/RegionalCivNames_Master.sql</File>
+    <File md5="B10CBBE29BB81841CAA4131E4B759C2D" import="0">Lua/JFD_RTP_RegionalCivNames_Functions.lua</File>
+    <File md5="D5BB21C1E5C544F61240962E4D0AA140" import="1">Lua/UI/Overrides/DiploCurrentDeals.lua</File>
+    <File md5="7E8F4B2E9623CA9D0D215AA1972DE8E9" import="1">Lua/UI/Overrides/DiploCurrentDeals.xml</File>
+    <File md5="25108A615FA680D0AD4FE0D35D4A4DB4" import="1">Lua/UI/Overrides/DiploGlobalRelationships.lua</File>
+    <File md5="9964F751B3DFCBB0D3EB0F22EB6C9734" import="1">Lua/UI/Overrides/DiploGlobalRelationships.xml</File>
+    <File md5="025614BA85437B57E6B2E060D7F4A585" import="1">Lua/UI/Overrides/DiploList.lua</File>
+    <File md5="B1DD026DD1EE2DC00D2C098CD4AD6DE7" import="1">Lua/UI/Overrides/DiploList.xml</File>
+    <File md5="C56C2C954C780706A4BEA3B6164116E3" import="1">Lua/UI/Overrides/DiploRelationships.lua</File>
+    <File md5="C490D02A42BFC71013B12CED3759430C" import="1">Lua/UI/Overrides/DiploRelationships.xml</File>
+    <File md5="55DF01BFF31B6FD4E7EEE6F4DED6AC42" import="1">Lua/Utilities/JFD_RegionalCivNames_Utils.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/RegionalCivNames_Master.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RegionalCivNames_Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RegionalCivNames_GameText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_RTP_RegionalCivNames_Functions.lua">
+      <Name>	InGameUIAddin	JFD_ACN_Functions.lua		Lua/JFD_RTP_RegionalCivNames_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

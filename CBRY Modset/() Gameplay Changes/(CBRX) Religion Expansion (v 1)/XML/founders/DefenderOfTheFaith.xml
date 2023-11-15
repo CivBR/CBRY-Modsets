@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Beliefs>
+		<Update>
+			<Set Enhancer="false" Founder="true" CombatModifierFriendlyCities="25" />
+			<Where Type="BELIEF_DEFENDER_FAITH" />
+		</Update>
+	</Beliefs>
+	
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_DEFENDER_FAITH" />
+		<Row Tag="TXT_KEY_BELIEF_DEFENDER_FAITH">
+			<Text>+25% [ICON_STRENGTH] Combat Strength near friendly Cities that follow this Religion</Text>
+		</Row>
+	</Language_en_US>
+	
+</GameData>

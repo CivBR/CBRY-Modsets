@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- City names -->
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_01">
+			<Text>Taleh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_02">
+			<Text>Buuhoodle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_03">
+			<Text>Las Anod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_04">
+			<Text>Beledweyne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_05">
+			<Text>Galkayo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_06">
+			<Text>Werder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_07">
+			<Text>Galdogob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_08">
+			<Text>Garoowe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_09">
+			<Text>Dhusamareb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_10">
+			<Text>Mustahil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_11">
+			<Text>Kalabaydh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_12">
+			<Text>Bacadweyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_13">
+			<Text>Geladin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_14">
+			<Text>Ferfer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_15">
+			<Text>Gori Rit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_16">
+			<Text>Farlibaax</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_17">
+			<Text>Dudub</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_18">
+			<Text>Xaaballas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_19">
+			<Text>Mugul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_20">
+			<Text>Badhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_21">
+			<Text>Erigavo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_22">
+			<Text>Aynabo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_23">
+			<Text>Buraan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_24">
+			<Text>Gar Adag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_25">
+			<Text>Armale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_26">
+			<Text>Yufle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_27">
+			<Text>Waharlarshe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_28">
+			<Text>Jdhanshile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AOI_CITY_29">
+			<Text>Lasacardin</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_AOI_ABDULLAH">
+			<Text>Abdullah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AOI_KHALID">
+			<Text>Khalid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AOI_OMAR">
+			<Text>Omar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AOI_GULEED">
+			<Text>Guleed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AOI_SAMAKAB">
+			<Text>Samakab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AOI_WAABBERI">
+			<Text>Waabberi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AOI_SAMATAR">
+			<Text>Samatar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AOI_ARALE">
+			<Text>Arale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AOI_ADAM">
+			<Text>Adam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AOI_BAHDOON">
+			<Text>Bahdoon</Text>
+		</Row>
+		<!-- Dervish State -->
+		<Row Tag="TXT_KEY_CIVILIZATION_AOI_DERVISH">
+			<Text>The Dervish Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_AOI_DERVISH_SHORT">
+			<Text>The Dervishes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_AOI_DERVISH_ADJ">
+			<Text>Dervish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_AOI_DERVISH_PEDIA_TITLE">
+			<Text>The Dervish State</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_AOI_DERVISH_PEDIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_AOI_DERVISH_PEDIA_TEXT_1">
+			<Text>Established in 1896 as a response to the encroachment of British and Italian empire-builders in East Africa, the Dervish State was the brainchild of a religious preacher, Mohammed Abdullah Hassan, who gathered Somali soldiers from across the Horn of Africa and united them into a loyal army known as the Dervishes. This Dervish army enabled Hassan to carve out a powerful state through conquest of lands claimed by the Somali Sultans, the Ethiopians and the European powers. The Dervish State acquired renown in the Islamic and Western worlds due to its resistance against the European empires of Britain and Italy. The Dervish forces successfully repulsed the British Empire in four military expeditions, and forced it to retreat to the coastal region. As a result of its fame in the Middle East and Europe, the Dervish State was recognized as an ally by the Ottoman Empire and the German Empire.It also succeeded at outliving the Scramble for Africa, and remained throughout World War I the only independent Muslim power on the continent. After a quarter of a century of holding the British at bay, the Dervishes were defeated in 1920.[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_AOI_DERVISH_PEDIA_HEADING_10">
+			<Text>Dervish Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_AOI_DERVISH_PEDIA_TEXT_10">
+			<Text>...</Text>
+		</Row>
+		<!-- Mohammed Hassan -->
+		<Row Tag="TXT_KEY_LEADER_AOI_ABDULLAH_HASSAN">
+			<Text>Mohammed Hassan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AOI_ABDULLAH_HASSAN_HEADING_1">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AOI_ABDULLAH_HASSAN_TEXT_1">
+			<Text>Sayyid Mohammed Abdullah Hassan, also spelled Maxamed Cabdulle Xasan, Somali religious and nationalist leader (called the “Mad Mullah” by the British) who for 20 years led armed resistance to the British, Italian, and Ethiopian colonial forces in Somaliland. Because of his active resistance to the British and his vision of a Somalia united in a Muslim brotherhood transcending clan divisions, Sayyid Mohammed is seen as a forerunner of modern Somali nationalism. He also is revered for his skill as an oral poet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AOI_ABDULLAH_HASSAN_NAME">
+			<Text>Mohammed Abdullah Hassan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AOI_ABDULLAH_HASSAN_SUBTITLE">
+			<Text>Leader of the Dervish State</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AOI_ABDULLAH_HASSAN_TITLES_1">
+			<Text>Sayid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AOI_ABDULLAH_HASSAN_TITLES_2">
+			<Text>Sheik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AOI_ABDULLAH_HASSAN_TITLES_3">
+			<Text>The Mad Mullah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_AOI_ABDULLAH_HASSAN_LIVED">
+			<Text>1856 - 1920</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_AOI_DERVISH_DOM">
+			<Text>As-salamu alaykum, Abdullah Hassan. You have risen once again to lead the Dervish State against all foreign powers. The people have united under your banner against other civilizations which threaten them. Your religious fervor and military might are forces to be reckoned with, and woe to any who challenge you or your people's determination![NEWLINE][NEWLINE]You united the people of the Horn of Africa and held off the British and Italians from claiming your land, making the Dervishes were the only Africans to withstand the Scramble for Africa. Your neighbors the Ethiopians were also unable to challenge your forces and take Dervish land.[NEWLINE][NEWLINE]A renowned orator, you were able to forge alliances with the Ottomans and the Germans. But it wasn't until the end of World War I that the British, freed of the struggle with your former allies, were able to topple you through air power.[NEWLINE][NEWLINE]Abdullah Hassan, will you lead your people to victory once again? Will your cavalry again sing the dhaanto as they ride into battle against your infidel enemies? Can you lead a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- The Horn Resistance -->
+		<Row Tag="TXT_KEY_TRAIT_AOI_HORN_RESISTANCE_SHORT">
+			<Text>The Horn Resistance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_AOI_HORN_RESISTANCE">
+			<Text>Forts and Citadels generate [ICON_GREAT_PEOPLE] Great Writer points upon construction and provide +2 [ICON_PEACE] Faith, but cannot be removed. Mounted Units earn special Promotions based on their level.</Text>
+		</Row>
+		<!-- Qalcad -->
+		<Row Tag="TXT_KEY_BUILDING_AOI_QALCAD">
+			<Text>Qalcad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AOI_QALCAD_PEDIA">
+			<Text>Qalcad being the Somali word for Fortress, Castle or Fortification, refers to the huge amount of Fortresses built by the Dervishes all over the Horn of Africa. The largest of these was Taleh (also sometimes called "Taleex"), which was in reality more of a walled town. It has no less tham fourteen fortresses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AOI_QALCAD_HELP">
+			<Text>City must have an Arsenal. All non-Air units trained in this city receive free experience equal to the city's [ICON_PEACE] Faith output (up to 25 XP).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AOI_QALCAD_STRATEGY">
+			<Text>The Qalcad is the Dervish unique building, replacing the Military Base. It provides less Defensive Strength and Hit Points to the city it is built in but all non-Air units receive free XP based on the city's [ICON_PEACE] Faith output.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AOI_SHARIA_HIDDEN">
+			<Text>Sharia dummy</Text>
+		</Row>
+		<!-- Maara-weyn -->
+		<Row Tag="TXT_KEY_UNIT_AOI_MAARA_WEYN">
+			<Text>Maara-weyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AOI_MAARA_WEYN_PEDIA">
+			<Text>The regular army of the Dervishes was named the Maara-weyn, and was divided into seven regiments. Each regiment had its commander, called a Muqaddim, and varied in size from between 1,000 to 4,000 men. A large para-military force was also drawn from the nomad population. The cavalry, for its part, numbered between 5,000 and 10,000 mounted horsemen, and the standing army was supplied with modern weapons such as rifles and maxim guns. Dervish soldiers used the dhaanto traditional dance-song to raise their esprit de corps and often sang it on horseback.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AOI_MAARA_WEYN_STRATEGY">
+			<Text>This mounted unit replaces the Anti-Aircraft Gun and is available earlier in the game. Cavalry may upgrade to it, and it receives a combat bonus when stacked with a Great Writer. Unlike other mounted units, it benefits from defensive terrain bonuses. May only be built by the Dervishes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AOI_MAARA_WEYN_HELP">
+			<Text>Mounted Dervish replacement for the Anti-Aircraft Gun. Weaker than the unit it replaces, it is available earlier and Cavalry may upgrade to it. May fortify and benefit from defensive terrain bonuses. Receives a combat bonus when stacked with a Great Writer.</Text>
+		</Row>
+		<!-- Promotions -->
+		<Row Tag="TXT_KEY_PROMOTION_AOI_MAARA_WEYN_GREAT_WRITER">
+			<Text>Literary War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AOI_MAARA_WEYN_GREAT_WRITER_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength when stacked with a [COLOR_POSITIVE_TEXT]Great Writer[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AOI_SHARIA">
+			<Text>Sharia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AOI_SHARIA_HELP">
+			<Text>+10% Religious Pressure from the city this unit is garrisoned in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AOI_DEFENDERS_OF_FREEDOM">
+			<Text>Defenders of Freedom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AOI_DEFENDERS_OF_FREEDOM_HELP">
+			<Text>Enemy units retreat before combat when attacked by this unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AOI_DERVISHES">
+			<Text>The Dervishes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AOI_DERVISHES_HELP">
+			<Text>Civilian units stacked with this unit move at the same rate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AOI_POETRY_OF_WAR">
+			<Text>Poetry of War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AOI_POETRY_OF_WAR_HELP">
+			<Text>Earn [ICON_GREAT_PEOPLE] Great Writer points from combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AOI_DHAANTO">
+			<Text>Dhaanto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AOI_DHAANTO_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength when attacking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AOI_FORTIFICATIONS">
+			<Text>Fortifications</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AOI_FORTIFICATIONS_HELP">
+			<Text>May attack twice when stationed on a [COLOR_POSITIVE_TEXT]Fort[ENDCOLOR] or a [COLOR_POSITIVE_TEXT]Citadel[ENDCOLOR].</Text>
+		</Row>
+		<!-- Sukritact's MCIS -->
+	</Language_en_US>
+</GameData>

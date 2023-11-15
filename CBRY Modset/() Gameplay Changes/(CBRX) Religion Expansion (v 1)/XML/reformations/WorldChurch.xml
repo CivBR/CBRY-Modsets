@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2016-09-26 23:38:28 -->
+<GameData>
+	
+	<Beliefs>
+		<Update>
+			<Set Founder="false" Reformation="true" SpreadStrengthModifier="25" />
+			<Where Type="BELIEF_WORLD_CHURCH" />
+		</Update>
+	</Beliefs>
+	<Belief_YieldChangePerXForeignFollowers>
+		<Row>
+			<BeliefType>BELIEF_WORLD_CHURCH</BeliefType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<ForeignFollowers>5</ForeignFollowers>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_WORLD_CHURCH</BeliefType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<ForeignFollowers>5</ForeignFollowers>
+		</Row>
+	</Belief_YieldChangePerXForeignFollowers>
+
+	<!-- localization -->
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_WORLD_CHURCH" />
+		<Row Tag="TXT_KEY_BELIEF_WORLD_CHURCH">
+			<Text>+1 [ICON_CULTURE] Culture and +1 [ICON_PRODUCTION] Production for every 5 followers of this Religion in foreign Cities and Religion spreads 25% faster</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

@@ -1,0 +1,137 @@
+﻿<!-- Created by Janboruta -->
+<GameData>
+	<!-- ++++++++++++++++++++++++++++++ -->
+	<!-- Earth Giant map start position -->
+	<!-- ++++++++++++++++++++++++++++++ -->
+	<Civilizations_YagemStartPosition>
+		<Update>
+			<Where Type="CIVILIZATION_INDIA"/>
+			<Set X="68" Y="48"/>
+		</Update>
+		<Row>
+			<Type>CIVILIZATION_INDIA</Type>
+			<X>68</X>
+			<Y>48</Y>
+		</Row>
+		<Row>
+			<Type>CIVILIZATION_MAURYA</Type>
+			<X>65</X>
+			<Y>50</Y>
+		</Row>	
+		<Row>
+			<Type>CIVILIZATION_MUGHAL</Type>
+			<X>61</X>
+			<Y>51</Y>
+		</Row>	
+		<Row>
+			<Type>CIVILIZATION_MARATHA</Type>
+			<X>58</X>
+			<Y>42</Y>
+		</Row>	
+		<Row>
+			<Type>CIVILIZATION_CHOLA</Type>
+			<X>61</X>
+			<Y>37</Y>
+		</Row>
+	</Civilizations_YagemStartPosition>	
+	<!-- +++++++++++++++++++++++++++++ -->
+	<!-- Earth Huge map start position -->
+	<!-- +++++++++++++++++++++++++++++ -->
+	<Civilizations_YahemStartPosition>
+		<Update>
+			<Where Type="CIVILIZATION_INDIA"/>
+			<Set X="95" Y="42"/>
+		</Update>
+		<Row>
+			<Type>CIVILIZATION_MAURYA</Type>
+			<X>93</X>
+			<Y>46</Y>
+		</Row>	
+		<Row>
+			<Type>CIVILIZATION_MUGHAL</Type>
+			<X>89</X>
+			<Y>47</Y>
+		</Row>	
+		<Row>
+			<Type>CIVILIZATION_MARATHA</Type>
+			<X>88</X>
+			<Y>41</Y>
+		</Row>	
+		<Row>
+			<Type>CIVILIZATION_CHOLA</Type>
+			<X>90</X>
+			<Y>37</Y>
+		</Row>
+	</Civilizations_YahemStartPosition>
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<!-- Earth Cordiform map start position -->
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_CordiformStartPosition>
+		<Update>
+			<Where Type="CIVILIZATION_INDIA"/>
+			<Set X="59" Y="23"/>
+		</Update>
+		<Row>
+			<Type>CIVILIZATION_MAURYA</Type>
+			<X>58</X>
+			<Y>23</Y>
+		</Row>	
+		<Row>
+			<Type>CIVILIZATION_MUGHAL</Type>
+			<X>56</X>
+			<Y>23</Y>
+		</Row>	
+		<Row>
+			<Type>CIVILIZATION_MARATHA</Type>
+			<X>57</X>
+			<Y>20</Y>
+		</Row>	
+		<Row>
+			<Type>CIVILIZATION_CHOLA</Type>
+			<X>60</X>
+			<Y>18</Y>
+		</Row>
+	</Civilizations_CordiformStartPosition>		
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<!-- "Greatest Earth Map" start position -->
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_GreatestEarthStartPosition>
+		<Update>
+			<Where Type="CIVILIZATION_INDIA"/>
+			<Set X="80" Y="38"/>
+		</Update>
+		<Row>
+			<Type>CIVILIZATION_MAURYA</Type>
+			<X>78</X>
+			<Y>39</Y>
+		</Row>	
+		<Row>
+			<Type>CIVILIZATION_MUGHAL</Type>
+			<X>75</X>
+			<Y>39</Y>
+		</Row>	
+		<Row>
+			<Type>CIVILIZATION_MARATHA</Type>
+			<X>74</X>
+			<Y>35</Y>
+		</Row>	
+		<Row>
+			<Type>CIVILIZATION_CHOLA</Type>
+			<X>77</X>
+			<Y>33</Y>
+		</Row>
+	</Civilizations_GreatestEarthStartPosition>
+	<!-- ++++++++++++++++++++++++++ -->
+	<!-- Indian Capital name change -->
+	<!-- ++++++++++++++++++++++++++ -->
+	<Language_en_US>
+		<Update>
+			<Set Text="Calcutta"/>
+			<Where Tag="TXT_KEY_CITY_NAME_DELHI"/>
+		</Update>
+		<Update>
+			<Set Text="New Delhi"/>
+			<Where Tag="TXT_KEY_CITY_NAME_CALCUTTA"/>
+		</Update>
+	</Language_en_US>
+</GameData>

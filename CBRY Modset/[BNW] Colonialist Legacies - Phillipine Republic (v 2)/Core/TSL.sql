@@ -1,0 +1,67 @@
+-- --==========================================================================================================================
+-- -- Civilizations_YagemStartPosition (Earth Giant)
+-- --==========================================================================================================================
+-- DELETE FROM MinorCiv_YagemStartPosition WHERE Type IN ('MINOR_CIV_MANILA');
+-- INSERT INTO Civilizations_YagemStartPosition
+-- 			(Type,										X,		Y,		AltX,	AltY)
+-- VALUES		('CIVILIZATION_JFD_PHILIPPINES',			87,		41,		null,	null);
+-- 			
+-- INSERT INTO MinorCiv_YagemStartPosition
+-- 			(Type,										X,		Y,		AltX,	AltY)
+-- VALUES		('MINOR_CIV_MANILA',						89,		50,		null,	null); -- Taipei
+-- --==========================================================================================================================
+-- -- Civilizations_YahemStartPosition (Earth Huge)
+-- --==========================================================================================================================
+-- DELETE FROM MinorCiv_YahemStartPosition WHERE Type IN ('MINOR_CIV_MANILA');
+-- INSERT INTO Civilizations_YahemStartPosition
+-- 			(Type,										X,		Y,		AltX,	AltY)
+-- VALUES		('CIVILIZATION_JFD_PHILIPPINES',			108,	40,		null,	null);
+-- 			
+-- INSERT INTO MinorCiv_YahemStartPosition
+-- 			(Type,										X,		Y,		AltX,	AltY)
+-- VALUES		('MINOR_CIV_MANILA',						108,	43,		null,	null); -- Taipei
+-- --==========================================================================================================================
+-- -- Civilizations_CordiformStartPosition (Earth Standard)
+-- --==========================================================================================================================
+-- DELETE FROM MinorCiv_CordiformStartPosition WHERE Type IN ('MINOR_CIV_MANILA');
+-- INSERT INTO Civilizations_CordiformStartPosition
+-- 			(Type,										X,		Y,		AltX,	AltY)
+-- VALUES		('CIVILIZATION_JFD_PHILIPPINES',			70,		34,		null,	null);
+-- 			
+-- INSERT INTO MinorCiv_CordiformStartPosition
+-- 			(Type,										X,		Y,		AltX,	AltY)
+-- VALUES		('MINOR_CIV_MANILA',						66,		35,		null,	null); -- Taipei
+-- --==========================================================================================================================
+-- -- Civilizations_GreatestEarthStartPosition (Earth Greatest)
+-- --==========================================================================================================================
+-- DELETE FROM MinorCiv_GreatestEarthStartPosition WHERE Type IN ('MINOR_CIV_MANILA');
+-- INSERT INTO Civilizations_GreatestEarthStartPosition
+-- 			(Type,										X,		Y,		AltX,	AltY)
+-- VALUES		('CIVILIZATION_JFD_PHILIPPINES',			88,		35,		null,	null);
+-- 			
+-- INSERT INTO MinorCiv_GreatestEarthStartPosition
+-- 			(Type,										X,		Y,		AltX,	AltY)
+-- VALUES		('MINOR_CIV_MANILA',						88,		41,		null,	null); -- Taipei
+-- --==========================================================================================================================
+-- -- Civilizations_YagemRequestedResource (Earth Giant)
+-- --==========================================================================================================================
+-- INSERT INTO Civilizations_YagemRequestedResource
+-- 			(Type, 										Req1, Yield1, Req2, Yield2, Req3, Yield3, Req4, Yield4)
+-- SELECT		('CIVILIZATION_JFD_PHILIPPINES'),			Req1, Yield1, Req2, Yield2, Req3, Yield3, Req4, Yield4
+-- FROM Civilizations_YagemRequestedResource WHERE Type = 'CIVILIZATION_INDONESIA';
+-- --==========================================================================================================================
+-- -- Civilizations_YahemRequestedResource (Earth Huge)
+-- --==========================================================================================================================
+-- INSERT INTO Civilizations_YahemRequestedResource
+-- 			(Type, 										Req1, Yield1, Req2, Yield2, Req3, Yield3, Req4, Yield4)
+-- SELECT		('CIVILIZATION_JFD_PHILIPPINES'),			Req1, Yield1, Req2, Yield2, Req3, Yield3, Req4, Yield4
+-- FROM Civilizations_YahemRequestedResource WHERE Type = 'CIVILIZATION_INDONESIA';
+-- --==========================================================================================================================
+-- -- Civilizations_GreatestEarthRequestedResource (Earth Greatest)
+-- --==========================================================================================================================
+-- INSERT INTO Civilizations_GreatestEarthRequestedResource
+-- 			(Type, 										Req1, Yield1, Req2, Yield2, Req3, Yield3, Req4, Yield4)
+-- SELECT		('CIVILIZATION_JFD_PHILIPPINES'),			Req1, Yield1, Req2, Yield2, Req3, Yield3, Req4, Yield4
+-- FROM Civilizations_GreatestEarthRequestedResource WHERE Type = 'CIVILIZATION_INDONESIA';
+-- --==========================================================================================================================
+-- --==========================================================================================================================

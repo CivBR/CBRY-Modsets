@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BW_ATLAS_1</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>BuildingAtlas80.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>NEW_BLDG_ATLAS2_DLC</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>Building_Aqueduct80.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>EXPANSION2_BUILDING_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>BuildingPortraits80_Exp2.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>EXPANSION2_BUILDING_ATLAS2</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>BuildingPortraits2_80_Exp2.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>EXPANSION_BW_ATLAS_1</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>BuildingPortraits80_Expansion.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>
+
+
+
+
+
+
+

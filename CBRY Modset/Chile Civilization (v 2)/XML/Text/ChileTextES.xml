@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/3/2013 11:13:18 AM -->
+<GameData>
+	<Language_ES_ES>
+
+		<!--Leader Speech -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_OHIGGINS_FIRSTGREETING_1">
+			<Text>Soy Bernardo O'higgins Riquelme, Director Supremo de Chile, y héroe de su independencia. Bienvenido a Chile, espero que seas un aliado y no un rival.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OHIGGINS_FIRSTGREETING_2">
+			<Text>¡Saludos! Bienvenido a Chile, la nación que llegará a ser la más grande, ¡por la razón o por la fuerza!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OHIGGINS_FIRSTGREETING_3">
+			<Text>Este hermoso mar que ves aquí es parte del territorio de Chile... Peleé duro por su independencia, y pelearía de nuevo si es necesario...</Text>
+		</Row>
+
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_OHIGGINS_DEFEATED_1">
+			<Text>Cuando esta guerra comenzó, le dije a mis hombres: ¡Vivan con honor o mueran con Gloria! ¡Aquel que sea valiente, sígame!... Y mis hombres me siguieron, ¡y moriremos con gloria!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_CHILE_01">
+			<Text>Santiago de Chile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_02">
+			<Text>Concepción</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_03">
+			<Text>Valparaiso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_04">
+			<Text>La Serena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_05">
+			<Text>Valdivia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_06">
+			<Text>Castro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_07">
+			<Text>Talca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_08">
+			<Text>Copiapo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_09">
+			<Text>Iquique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_10">
+			<Text>Arica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_11">
+			<Text>Puerto Montt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_12">
+			<Text>Antofagasta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_13">
+			<Text>Punta Arenas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_14">
+			<Text>Temuco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_15">
+			<Text>Coyhaique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_16">
+			<Text>Calama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_17">
+			<Text>Ancud</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_18">
+			<Text>Chillán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_19">
+			<Text>Coquimbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_20">
+			<Text>San Felipe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_21">
+			<Text>Constitución</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_22">
+			<Text>Hanga Roa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_23">
+			<Text>Puerto Aysen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_24">
+			<Text>Talcahuano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_25">
+			<Text>Los Angeles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_26">
+			<Text>Quillota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_27">
+			<Text>Osorno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_28">
+			<Text>San Antonio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_29">
+			<Text>Ovalle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_30">
+			<Text>Melipilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_31">
+			<Text>Los Andes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_32">
+			<Text>Caldera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_33">
+			<Text>Curico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_34">
+			<Text>Linares</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_35">
+			<Text>Llanquihue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_36">
+			<Text>Buin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_CHILE_37">
+			<Text>San Fernando</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV_CHILE_ADJECTIVE">
+			<Text>chileno|chilena|chilenos|chilenas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHILE_DESC">
+			<Text>República de Chile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHILE_SHORT_DESC">
+			<Text>Chile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CHILE_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CHILE_TEXT_1">
+			<Text>
+				Saludos, oh gran Capitán, General y Almirante, Bernardo O'higgins Riquelme. Lideraste al fuerte pueblo Chileno en su independencia contra el imperio español.
+				[NEWLINE][NEWLINE]Antes del arribo de los Españoles en el siglo 16, el norte y el centro de Chile se encontraban bajo el dominio incaico, mientras que los independientes mapuches habitaban la parte sur de Chile. Chile declaró su indepndencia en 1818. En la guerra del Pacífico, Chile derrotó a Perú y Bolivia y obtuvo su actual territorio del norte. Hoy Chile es una de las naciones más prósperas y estables de Sud América, un poder mediano reconocido con economía emergente. Lidera Latino América en los temas de desarrollo humano, competitividad, ingresos per cápita, libertad económica y baja percepción de la corrupción.
+				[NEWLINE][NEWLINE]Oh Gran Almirante, tu gente aún recuerda tus logros como una forma de inspiración. ¿Los liderarás a la prosperidad? ¿Podrás construir una civilización que supere las pruebas del tiempo?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_OHIGGINS_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_OHIGGINS_TEXT_1">
+			<Text>
+				Bernardo O'Higgins Riquelme (Chillán, 20 de agosto de 1778-Lima, 24 de octubre de 1842) fue un político y militar chileno.
+
+				[NEWLINE][NEWLINE]Hijo natural de Ambrosio O'Higgins, quien fue gobernador del Reino de Chile y virrey del Perú, y de Isabel Riquelme Meza. Por instrucciones de su padre, estudió inicialmente en Chillán, luego en Lima y completó su instrucción en Inglaterra. En 1802, a los 24 años, regresó a Chile y se radicó en su hacienda de San José de Las Canteras, recibida en herencia, dedicándose a las labores agrícolas.
+
+				[NEWLINE][NEWLINE]Participó activamente en los acontecimientos que ocurrieron en Chile a partir de 1810, los que finalmente se tradujeron en su independencia del Imperio español. O'Higgins abandonó sus tareas agrícolas y se convirtió en militar, siendo uno de los personajes más relevantes de la gesta emancipadora de Chile, donde se le considera como uno de los Padres de la Patria. Entre 1817 y 1823, ejerció la jefatura del Estado bajo el título de director supremo, cargo al que renunció, exiliándose en Perú hasta su muerte.
+
+				[NEWLINE][NEWLINE]Considerado uno de los Libertadores de América, fue capitán general del Ejército de Chile, brigadier de las Provincias Unidas del Río de la Plata, general de la Gran Colombia y uno de los principales organizadores de la Expedición Libertadora del Perú.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_OHIGGINS_LIVED">
+			<Text>1778–1842.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_OHIGGINS_NAME">
+			<Text>Bernardo O'Higgins Riquelme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_OHIGGINS_SUBTITLE">
+			<Text>Padre Fundador de Chile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OHIGGINS">
+			<Text>Bernardo O'Higgins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_OHIGGINS_TITLES_1">
+			<Text>Director Supremo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_REASONFORCE">
+			<Text>
+				Las ciudades fundadas en la costa tienen un costo menor de Cultura [ICON_CULTURE] para adquirir territorio. Las ciudades-estado aliadas y amistosas generan puntos de Grandes Almirantes, los cuales reciben el asenso de Médicos.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_REASONFORCE_SHORT">
+			<Text>Por la Razón o por la Fuerza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHILE_0">
+			<Text>Prieto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHILE_1">
+			<Text>Allende</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHILE_2">
+			<Text>Ib&#225;&#241;ez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHILE_3">
+			<Text>Montalva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHILE_4">
+			<Text>Carrera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHILE_5">
+			<Text>Prat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHILE_6">
+			<Text>Valdivia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHILE_7">
+			<Text>Aguirre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHILE_8">
+			<Text>Godoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHILE_9">
+			<Text>Huidobro</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_ESCUADRANACIONAL">
+			<Text>Primera Escuadra</Text>
+		</Row>
+		<Row Tag="TXT_PROMOTION_ESCUADRANACIONAL_HELP">
+			<Text>Incrementa la ganancia de experiencia en un 50%, reduce los costos de mejorías, y permite capturar naves enemigas.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_CHILE">
+			<Text>Chilean Coastal Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHILE_DESC">
+			<Text>Chilean cities built on coast may expand its cultural borders faster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHILE_STRATEGY">
+			<Text>Chile has the special ability to get a reduction of Culture cost for expansion in coastal cities, that grouped with the naval bonus makes Chile a Naval-Focused civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHILE_HELP">
+			<Text>Culture Cost for Adquiring new tiles reduced in this city.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MEDIALUNA">
+			<Text>Medialuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEDIALUNA_HELP">
+			<Text>
+				Reemplazo chileno del circo. Cada instancia de [ICON_RES_HORSE] Caballos, [ICON_RES_COW] Ganado y [ICON_RES_SHEEP] Ovejas en esta ciudad generan +1 de Cultura [ICON_CULTURE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEDIALUNA_STRATEGY">
+			<Text>Reemplazo chileno del circo. Cada instancia de [ICON_RES_HORSE] Caballos, [ICON_RES_COW] Ganado y [ICON_RES_SHEEP] Ovejas en esta ciudad generan +1 de Cultura [ICON_CULTURE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MEDIALUNA_TEXT">
+			<Text>
+				La medialuna es la infraestructura deportiva que alberga el rodeo, deporte nacional de Chile. Su forma es circular con un radio de 20 a 25 metros. En su costado oeste se ubica el apiñadero que es el lugar donde se inicia la carrera y tiene de 18 a 22 metros de radio. En los costados norte y sur se ubican frente a frente las atajadas, una zona de 12 metros de sacos acolchados, donde se tiene que atajar al novillo.
+
+[NEWLINE][NEWLINE]La distancia entre cada atajada es de 64 a 66 metros. Esta distancia, jinetes y caballos la recorren cuatro veces, tres para atajar y la última para echar al novillo fuera de la medialuna. Toda esta acción se conoce como carrera corrida. Antes de cada atajada existe una señal, llamada línea de postura, ubicada a 10 metros de ésta, en la que se obliga al caballo que va a atajar debe ir, al menos, con uno de sus pechos en contacto sobre el novillo.
+
+[NEWLINE][NEWLINE]Actualmente en Chile existen más de 500 medialunas, municipales y particulares. Pero la gran mayoría son antiguas y están en muy mal estado, casi todas están construidas de madera y necesitan ser reparadas frecuentemente. Dentro de las pocas medialunas de buen nivel que hay en Chile se destaca la medialuna techada de Osorno y la Medialuna Monumental de Rancagua, que es uno de los mejores centros deportivos del país.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_CHILEAN_ESCUADRA">
+			<Text>Escuadra Nacional</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CHILEAN_ESCUADRA">
+			<Text>Reemplazo del Privatero. Reciben experiencia más rápido, son más baratos al mejorar y pueden capturar naves enemigas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHILEAN_ESCUADRA_STRATEGY">
+			<Text>Reemplazo del Privatero. Reciben experiencia más rápido, son más baratos al mejorar y pueden capturar naves enemigas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_CHILEAN_ESCUADRA_TEXT">
+			<Text>
+				La Primera escuadra nacional de Chile nace con la captura de la fragata española, Reina Maria Isabel, realizada por el capitán Manuel Blanco Encalada, el 28 de octubre de 1818. Es el antecedente de la actual Armada de Chile.
+
+				[NEWLINE][NEWLINE]La flota que dominaría el Pacífico con el pabellón chileno y llevaría al ejército libertador al Perú se formó por capturas de buques españoles y la compra de naves inglesas y estadounidenses. El primer buque de guerra fue el bergantín español llamado Águila, de 16 cañones, que entró engañado a Valparaíso luego de la batalla de Chacabuco porque los patriotas dejaron las banderas realistas flameando en la fortaleza. Fue capturado y, bautizado con el nombre de Pueyrredón. En su primera misión fue enviado a la isla Juan Fernández a rescatar los patriotas prisioneros de los realistas. Entre ellos estaba Manuel Blanco Encalada, quien sería luego comandante de la flota. Luego llegó el Windham de 44 cañones, comprado por José Antonio Álvarez Condarco en Londres. Fue la destacada Lautaro. Con estos dos buques, luego de la victoria de Maipú, persiguieron a la flota española compuesta por la Esmeralda, la Venganza y el Pezuela que bloqueaba Valparaíso y entorpecía la navegación y hostigaban a los buques neutrales que llegaban al puerto.
+
+				[NEWLINE][NEWLINE]En abril de 1818, la Lautaro y el Pueyrredón salieron del puerto y se trabaron en combate con la Esmeralda consiguiendo abordarla. Luego de un importante combate la nave española pudo escapar por su mayor velocidad y dirigirse a Talcahuano. Aunque no se pudo tomar la presa, desde ese momento, la marina chilena dominó las costas de Valparaíso. En Julio se compró una corbeta estadounidense que se bautizó como Chacabuco, luego otro bergantín americano que se llamó Araucano. En agosto llegó un navío importante, de 60 cañones, contratado por Condarco en Londres, que se denominó San Martín. El mando de la armada fue confiado a Manuel Blanco Encalada. Los patriota tenían a fines de 1818 una escuadra que podía combatir contra los realistas en el Pacífico.
+
+				[NEWLINE][NEWLINE]Mientras tanto, en mayo de 1818, zarpaba de la bahía de Cádiz con rumbo a Chile, una expedición española de once transportes, que conducían 2000 soldados, escoltadas por dos naves de guerra, una de ellas era la María Isabel, de 50 cañones. La noticia se conoció en Buenos Aires, por los agentes del gobierno argentino en Cádiz en el mes de julio. Pueyrredón envió a los bergantines Lucy y el Intrépido para que se incorporen a la flota chilena. En agosto arribó a Buenos Aires el Trinidad, uno de los transportes españoles con la tripulación sublevada. De esta manera los patriotas conocieron el punto de reunión y el código de señales de la escuadra realista.
+
+				[NEWLINE][NEWLINE]En octubre zarpaba de Valparaíso la escuadra chilena al mando de Blanco Encalada, y comandando la infantería de marina el capitán Guillermo Miller. Debían interceptar el convoy realista. Encontraron a la María Isabel en el puerto de Talcahuano, protegida por los cañones de la fortaleza. En una destacada acción de los marinos y los infantes, capturaron la nave y la llevaron a Valparaíso donde fue bautizada como la O´Higgins. Cayeron en manos de los patriotas cinco transportes con todos sus bagajes. El resto huyó al Callao. Así, Chile, en poco tiempo dominó el Pacífico. La última expedición española que partió hacia América había sido aniquilada a fines de 1818.
+
+				[NEWLINE][NEWLINE]Llegaba entonces a Valparaíso Thomas Cochrane, lord escocés, miembro del parlamento y héroe de muchas batallas en las flotas de Inglaterra. Había aceptado los ofrecimientos de los agentes de San Martín y O´Higgins en Londres. Fue nombrado jefe de la escuadra chilena con el grado de Vicealmirante y Blanco Encalada, conociendo la capacidad del nuevo jefe, se puso a sus órdenes. Los independientes, a fines de 1818 podían dominar el Pacífico. Éste era el paso previo para poder llevar el ejército al Perú.
+			</Text>
+		</Row>
+
+
+	</Language_ES_ES>
+</GameData>

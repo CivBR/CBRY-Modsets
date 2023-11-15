@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_WAR_MEMORIAL</Type>
+			<Description>TXT_KEY_BELIEF_WAR_MEMORIAL</Description>
+			<ShortDescription>TXT_KEY_BELIEF_WAR_MEMORIAL_SHORT</ShortDescription>
+			<Follower>true</Follower>
+			<RequiresPeace>true</RequiresPeace>
+		</Row>
+	</Beliefs>
+
+	<Belief_BuildingClassYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_WAR_MEMORIAL</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_WALLS</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_WAR_MEMORIAL</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+	</Belief_BuildingClassYieldChanges>
+
+	<Belief_ImprovementYieldChanges>
+			<Row>
+			<BeliefType>BELIEF_WAR_MEMORIAL</BeliefType>
+			<ImprovementType>IMPROVEMENT_FORT</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_WAR_MEMORIAL</BeliefType>
+			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Belief_ImprovementYieldChanges>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BELIEF_WAR_MEMORIAL">
+			<Text>+1 [ICON_PEACE] Faith from Walls and Castles. +1 [ICON_PRODUCTION] Production from Forts and Citadels.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WAR_MEMORIAL_SHORT">
+			<Text>War Memorial</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

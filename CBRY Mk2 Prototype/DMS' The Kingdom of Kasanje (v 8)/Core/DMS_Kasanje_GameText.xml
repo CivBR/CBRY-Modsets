@@ -1,0 +1,215 @@
+<GameData>
+	<Language_en_US>
+		<!-- KASANJE -->
+		<!-- CITIES -->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_1">
+			<Text>Kasanje</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_2">
+			<Text>Angoleme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_3">
+			<Text>Bemba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_4">
+			<Text>Mtembe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_5">
+			<Text>Luanda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_6">
+			<Text>Bengela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_7">
+			<Text>Malanje</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_8">
+			<Text>Dondo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_9">
+			<Text>Kazembe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_10">
+			<Text>Ambaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_11">
+			<Text>Kabasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_12">
+			<Text>Huambo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_13">
+			<Text>Lubango</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_14">
+			<Text>Ngola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_15">
+			<Text>Kisama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_16">
+			<Text>Ngalange</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_17">
+			<Text>Bie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_18">
+			<Text>Bailundu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_19">
+			<Text>Ciyaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_20">
+			<Text>Feti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_21">
+			<Text>Mbalandu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_22">
+			<Text>Ndulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KASANJE_23">
+			<Text>Viye</Text>
+		</Row>
+		<!-- SPY NAMES -->
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KASANJE_0">
+			<Text>Kaza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KASANJE_1">
+			<Text>Kalunga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KASANJE_2">
+			<Text>Ngonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KASANJE_3">
+			<Text>Kulashingo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KASANJE_4">
+			<Text>Zimbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KASANJE_5">
+			<Text>Malenga</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KASANJE_6">
+			<Text>Kitumba</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KASANJE_7">
+			<Text>Mwanya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KASANJE_8">
+			<Text>Luhame</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KASANJE_9">
+			<Text>Ngunza</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- KASANJE KINGDOM -->
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_KASANJE">
+			<Text>Kasanje Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_KASANJE_SHORT">
+			<Text>Kasanje</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_KASANJE_ADJECTIVE">
+			<Text>Imbangalan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_KASANJE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_KASANJE_TEXT_1">
+			<Text>...</Text>
+		</Row>
+		<!-- IDIRS ALAUMA -->
+		<Row Tag="TXT_KEY_LEADER_DMS_KASANJE">
+			<Text>Kasanje Kalunga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KASANJE_HEADING_1">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KASANJE_TEXT_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KASANJE_NAME">
+			<Text>Kasanje Kalunga Ka Kinguri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KASANJE_SUBTITLE">
+			<Text>Kinguri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KASANJE_TITLES_1">
+			<Text>Chief of the Imbangala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KASANJE_LIVED">
+			<Text>1580 – 1617</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_DMS_KASANJE_TEXT">
+			<Text>Your people stand and greet you, oh grand Kasanje Kalunga Ka Kinguri, hero of the Imbangala and founder of the mighty Kingdom that bears your name. Born of a local Lunda chief, your disagreements with your sister brought you to carve your own path in history, first offering your services and that of your men to the portuguese, to later found your own kingdom with your followers, the terror of any and all peoples that would ever reach it's territory, finally settling down for a more peaceful future for your people.[NEWLINE][NEWLINE]Oh great Kinguri, yours was the power to found a Kingdom that could stand against it's neighbors and later fight against the colonial oppression, even as it fell centuries later. Your people are scattered and await for your return to restore their glory. Will you carve a new empire out of a band of warriors? Will you build a civilization that stands the test of time?</Text>
+		</Row>
+		<!-- KILOMBO -->
+		<Row Tag="TXT_KEY_TRAIT_DMS_KILOMBO_SHORT">
+			<Text>Kilombo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_KILOMBO">
+			<Text>Receive Mavala Unit upon contructing a Cultural Buildings in your Cities, and one for every second [ICON_CITIZEN] Citizen born in a captured City. [ICON_INTERNATIONAL_TRADE] Trade Routes from Captured Cities yield extra [ICON_GOLD] Gold.</Text>
+		</Row>
+		<!-- GONZO -->
+		<Row Tag="TXT_KEY_UNIT_DMS_GONZO">
+			<Text>Gonzo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_GONZO_TEXT">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_GONZO_STRATEGY">
+			<Text>The Gonzo is one of two Imbaganlan unique units, replacing the Swordsman. It is slower with only 1 [ICON_MOVES] Move, but is both stronger and has increased [ICON_STRENGTH] Combat Strength against Cities. It gains +1 [ICON_MOVES] Move in Jungle and receives Experience if garrisoned in Cities when Citizens are born. Obsoletes at Gun Powder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_GONZO_HELP">
+			<Text>Powerful Medieval Era Unit which specializes in capturing Cities. Only the Kasanje may build it. This Unit is especially strong against Cities, but is slower than the Swordsman, which it replaces. +1 [ICON_MOVES] Move in Jungle and receives Experience if garrisoned in Cities when Citizens are born.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_YIJILA">
+			<Text>Yijila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_YIJILA_HELP">
+			<Text>+100% [ICON_STRENGTH] Combat Strength against Cities.[NEWLINE][NEWLINE]+1 [ICON_MOVES] Move in Jungle and receives Experience if garrisoned in Cities when Citizens are born.</Text>
+		</Row>
+		<!-- MAVALA -->
+		<Row Tag="TXT_KEY_UNIT_DMS_MAVALA">
+			<Text>Mavala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_MAVALA_TEXT">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_MAVALA_STRATEGY">
+			<Text>The Mavala is one of two Imbagalan unique units, replacing the Worker. It cannot be trained nor bought, but is only obtained by constructing Cultural buildings in your Cities, and when new Citizens are born in captured Cities. The Mavala constructs Improvements instantly, but is consumed after having done so three times.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_MAVALA_HELP">
+			<Text>Worker replacing Unit. Only the Kasanje may obtain it. This Unit constructs Improvements instantly, but is consumed after having done so three times.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_YIJIGO_3_USES">
+			<Text>3 Builds left</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_YIJIGO_3_USES_HELP">
+			<Text>This Mavala Unit can build 3 more Improvements</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_YIJIGO_2_USES">
+			<Text>2 Builds left</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_YIJIGO_2_USES_HELP">
+			<Text>This Mavala Unit can build 2 more Improvements</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_YIJIGO_1_USES">
+			<Text>1 Build left</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_YIJIGO_1_USES_HELP">
+			<Text>This Mavala Unit can build 1 more Improvement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_CITIZEN_MAVALA">
+			<Text>Mavala dummy building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_CITIZEN_MAVALA_HELP">
+			<Text>Mavala dummy building help</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

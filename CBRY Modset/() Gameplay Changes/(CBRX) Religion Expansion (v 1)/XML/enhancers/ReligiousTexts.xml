@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+  
+  <Beliefs>
+	 <Delete Type="BELIEF_RELIGIOUS_TEXTS" />
+	 <Row>
+		<Type>BELIEF_RELIGIOUS_TEXTS</Type>
+		<Description>TXT_KEY_BELIEF_RELIGIOUS_TEXTS</Description>
+		<ShortDescription>TXT_KEY_BELIEF_RELIGIOUS_TEXTS_SHORT</ShortDescription>
+		<Enhancer>true</Enhancer>
+		<SpreadStrengthModifier>25</SpreadStrengthModifier>
+		<SpreadModifierDoublingTech>TECH_PRINTING_PRESS</SpreadModifierDoublingTech>
+	</Row>
+  </Beliefs>
+  
+  	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_RELIGIOUS_TEXTS" />
+	   <Delete Tag="TXT_KEY_BELIEF_RELIGIOUS_TEXTS_SHORT" />
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_TEXTS">
+			<Text>Religion spreads 25% faster (50% with Printing Press).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_TEXTS_SHORT">
+			<Text>Religious Texts</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

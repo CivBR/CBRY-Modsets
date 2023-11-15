@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context ColorSet="Beige_Black" Font="TwCenMT20" FontStyle="Shadow">
+
+	<Instance Name="PolicyButton">
+		<GridButton Size="48,48" Anchor="L,T" Offset="0,0" Hidden="0" ID="PolicyIcon">
+			<GridData Style="Grid9FrameButtons"/>
+			<ShowOnMouseOver>
+				<Container Size="48,48" ID="MouseOverContainer">
+					<AlphaAnim Anchor="R,C" AnchorSide="O.O" Offset="-2,0" Size="16,32" TextureOffset="16,0" Texture="Assets/UI/Art/Controls/buttonsidesglow.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".99" AlphaEnd=".25" Hidden="0"/>
+					<AlphaAnim Anchor="L,C" AnchorSide="O.O" Offset="-2,0" Size="16,32" TextureOffset="0,0" Texture="Assets/UI/Art/Controls/buttonsidesglow.dds" Pause="0" Cycle="Bounce" Speed="1" AlphaStart=".99" AlphaEnd=".25" Hidden="0"/>
+					<Image Anchor="R,C" Offset="-2,0" TextureOffset="8,0" AnchorSide="O.O" Texture="Assets/UI/Art/Controls/buttonsides.dds" Size="8,16"/>
+					<Image Anchor="L,C" Offset="-2,0" TextureOffset="0,0" AnchorSide="O.O" Texture="Assets/UI/Art/Controls/buttonsides.dds" Size="8,16"/>
+				</Container>
+			</ShowOnMouseOver>
+			<Image Anchor="C,C" Offset="0,0" TextureOffset="0,0" Size="64,64" Texture="SocialPolicies512.dds" ID="PolicyImage"/>
+		</GridButton>
+	</Instance>
+
+	<GridButton Anchor="C,T" Offset="0,35"  Size="214,70" Color="255,255,255,0" ID="Container" Hidden="1" ConsumeMouseOver="1" ConsumeMouseButton="1">
+		<Image Anchor="C,C" Size="214,29" Offset="0,20" Texture="MeterBarGreatPersonBack.dds">
+			<TextureBar Anchor="L,C" Size="214.29" Texture="MeterBarGreatPersonGold.dds" Direction="Right" ID="TotemicMeter" />
+			<Image Anchor="L,C" Size="214,29" Texture="MeterBarFrame.dds"/>
+		</Image>
+		<Button Anchor="C,T" Size="64,64" Offset="0,0" Texture="64x64FrameButtons.dds" ID="TotemicFrame">
+			<Image Anchor="C,C" Size="64,64" ID="TotemicImage"/>
+		</Button>
+		<Grid Anchor="C,T" Offset="0,75" Size="Full,64" Padding="8,8" Style="Grid9FrameTurns" ID="PolicyStackContainer">
+			<Stack Anchor="C,C" Offset="0,0" Size="Full,48" StackGrowth="Right" Padding="6" ID="PolicyStack"/>
+		</Grid>
+	</GridButton>
+
+</Context>

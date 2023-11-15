@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d2970b88-b033-4f58-9bf3-0a4f972ad8f4" version="1">
+  <Properties>
+    <Name>The Roman Empire - Trajan</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Roman Empire to the game, under the expansionist emperor Trajan</Teaser>
+    <Description>UA: All Roads Lead to Rome [NEWLINE]
+Founding or conquering a new city rushes production in the capital, increasing for each city you own. +1xp to newly trained units for every building in the Capital. [NEWLINE][NEWLINE]UB: Triumphal Column (Monument)[NEWLINE]The Triumphal column is more expensive than the Monument it replaces, but is cheaper to construct for every other Triumphal Column in existence. Yields +1 happiness, or +2 while at war.[NEWLINE][NEWLINE]UU: Singulares (Horseman) [NEWLINE]
+If disbanded in the capital, the Singulare and any stacked civilians are respawned in the furthest city. When near a barbarian encampment, the singularis receives a bonus movement point and +15% combat strength.</Description>
+    <Authors>Urdnot Scott, TophatPaladin, EmeraldRange</Authors>
+    <SpecialThanks>The whole cfc crew of course &lt;3 you know who you are</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="2373D93C3AF7E07F322468F860229591" import="1">Art/Graphics/Singulares/Knight_Rome.blend</File>
+    <File md5="88EC2F1D25C14F2E9ADFFEBE358CE440" import="1">Art/Graphics/Singulares/Knight_Rome.dds</File>
+    <File md5="6B05208AC6B2CF731935E4F4B5F57447" import="1">Art/Graphics/Singulares/Knight_Rome.fxsxml</File>
+    <File md5="1CD66FE7DB5C86D74943A1B0EF78DAD0" import="1">Art/Graphics/Singulares/Knight_Rome.gr2</File>
+    <File md5="D06012A34085CEE3DC8774017820E9F3" import="1">Art/Graphics/Singulares/Knight_Rome.jpg</File>
+    <File md5="2CD1284D676A060DE2D4BAAC4233AD48" import="1">Art/Graphics/Singulares/Knight_Rome_gloss.dds</File>
+    <File md5="DE7703C03FD565C8AFC563F6AB408321" import="1">Art/Graphics/Singulares/Knight_Rome_Horse.dds</File>
+    <File md5="326C06A05AFDDC7FE8509659F7B1764D" import="1">Art/Graphics/Singulares/Knight_Rome_Horse_gloss.dds</File>
+    <File md5="74AA24C54F1FE59412D83987806E5B6A" import="1">Art/Icons/TrajanFlag_32.dds</File>
+    <File md5="5458C7B7D4D886AB3BB330C0E626AC68" import="1">Art/Icons/TrajanFlag_SV.dds</File>
+    <File md5="BBB008725899040BE2F04EA8C8537B8D" import="1">Art/Icons/Trajan_Alpha_24.dds</File>
+    <File md5="7005132CD27B16F7D078B0D304A8E628" import="1">Art/Icons/Trajan_Alpha_32.dds</File>
+    <File md5="0AA0FFF5A667067C5EA7559D838C5847" import="1">Art/Icons/Trajan_Alpha_48.dds</File>
+    <File md5="0AA0FFF5A667067C5EA7559D838C5847" import="1">Art/Icons/Trajan_Alpha_64.dds</File>
+    <File md5="0B7C50FE70ADF5B5C100D5859218DA61" import="1">Art/Icons/Trajan_Atlas_128.dds</File>
+    <File md5="59A9C800EDA411246824F30EE583F631" import="1">Art/Icons/Trajan_Atlas_256.dds</File>
+    <File md5="40DA512984B8DE27AA8299AE5EB0E668" import="1">Art/Icons/Trajan_Atlas_32.dds</File>
+    <File md5="EDF6BF93B24E4858C1075357C0207DF6" import="1">Art/Icons/Trajan_Atlas_45.dds</File>
+    <File md5="2F3E67755E6AE16D87B8B4C35BDA4666" import="1">Art/Icons/Trajan_Atlas_64.dds</File>
+    <File md5="0785733598DE07A1841ABB00A726784E" import="1">Art/Icons/Trajan_Atlas_80.dds</File>
+    <File md5="715CE3AA4C38927A998971B698FA2781" import="1">Art/Leaderscene/US_Trajan_Scene.xml</File>
+    <File md5="C8DD70FA910E2F2F315C75F68BD35CC9" import="1">Art/Leaderscene/Trajan_LS.dds</File>
+    <File md5="AF72C42AFDDA34C5B2E7B10B8732AA55" import="1">Art/Maps/Trajan_DoM.dds</File>
+    <File md5="B6748E74C4FA58EF1BE3177F0ED77FF4" import="1">Art/Maps/Trajan_Map.dds</File>
+    <File md5="A676270D90AF3D078FFD24BBFA0CBEF6" import="0">Audio/US_Rome_Trajan_War.mp3</File>
+    <File md5="5448F71BD28B8F28F895AA07F25BD4A0" import="0">Audio/US_Rome_Trajan_Peace.mp3</File>
+    <File md5="BDA08D4D6E20A4C9BE32DD1232FF6252" import="0">Core/Rome_Trajan_ArtDefines.sql</File>
+    <File md5="A01991F050504E4543B8ED9E96BA823F" import="0">Core/Rome_Trajan_GameDefines.sql</File>
+    <File md5="A269F5CA37F579259ED49E2EB41EA693" import="0">Core/Rome_Trajan_GameText.xml</File>
+    <File md5="74F9AF10E8B9B00B0B884E0770BE7BBA" import="0">Core/Rome_Trajan_ModSupport.sql</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">LUA/PlotIterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">LUA/SaveUtils.lua</File>
+    <File md5="5A4A4159F2F553778A2A39261E1EC8E7" import="0">LUA/Trajan_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Rome_Trajan_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Rome_Trajan_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Rome_Trajan_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Rome_Trajan_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Leaderscene/US_Trajan_Scene.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/Trajan_Functions.lua">
+      <Name>Trajan Functions</Name>
+      <Description>Function dem trajans yall</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

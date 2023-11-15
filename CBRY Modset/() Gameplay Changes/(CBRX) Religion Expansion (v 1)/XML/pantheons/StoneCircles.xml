@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Belief_ImprovementYieldChanges>
+		<Delete BeliefType="BELIEF_STONE_CIRCLES" ImprovementType="IMPROVEMENT_QUARRY" YieldType="YIELD_FAITH" />
+	</Belief_ImprovementYieldChanges>
+	<Belief_ImprovementYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_STONE_CIRCLES</BeliefType>
+			<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_STONE_CIRCLES</BeliefType>
+			<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_STONE_CIRCLES</BeliefType>
+			<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Belief_ImprovementYieldChanges>
+
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_STONE_CIRCLES" />
+		<Row Tag="TXT_KEY_BELIEF_STONE_CIRCLES">
+			<Text>+1 [ICON_PRODUCTION] Production, +1 [ICON_CULTURE] Culture, and +2 [ICON_PEACE] Faith from Quarries</Text>
+		</Row>
+	</Language_en_US>
+	
+</GameData>

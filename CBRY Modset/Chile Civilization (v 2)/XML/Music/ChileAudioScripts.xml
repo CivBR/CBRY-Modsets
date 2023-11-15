@@ -1,0 +1,47 @@
+<GameData>
+	<Audio_Sounds>
+
+		<!--Ohiggins Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_OHIGGINS_PEACE</SoundID>
+			<Filename>OhigginsPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_OHIGGINS_WAR</SoundID>
+			<Filename>OhigginsWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Ohiggins Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Ohiggins Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_OHIGGINS_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_OHIGGINS_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_OHIGGINS_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_OHIGGINS_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>50</MinVolume>
+			<MaxVolume>50</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_AMBIENCE_LEADER_OHIGGINS_AMBIENCE</ScriptID>
+			<SoundID>SND_AMBIENCE_COAST_BED</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<Looping>true</Looping>
+			<MinVolume>20</MinVolume>
+			<MaxVolume>20</MaxVolume>
+		</Row>
+		<!--Ohiggins Music-->
+	</Audio_2DSounds>
+	
+
+</GameData>

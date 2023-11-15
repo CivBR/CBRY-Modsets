@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7ce280cb-0cfe-425d-94e1-a1f43fd07581" version="1">
+  <Properties>
+    <Name>[CBRX] Nation States</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Nation State CBRX Helper :happysperm:</Teaser>
+    <Description>Nation State CBRX Helper :happysperm:</Description>
+    <Authors>Coiot</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="28A664D902EC970A6C2BF2D73DE8A570" import="0">.DS_Store</File>
+    <File md5="0D492BC6FD349935FF94FEB2796EA19A" import="0">America.xml</File>
+    <File md5="C2005A1BB715C66044D5A22F511B64B5" import="0">Brazil.xml</File>
+    <File md5="59C323D4C4F9DA366DA13D458FF1D607" import="0">Carthage.xml</File>
+    <File md5="EDEEB8BDFD01B579F6E104CB3CBD1123" import="0">Champa.xml</File>
+    <File md5="40F80CF749C027120042652178AC2549" import="0">ETHIOPIA.XML</File>
+    <File md5="3C40191B5B12905B9B2552F4481C821F" import="0">Hawaii.xml</File>
+    <File md5="8BF2D998E627DB8E98DDAA3B6968432E" import="0">Iceland.xml</File>
+    <File md5="F6BDFB578E4D2D7A930A4460216F3D73" import="0">INDONESIA.XML</File>
+    <File md5="09FE0BCF3CF4939BFA4BCAF1F136D964" import="0">Inuit.xml</File>
+    <File md5="BF799F57F7B52A6DC6046495F5F4AF49" import="0">Israel.xml</File>
+    <File md5="2A4008C975025973150F95BD6A07BDC5" import="0">Korea.xml</File>
+    <File md5="CEFE4DD25495974894DA879E6618264E" import="0">MAYA.XML</File>
+    <File md5="39EB916AEC442D89A3D92A73BC1FF765" import="0">Mongolia.xml</File>
+    <File md5="1EF41454F375BAEC40B247FCA3B2407E" import="0">Mughals.xml</File>
+    <File md5="31173552A2258CF3B61FF594936BC281" import="0">Nation State (v 1).modinfo</File>
+    <File md5="C672566D79459733310F537EED7C9CDE" import="0">Sibir.xml</File>
+    <File md5="2DBC3B98C80C7E16D05CAACEC16C54E0" import="0">Sioux.xml</File>
+    <File md5="78264766C9C9BE2D5DD3473E0DB30F36" import="0">Soviet_Union.xml</File>
+    <File md5="6610D8BF911B54550F2B235E4D9139D7" import="0">Sparta.xml</File>
+    <File md5="EAEEB6A08B1741A138249A21CA4618E6" import="0">Sweden.xml</File>
+    <File md5="1AE6D098BAA06FCB91002CBC6884C9E3" import="0">Yakutia.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>America.xml</UpdateDatabase>
+      <UpdateDatabase>Brazil.xml</UpdateDatabase>
+      <UpdateDatabase>Carthage.xml</UpdateDatabase>
+      <UpdateDatabase>Champa.xml</UpdateDatabase>
+      <UpdateDatabase>ETHIOPIA.XML</UpdateDatabase>
+      <UpdateDatabase>Hawaii.xml</UpdateDatabase>
+      <UpdateDatabase>Iceland.xml</UpdateDatabase>
+      <UpdateDatabase>INDONESIA.XML</UpdateDatabase>
+      <UpdateDatabase>Inuit.xml</UpdateDatabase>
+      <UpdateDatabase>Israel.xml</UpdateDatabase>
+      <UpdateDatabase>Israel.xml</UpdateDatabase>
+      <UpdateDatabase>Korea.xml</UpdateDatabase>
+      <UpdateDatabase>MAYA.XML</UpdateDatabase>
+      <UpdateDatabase>Mongolia.xml</UpdateDatabase>
+      <UpdateDatabase>Mughals.xml</UpdateDatabase>
+      <UpdateDatabase>Sibir.xml</UpdateDatabase>
+      <UpdateDatabase>Sioux.xml</UpdateDatabase>
+      <UpdateDatabase>Soviet_Union.xml</UpdateDatabase>
+      <UpdateDatabase>Sparta.xml</UpdateDatabase>
+      <UpdateDatabase>Sweden.xml</UpdateDatabase>
+      <UpdateDatabase>Yakutia.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

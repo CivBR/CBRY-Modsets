@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_DANCE_OF_THE_AURORA</Type>
+			<Description>TXT_KEY_BELIEF_DANCE_OF_THE_AURORA</Description>
+			<ShortDescription>TXT_KEY_BELIEF_DANCE_OF_THE_AURORA_SHORT</ShortDescription>
+			<Pantheon>true</Pantheon>
+		</Row>
+	</Beliefs>
+	<Belief_TerrainYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_DANCE_OF_THE_AURORA</BeliefType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Belief_TerrainYieldChanges>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BELIEF_DANCE_OF_THE_AURORA">
+			<Text>1 [ICON_PEACE] Faith from Tundra Tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DANCE_OF_THE_AURORA_SHORT">
+			<Text>Dance of the Aurora</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

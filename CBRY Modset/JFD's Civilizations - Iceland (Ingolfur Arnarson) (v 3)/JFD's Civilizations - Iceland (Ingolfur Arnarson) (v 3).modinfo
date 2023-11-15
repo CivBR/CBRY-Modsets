@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="293b2f23-552b-488a-95c2-4a395701c466" version="3">
+  <Properties>
+    <Name>JFD's Civilizations - Iceland (Ingolfur Arnarson)</Name>
+    <Teaser>Adds [COLOR_CYAN]Iceland under Ingolfur Arnarson[ENDCOLOR]. Click for details.</Teaser>
+    <Description>ICELAND (INGOLFUR ARNARSON)[NEWLINE][NEWLINE]UNIQUE TRAIT: AGE OF SETTLEMENT[NEWLINE]Earn [ICON_GREAT_PEOPLE] Great Writer Points for the Capital from discovering Civilizations and founding cities. Cities founded with Skalds or on foreign continents begin with a free Monument and bonus [ICON_CITIZEN] Population.[NEWLINE][NEWLINE]UNIQUE BUILDING: THINGSTEAD (COLOSSEUM)[NEWLINE]The Thingstead is the unique replacement for the Amphitheater for Iceland. Unlike the Amphitheater, the Thingstead forms a [ICON_CONNECTED] City Connection with the [ICON_CAPITAL] Capital over water, boosting your [ICON_GOLD] Gold output. In addition, it provides +2 [ICON_HAPPINESS_1] Local Happiness when connected to the [ICON_CAPITAL] Capital, although it cannot provide more [ICON_HAPPINESS_1] Happiness than the city has [ICON_CITIZEN] Population. Contains 1 slot for a Great Work of Writing.[NEWLINE][NEWLINE]UNIQUE UNIT: SKALD (GREAT WRITER)[NEWLINE]The Skald is the unique Icelandic replacement for the Great Writer. This unit may be used to effectively scout the oceans, gaining additional [ICON_STRENGTH] Defense, sight, and [ICON_MOVES] Movement whilst embarked, as well as being able to cross oceans immediately. It also has the ability to found new cities, but only on a foreign continent that does not contain the Icelandic capital.</Description>
+    <Authors>JFD, Sukritact, Pouakai, Viregel, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete (BNW or GK)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="20971D7EEA683827DE9A13299DBAE08A" import="1">Art/Graphics/Skald/skald.fxsxml</File>
+    <File md5="1C62A9B9A49680051028E5A8E142D13B" import="1">Art/Graphics/Skald/skald.gr2</File>
+    <File md5="2634C439B9F8E77066FDECD8AAF8979A" import="1">Art/Graphics/Skald/skald_diff.dds</File>
+    <File md5="06B703CD0FDAC33FA804E4A7A67BC8D7" import="1">Art/Graphics/Skald/sv_Skald.dds</File>
+    <File md5="AB665CC5628EF45E82C24F7C6BDF9ED0" import="1">Art/Icons/JFD_IcelandArnarson_AlphaAtlas_128.dds</File>
+    <File md5="53C204EA3E559C5ACFFDB444387A2798" import="1">Art/Icons/JFD_IcelandArnarson_AlphaAtlas_16.dds</File>
+    <File md5="CF59E9591EA009F04A44BA009E379556" import="1">Art/Icons/JFD_IcelandArnarson_AlphaAtlas_24.dds</File>
+    <File md5="69879A1D42993D4819F13B2658957930" import="1">Art/Icons/JFD_IcelandArnarson_AlphaAtlas_32.dds</File>
+    <File md5="DC1E7F494FBC39605F4CCC65ACEFF962" import="1">Art/Icons/JFD_IcelandArnarson_AlphaAtlas_45.dds</File>
+    <File md5="A47FDC15A7CAB5BDB33E67C0B612BE82" import="1">Art/Icons/JFD_IcelandArnarson_AlphaAtlas_48.dds</File>
+    <File md5="D2D0E6F8E9AF8F85939E696C0DDEA811" import="1">Art/Icons/JFD_IcelandArnarson_AlphaAtlas_64.dds</File>
+    <File md5="26FECB33D93CE760629605CE95CCACB5" import="1">Art/Icons/JFD_IcelandArnarson_AlphaAtlas_80.dds</File>
+    <File md5="A564F559513444E0DA128E13E464E5DA" import="1">Art/Icons/JFD_IcelandArnarson_IconAtlas_128.dds</File>
+    <File md5="2A871B816F7BEC1A1552255AD53897BF" import="1">Art/Icons/JFD_IcelandArnarson_IconAtlas_256.dds</File>
+    <File md5="BE80D02FEEF08E4AB5A1D70ED87B5F82" import="1">Art/Icons/JFD_IcelandArnarson_IconAtlas_32.dds</File>
+    <File md5="471839422CFFBEC0497580EC7021F86E" import="1">Art/Icons/JFD_IcelandArnarson_IconAtlas_45.dds</File>
+    <File md5="D02A811488DA7FE532BAC06A0BD09E35" import="1">Art/Icons/JFD_IcelandArnarson_IconAtlas_64.dds</File>
+    <File md5="0C3E548415883697D629356D4B15954D" import="1">Art/Icons/JFD_IcelandArnarson_IconAtlas_80.dds</File>
+    <File md5="193430045D210C7E8E7D1CE67E98DD88" import="1">Art/Icons/JFD_IcelandArnarson_UnitFlagAtlas_32.dds</File>
+    <File md5="A1F571F620A73DF7A87B04385E5E64BA" import="1">Art/Leaderscene/JFD_IcelandArnarson_Diplo.dds</File>
+    <File md5="4570909C49E481EFFB0A1F730ACE93BA" import="1">Art/Leaderscene/JFD_IcelandArnarson_Scene.xml</File>
+    <File md5="974ABE1217F80F2A0F20BC3C150EF7BC" import="1">Art/Maps/JFD_MapIcelandArnarson512.dds</File>
+    <File md5="A53D3782CE83360418B167F6BEE597AE" import="1">Art/Maps/JFD_DOM_IcelandArnarson.dds</File>
+    <File md5="D7B38493EF7C316162C22E29226C0F22" import="1">Audio/JFD_IcelandArnarson_Peace.mp3</File>
+    <File md5="C72C92C4CD0DFDEB78C975CB99EB2D0E" import="1">Audio/JFD_IcelandArnarson_War.mp3</File>
+    <File md5="8E9BD5AE2B50E1826E3585AE163A4A47" import="1">Audio/Skald_Writing-001.wav</File>
+    <File md5="1A895A45FF7411FE41D3A568F2BC74FA" import="0">Core/IcelandArnarson_ArtDefines.sql</File>
+    <File md5="340F6F54DB64FCA063D2FCD73DEE2804" import="0">Core/IcelandArnarson_GameDefines.sql</File>
+    <File md5="6717F6F2711900FC15B942DA4A62FBC5" import="0">Core/IcelandArnarson_GameText.xml</File>
+    <File md5="BEF029C5F938276A0045DFF7B7995483" import="0">Core/IcelandArnarson_ModSupport.sql</File>
+    <File md5="A994837C5D7E3092CC1F3D1A9AE3D625" import="0">Credits.txt</File>
+    <File md5="FE71C60E4B70B27126D2A48B2404B72B" import="0">Lua/JFD_Civs_IcelandArnarson_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/IcelandArnarson_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/IcelandArnarson_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/IcelandArnarson_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/IcelandArnarson_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_IcelandArnarson_Functions.lua">
+      <Name>JFD_Civs_IcelandArnarson_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

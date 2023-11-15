@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/18/2014 10:45:07 PM -->
+<GameData>
+	<Language_en_US>
+		<!--===================================================-->
+		<!--CONCEPTS-->
+		<!--===================================================-->
+		<!--Dark Ages-->
+		<Row Tag="TXT_KEY_JFD_DARK_AGES_HEADING1_TITLE">
+			<Text>Dark Ages</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DARK_AGES_HEADING1_BODY">
+			<Text>[COLOR_POSITIVE_TEXT]Dark Ages[ENDCOLOR] can now trigger if you lose more Prestige (Golden Age progress) from Excess Unhappiness than you have stored. During a Dark Age, your Great People rate is doubled but your cities grow 25% slower.[NEWLINE][NEWLINE]In addition, you will now lose Prestige if your Cities are captured, your Citizens or Units are killed, or your Improvements are pillaged. If you enter into Anarchy, ALL your Prestige will be lost as well.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

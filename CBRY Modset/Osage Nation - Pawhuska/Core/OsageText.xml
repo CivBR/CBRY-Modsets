@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/3/2019 5:14:04 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Leaders-->
+		<Row Tag="TXT_KEY_LEADER_GR_PAWHUSKA">
+			<Text>Pawhuska</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GR_PAWHUSKA_PEDIA">
+			<Text>Chief Pawhuska, or ‘White-Hair’, lived from 1763 to 1809. He became chief of his band in 1791. While the Osage never had centralized leadership, Pawhuska was considered the most prominent chief of the Osage. The name ‘White Hair’ originates from a battle against the against the Americans in Ohio. During the battle Pawhuska defeated the American commander and attempted to cut off his scalp. Instead the powdered wig of the commander was torn off and he escaped. Pawhuska was impressed with how the wig protected it’s wearer and wore it for the rest of his reign. Pawhuska’s major achievements included successful wars against surrounding Indians and Americans, improving trade and relations with the French, and guiding the Osage through dissention at a time where American’s strategy was to turn native tribes against themselves. Today the Osage capital is Pawhuska, Oklahoma, named after their most respected chief. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GR_PAWHUSKA_LIVED">
+			<Text>1763-1809 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GR_PAWHUSKA_NAME">
+			<Text>Pawhuska</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GR_PAWHUSKA_SUBTITLE">
+			<Text>Head Chief of the Osage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GR_PAWHUSKA_HEADER_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GR_PAWHUSKA_TEXT_1">
+			<Text>Chief Pawhuska, or ‘White-Hair’, lived from 1763 to 1809. He became chief of his band in 1791. While the Osage never had centralized leadership, Pawhuska was considered the most prominent chief of the Osage. The name ‘White Hair’ originates from a battle against the against the Americans in Ohio. During the battle Pawhuska defeated the American commander and attempted to cut off his scalp. Instead the powdered wig of the commander was torn off and he escaped. Pawhuska was impressed with how the wig protected it’s wearer and wore it for the rest of his reign. Pawhuska’s major achievements included successful wars against surrounding Indians and Americans, improving trade and relations with the French, and guiding the Osage through dissention at a time where American’s strategy was to turn native tribes against themselves. Today the Osage capital is Pawhuska, Oklahoma, named after their most respected chief.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GR_PAWHUSKA_TITLES_1">
+			<Text>Head Chief of the Osage</Text>
+		</Row>
+		<!--Civilizations-->
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE">
+			<Text>Osage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_ADJ">
+			<Text>Osage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_DESC">
+			<Text>Osage Tribe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GR_OSAGE_FACTOID_HEADING">
+			<Text>Further Reading</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GR_OSAGE_FACTOID_TEXT">
+			<Text>
+				THE OSAGE - WILLARD ROLLINGS[NEWLINE]
+				[NEWLINE]A HISTORY OF THE OSAGE PEOPLE - LOUIS BURNS[NEWLINE]
+				[NEWLINE]A DICTIONARY OF THE OSAGE LANGUAGE (including myths and history) - FRANCIS LA FRESCHE[NEWLINE]
+				[NEWLINE]KILLERS OF THE FLOWER MOON - DAVID GRANN
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GR_OSAGE_HEADING_1">
+			<Text>The Name</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GR_OSAGE_HEADING_2">
+			<Text>Homeland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GR_OSAGE_HEADING_3">
+			<Text>The Osage Identity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GR_OSAGE_HEADING_4">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GR_OSAGE_HEADING_5">
+			<Text>Osage Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GR_OSAGE_TEXT_1">
+			<Text>The Osage name for themselves was ‘Ni-U-Ko¢n-Ska’ or ’Children of the Middle Waters’. The name ‘Osage’ is an English version of a French pronunciation of what the French thought the tribe was called.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GR_OSAGE_TEXT_2">
+			<Text>The Osage homeland for most of their history was the Ozark Mountains in modern day Missouri. At their peak the Osage stretched all the way into the Great Plains in Kansas and Oklahoma, Iowa to the North, and Louisiana to the South. The Osage were semi nomadic but spent most of their time in the forested Ozark Mountains.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GR_OSAGE_TEXT_3">
+			<Text>The Osage were a dominant indian tribe in what is today the center of America. They have been described as both the most treacherous and war like of all tribes, as well as the most peace-loving and hospitable. While they may have loved peace the tribe was frequently at war with other tribes. The men were known for shaving their bodies with the exception of a small patch of hair on the top of their heads. They considered anyone who didn’t do this, including the bearded French and Americans, to be quite uncivilized. They were also the tallest race of indians with an average height of over 6 feet, with many reaching 7. Because of this they referred to white settlers as “the short people”. While the Osage had their own religion which shaped their lifestyle, they were one of the quickest tribes to convert to Christianity. Their culture on the other hand, still exists to this day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GR_OSAGE_TEXT_4">
+			<Text>Our knowledge of the Osage only extends back to the 17th century. Around that time they and several other tribes migrated West across the Mississippi to escape war with the Iroquois. They settled near the Osage river in the Ozark Mountains where they remained for centuries. In 1673 the French, whom they called ‘Heavy Eyebrows’ for their comparably excessive facial hair, were the first Europeans to make contact. Relations with the French were largely friendly as the two traded and made military alliances against other tribes and the Spanish. The Osage decline began with the smallpox that tore through the tribe shortly after the Louisiana Purchase. Many settlements were moved to keep distance from American settlers. These movements triggered many wars with tribes such as the Cherokee, Pawnee, Choctaw, Kiowa, and Kickapoo. While the Osage ‘won’ many of these wars they still took their toll. Between 1825 and 1870,  after lengthy American interference, the Osage were forced to sell their land and were moved to a reservation in Oklahoma were they remain to this day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GR_OSAGE_TEXT_5">
+			<Text>The Osage nation now resides in Northern Oklahoma, with their capital in Pawhuska. Fortunately the Osage were some of the most competent and stubborn negotiators, and so retained land rights and sovereignty. These land rights proved critical as oil was found in the new Osage land, leading to the nation becoming one of the richest and most prosperous tribes in modern day.	</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GR_OSAGE_TITLE">
+			<Text>Osage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_SHORT">
+			<Text>Osage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_DOM">
+			<Text>The world is changing, Chief Pawhuska. Every day a new enemy appears, eager to separate your people from their homes. They try to sow dissent and raid your farms and villages. They know the Osage are a strong people who will fight to protect themselves. You know better than anyone how to adapt. From the Ozark Mountains, to the Great Plains the Osage know how to thrive in any condition.[NEWLINE]
+			[NEWLINE]Your people look to you Pawhuska. Now more than ever they need a strong leader to guide through this era of change. Your fierce loyalty and determination on and off the battlefield brought you to this position. Will you be able to hold the Osage together in the face of these new threats? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_1">
+			<Text>Ni-o-sho-de</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_2">
+			<Text>Mo-he-ag-gra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_3">
+			<Text>Pa-hiu-cka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_4">
+			<Text>Engru-scah-op-pa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_5">
+			<Text>Chetopah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_6">
+			<Text>Mixa-ckau-tse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_7">
+			<Text>Pah-Che-Ka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_8">
+			<Text>Nion-Chou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_9">
+			<Text>Pa Sole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_10">
+			<Text>Pasuga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_11">
+			<Text>Ho-tsa-Tun-ka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_12">
+			<Text>No-Tse-Wa-Spe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_13">
+			<Text>Wah-Zha-Zhi </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_14">
+			<Text>Manka-Chonka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_15">
+			<Text>Gra-mo'n</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_16">
+			<Text>Xtha-ci ga-xa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_17">
+			<Text>Ba-xu Da-pa O-ko-dae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_18">
+			<Text>Ba-xu Zhi-ga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_19">
+			<Text>Ni-hni-bo-shta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_20">
+			<Text>Sho-do</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_21">
+			<Text>Da-pa U-pshe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_22">
+			<Text>Wa-gthi-shka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_23">
+			<Text>To-wo Thi-xthi-ge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_24">
+			<Text>Do-ckiu-e-ga-xa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_25">
+			<Text>Ga-da-dse Ga-xa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_26">
+			<Text>Ni Ton-ga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_27">
+			<Text>We-tsa U-zhi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_28">
+			<Text>Zho-xe-ga U-gthi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_29">
+			<Text>E-hiu-gthe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_30">
+			<Text>Aſ-thi-gi-xe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_GR_OSAGE_CITY_31">
+			<Text>Wi-tza</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_GR_OSAGE_SPY_1">
+			<Text>Ko pa ka she</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GR_OSAGE_SPY_2">
+			<Text>Hun ka ah gre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GR_OSAGE_SPY_3">
+			<Text>Mihoni</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GR_OSAGE_SPY_4">
+			<Text>Me hun ka me</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GR_OSAGE_SPY_5">
+			<Text>Kahikie atch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GR_OSAGE_SPY_6">
+			<Text>Na he me ka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GR_OSAGE_SPY_7">
+			<Text>Me tsa ho pa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GR_OSAGE_SPY_8">
+			<Text>Me tsa he-Me na</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_GR_OSAGE_SPY_9">
+			<Text>Mo sa ne</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag ="TXT_KEY_GR_OSAGE_SPY_10">
+			<Text>Pa pu son tsa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_GR_PAWHUSKA">
+			<Text>During a [ICON_GOLDEN_AGE], Units do not require Strategic Resources to train, Units trained this way cause nearby Enemy Units to receive a stacking Combat Penalty. Upon the dawn of a [ICON_GOLDEN_AGE], a new source of your most recently discovered Strategic Resource is revealed near your newest city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GR_PAWHUSKA_SHORT">
+			<Text>Strength of the Spider</Text>
+		</Row>
+		<!--Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_OSAGE_MINERAL_COUNCIL">
+			<Text>Mineral Council</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OSAGE_MINERAL_COUNCIL_STRATEGY">
+			<Text>Upon researching Electricity, you can begin to construct Mineral Councils to enter into a series of Golden Ages. Stock up on extra resources to help develop your newly conquered cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OSAGE_MINERAL_COUNCIL_HELP">
+			<Text>Upon construction, receive a burst of [ICON_GOLDEN_AGE] Points for each Strategic Resource worked by the empire. During a [ICON_GOLDEN_AGE], each worked Strategic Resource within city borders provides +2 [ICON_PRODUCTION] Production and +2 [ICON_CULTURE] Culture. </Text>
+		</Row>
+			<Row Tag="TXT_KEY_BUILDING_OSAGE_MINERAL_COUNCIL_PEDIA">
+			<Text>After the discovery of oil within their reservation in 1890, the Osage Nation established the first oil lease in their territory. Unlike most other tribal nations, the Osage own the land that form their borders, and thus Mineral Councils were founded in the consequent years to help adminstor and overseee mineral extraction for all below surface resources within trusts that no single member of the Osage Nation could claim ownership over. These Mineral Councils maintain individual property rights whilst contributing to communial well-being and prosperity. Mineral Councils quickly made members of the Osage Nation very wealthy before oil production peaked and declined in the 1930s.</Text>
+		</Row>
+		<!--Units-->
+		<Row Tag="TXT_KEY_UNIT_GR_ODON">
+			<Text>O-don Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GR_ODON_STRATEGY">
+			<Text>An O-don Guard is an intimidating sight to any enemy, and intimidation is a timeless tactic. The O-Don Guard cis the steady backbone of your army as they come ready for promotions and a bonus for saving up Horses to upgrade into Lancers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GR_ODON_HELP">
+			<Text>Begins with Experience equal to unused Strategic Resources. Upon upgrading, gains the Wa-ga-xthi promotion (+13% Combat Bonus outside Friendly Territory).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GR_ODON_PEDIA">
+			<Text>Osage warriors could gain honor through 13 specific accomplishments in combat. These accomplishments were called O-don. They ranged from protecting their farms to scalping (cutting an enemies scalp off). A warband full of these Osage, who’s average height was over 6 feet, could overpower any opposing party.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<Row Tag="TXT_KEY_LEADER_GR_PAWHUSKA_GREETING_1">
+			<Text>Welcome to the middle waters. You may call me Chief Pawhuska.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GR_PAWHUSKA_GREETING_2">
+			<Text>Welcome to the Osage Tribe. We will forgive your uncivilized nature for now. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GR_PAWHUSKA_DEFEATED">
+			<Text>Even in defeat the Osage legacy will live on.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

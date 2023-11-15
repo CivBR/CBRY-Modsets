@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Belief_ImprovementYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_GODDESS_HUNT</BeliefType>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Belief_ImprovementYieldChanges>
+
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_GODDESS_HUNT" />
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_HUNT">
+			<Text>+1 [ICON_FOOD] Food and +1 [ICON_GOLD] Gold from Camps</Text>
+		</Row>
+	</Language_en_US>
+	
+</GameData>

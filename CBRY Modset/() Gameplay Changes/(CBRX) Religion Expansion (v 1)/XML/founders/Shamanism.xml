@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Beliefs>
+		<Update>
+			<Set ProphetStrengthModifier="0" MissionaryCostModifier="-30" ProphetCostModifier="-30" Enhancer="false" Founder="true" />
+			<Where Type="BELIEF_MESSIAH" />
+		</Update>
+	</Beliefs>
+
+	<Language_en_US>
+		
+		<Delete Tag="TXT_KEY_BELIEF_MESSIAH" />
+		<Delete Tag="TXT_KEY_BELIEF_MESSIAH_SHORT" />
+		<Row Tag="TXT_KEY_BELIEF_MESSIAH">
+			<Text>Prophets and Missionaries are earned with 25% less [ICON_PEACE] Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_MESSIAH_SHORT">
+			<Text>Shamanism</Text>
+		</Row>
+	</Language_en_US>
+	
+</GameData>

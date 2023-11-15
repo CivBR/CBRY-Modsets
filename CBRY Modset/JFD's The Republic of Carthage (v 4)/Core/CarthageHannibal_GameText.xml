@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CARTHAGE (HANNIBAL)-->
+		<Row Tag="TXT_KEY_CIV_JFD_CARTHAGE_HANNIBAL_ADJECTIVE">
+			<Text>Punic</Text>
+		</Row>
+		<!--HANNIBAL-->
+		<Row Tag="TXT_KEY_LEADER_JFD_HANNIBAL">
+			<Text>Hannibal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HANNIBAL_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HANNIBAL_TEXT_1">
+			<Text>Among the great captains of military history, few stand as high, and none higher, than Hannibal Barca. He was born the son of Hamilcar Barca in 247 BC, shortly before the Carthaginian defeat in the First Punic War. Hamilcar made it his mission to conquer new territory in Hispania (Spain) to make up for the loss of Sicily, Sardinia and Corsica to the Romans; when Hannibal grew old enough, he joined his father and learned the art of military command. According to legend, at this time Hannibal swore an oath of eternal vengeance on Rome.[NEWLINE][NEWLINE]After the death of his father and brother-in-law, Hannibal was acclaimed the commander of the Carthaginian forces in Hispania in 221 BC. He spent the next two years finishing the subjugation of the region, and then in 219 BC he attacked the town of Sagentum. Hannibal had been looking for a bigger fight: the city was under the protection of Rome and his attack was sure to spark a diplomatic incident. In fact, the situation boiled out of control and Rome declared war on Carthage, thus beginning the Second Punic War.[NEWLINE][NEWLINE]As soon as he heard that war had broken out, Hannibal resolved to embark on a daring raid into Italy itself. He gathered together his most reliable soldiers from Africa and Iberia and set out to the east. After crossing the Pyrenees and evading a Roman army in southern Gaul, in 218 BC Hannibal led his troops on a heroic crossing of the Alps, an astonishing feat that no one at the time thought possible and which caught the Romans totally by surprise.[NEWLINE][NEWLINE]Once he emerged on the other side of the mountains, Hannibal found shelter among the Gauls of the Po River. With these new allies replacing the many soldiers who had died in the difficult crossing, Hannibal fought a Roman army at the Trebia River, cutting it to pieces by a surprise flank attack. The following year in 217 BC, he crossed the Apennine Mountains and headed into central Italy, where at the Battle of Lake Trasimene he fought and destroyed the main Roman army. Now there was no force in all of Italy which could stand in his way.[NEWLINE][NEWLINE]The road to Rome was now open, but Hannibal had no siege weapons and he knew that he had no chance to take the city. Instead, he headed into the south of Italy and ravaged the countryside of Campania and Apulia, hoping to pull the southern Italian cities from their alliance with Rome. Despite their many defeats, in 216 the Romans assembled yet another army to face Hannibal at Cannae. Although heavily outnumbered, Hannibal used an elaborate envelopment maneuver to annihilate yet another Roman army. An estimated 50,000 Roman soldiers were killed, and the whole of southern Italy went into revolt against the Romans.[NEWLINE][NEWLINE]After this disaster, the Romans adopted a Fabian strategy (named after their commander Quintus Fabius Maximus) of avoiding battle with Hannibal and striking at his supplies. Despite receiving no assistance from Carthage, Hannibal continued to campaign across Italy holding together his ragtag army together in enemy territory for a decade. After his brothers Hasdrubal (207 BC) and Mago (205 - 203 BC) failed to relieve his army, however, any hope of successfully conquering Rome was lost.[NEWLINE][NEWLINE]Meanwhile, the Roman general Publius Cornelius Scipio had completed the Roman conquest of Hispania and invaded northern Africa. The Carthaginian government recalled Hannibal to Africa, where he was charged with defending the Carthage with untrained new levies. This was an all but impossible task, and after Hannibal's elephants failed to break the Roman lines at the Battle of Zama (202 BC), his infantry was routed and he had no choice but to surrender.[NEWLINE][NEWLINE]The Roman victory put an end to the war. Hannibal returned to Carthage, and was elected to be a "soffet," or one of the chief magistrates of the city-state. He was so effective in reorganizing the government that Carthage was able to pay back the heavy tribute Rome demanded earlier than expected and without exceptional taxation. Alarmed at this development and fearing Carthage's resurgence, the Roman Senate forced Hannibal into exile; he found refuge at the court of Antiochus III of the Seleucid Empire until the Romans demanded that he be surrendered to them. Rather than be given over to his enemies, Hannibal committed suicide in 183 BC[NEWLINE][NEWLINE]Although Hannibal's campaigns have been endlessly studied by military historians, we know very little about the man himself. All of the surviving accounts of the Second Punic War were written by the Romans, who detested Hannibal and had nothing complimentary to say about him (Hannibal's name was literally used as a bogeyman to scare misbehaving Roman children). Reading between the lines of their accounts, however, it is clear that Hannibal treated his foes with respect and was greatly admired by his soldiers.[NEWLINE][NEWLINE]Hannibal proved himself to be a fine political as well as military leader, a distinction that few men in history can claim. His success in defeating much larger Roman armies time and time again while operating in enemy country unquestionably ranks him as one of the greatest military commanders of all time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HANNIBAL_NAME">
+			<Text>Hannibal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HANNIBAL_SUBTITLE">
+			<Text>Leader of Carthage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HANNIBAL_TITLES_1">
+			<Text>Carthaginian General</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HANNIBAL_LIVED">
+			<Text>247 - 183 BCE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_HANNIBAL_TEXT">
+			<Text>You are called to arms, O' mighty Hannibal, general to the Carthaginian armies. Your capability on the field of war is legendary, and is known the world over by friend and foe alike. For decades, Carthage was subject to the honour and prestige of the Roman Empire, but you marched your armies across Hispania, and Gaul, and the treacherous Alps to regain your peoples' honour. Your very name caused cities to tremble and armies to scatter in your wake, and your legacy remains as one of history's greatest commanders.[NEWLINE][NEWLINE]O fearsome general, the soldiers of Carthage await your leadership. The hearts of your men are filled with longing for the honour denied to them. Can you bring glory to their name? Can you march an army across all manner of terrain and bring triumph and victory to Carthage? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--THE HUNDRED AND FOUR-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_CARTHAGE_HANNIBAL_SHORT">
+			<Text>The Hundred and Four</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_CARTHAGE_HANNIBAL">
+			<Text>During peacetime, Military Units increase [ICON_PRODUCTION] Production when garrisoned. Units may cross mountains after the first Shophet is earned, taking 50 HP damage if they end a turn on a mountain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_HUNDRED_AND_FOUR">
+			<Text>The Hundred and Four</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_HUNDRED_AND_FOUR_HELP">
+			<Text>Garrison this unit to increase [ICON_PRODUCTION] Production equal to 15% of this unit's combat strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CARTHAGE_HANNIBAL_DESC">
+			<Text>JFD: Carthage Hannibal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CARTHAGE_HANNIBAL_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CARTHAGE_HANNIBAL_CITY_VIEW_HELP">
+			<Text>+{1_Num} [ICON_PRODUCTION] Production from this city's Military garrison.</Text>
+		</Row>
+		<!--SHOPHET-->
+		<Row Tag="TXT_KEY_UNIT_JFD_SHOPHET">
+			<Text>Shophet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SHOPHET_HELP">
+			<Text>Unique replacement for the Great General. Disembarks onto water tiles as a Great Admiral. Causes friendly units beginning in the same or adjacent tile to ignore enemy Zone of Control for that turn and enemy cities within two tiles to take extra damage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SHOPHET_STRATEGY">
+			<Text>The Shophet is the unique Great General replacement for Carthage, for Hannibal. This unit causes enemy cities to take extra damage when it is within two tiles. The closer the Shophet is to the city, the more damage the city takes. It also causes all friendly units beginning in the same or an adjacent tile to ignore an enemy's Zone of Control for that turn. In addition, whenever this unit embarks into a water tile, it becomes a Great Admiral. It returns to Great General status upon disembarking into a city. Use a Shophet to supplement your military strategies when waging war against other civilizations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SHOPHET_TEXT">
+			<Text>In the various independent city states constituting Phoenicia proper (coasts of present Lebanon and Syria) and its "Punic" Mediterranean colonies a shofet (in Punic, suffet or suffete) was a non-royal magistrate granted control over a city-state, sometimes functioning much in the same way as a Roman consul.[NEWLINE][NEWLINE]The term is mostly widely known from the suffetes of Carthage, a former Phoenician colony. Following the overthrow of its monarchy in the 5th century BC, Carthage was ruled by a number of aristocratic councils presided over by two suffetes, who served in similar capacity to Roman consuls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHOPHET_GENERAL">
+			<Text>Admiralty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHOPHET_GENERAL_HELP">
+			<Text>This unit may embark as a Great Admiral.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHOPHET_ADMIRAL">
+			<Text>Commandeering</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHOPHET_ADMIRAL_HELP">
+			<Text>This unit may disembark as a Great General (must be moved into a city first).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHOPHET">
+			<Text>Hannibal ante Portas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHOPHET_HELP">
+			<Text>Enemy cities within two tiles of this unit will take damage every turn. Friendly units will heal damage after defeating an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHOPHET_ZOC">
+			<Text>Nearby Shophet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHOPHET_ZOC_HELP">
+			<Text>Ignores enemy Zone of Control.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HANNIBAL_IS_AT_THE_GATES">
+			<Text>A Punic Shophet is at the gates of {1_CityName}!</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_1">
+			<Text>Bomilcar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_2">
+			<Text>Hamilcar Barca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_3">
+			<Text>Hannibal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_4">
+			<Text>Hannibal Barca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_5">
+			<Text>Hasdrubal II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_6">
+			<Text>Hasdrubal Gisco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_7">
+			<Text>Hasdrubal the Boetharch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_8">
+			<Text>Mago I Justin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_9">
+			<Text>Mago II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_10">
+			<Text>Mago III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_11">
+			<Text>Himilco I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_12">
+			<Text>Himilco II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_13">
+			<Text>Hasdrubal the Fair</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_14">
+			<Text>Ad Herbal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_15">
+			<Text>Carthalo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_16">
+			<Text>Hannibal Monomachus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_17">
+			<Text>Maharbal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_18">
+			<Text>Sophonisba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_19">
+			<Text>Hannibal the Rhodian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_20">
+			<Text>Hanno the Elder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_21">
+			<Text>Hanno the Great</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_22">
+			<Text>Aderbaal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_23">
+			<Text>Bodashtart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_24">
+			<Text>Philosir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SHOPHET_25">
+			<Text>Abdmelqart</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

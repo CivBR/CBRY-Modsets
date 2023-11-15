@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Beliefs>
+		<Update>
+			<Set Pantheon="false" Follower="true" FriendlyHealChange="25" CityRangeStrikeModifier="25" />
+			<Where Type="BELIEF_FAITH_HEALERS" />
+		</Update>
+	</Beliefs>
+
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_FAITH_HEALERS" />
+		<Row Tag="TXT_KEY_BELIEF_FAITH_HEALERS">
+			<Text>Units adjacent to a friendly City heal additional 25 HP per turn, +25% increase in City [ICON_RANGE_STRENGTH] Ranged Combat Strength</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

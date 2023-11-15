@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/17/2021 7:34:41 PM -->
+<Context>
+	<!--Instance-->
+	<Instance Offset="0,0" Name="EW_Instance" Size="480,50">
+		<Grid ID="EW_Grid" Anchor="C,C" Offset="0,0" Size="480,50">
+			<Label ID="EW_Cap" Anchor="L,C" Offset="20,0" Font="TwCenMT22" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" String="Error"/>
+		</Grid>
+	</Instance>
+	<!--Button to Open-->
+	<TextButton ID="EW_Limit" Anchor="C,T" AnchorSide="I,I" Offset="0,2" Font="TwCenMT22" String="Error"/>
+	<!--Menu-->
+	<Box ID="EW_Block" Anchor="C,C" Color="0,0,0,1" ConsumeMouseOver="1" Size="1920,1080">
+		<Grid ID="EW_Container" Size="500,700" Anchor="C,C" Offset="0.0" Style="Grid9DetailFive140" ConsumeMouseOver="1">
+			<!--Title-->
+			<Label ID="EW_Title" Anchor="C,T" AnchorSide="I,I" Offset="0,17" Font="TwCenMT22" Style="MenuTitleCaption" String="Civ Limits"/>
+			<!--List-->
+			<ScrollPanel Anchor="C,T" Size="480,600" AnchorSide="I,I" Offset="0,41" ID="EW_List" Vertical="1">
+				<Stack Anchor="C,T" Size="480,600" StackGrowth="B" Padding="0" ID="EW_Stack"/>
+				<ScrollBar Anchor="R,T" Style="VertSlider" AnchorSide="I,I" Length="564"/>
+				<UpButton Anchor="R,T" Style="ScrollBarUp" AnchorSide="I,I"/>
+				<DownButton Anchor="R,B" Style="ScrollBarDown" AnchorSide="I,I"/>
+			</ScrollPanel>
+			<!--Close Button-->
+			<GridButton ID="EW_Close" Anchor="C,B" Size="200,30" Offset="0,0" Style="SmallButton" ToolTip="Close" String="Close"/>
+		</Grid>
+	</Box>
+</Context>

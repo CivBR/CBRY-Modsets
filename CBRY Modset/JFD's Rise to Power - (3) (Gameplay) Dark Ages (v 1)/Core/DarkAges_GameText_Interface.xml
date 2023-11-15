@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/18/2014 10:45:07 PM -->
+<GameData>
+	<Language_en_US>
+		<!--===================================================-->
+		<!--INTERFACE-->
+		<!--===================================================-->
+		<Row Tag="TXT_KEY_JFD_DARK_AGE_DESC">
+			<Text>Dark Age</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GOLDEN_AGE_DESC">
+			<Text>Golden Age</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PRESTIGE_DESC">
+			<Text>Prestige</Text>
+		</Row>
+		<!--===================================================-->
+		<!--ALERT MESSAGES-->
+		<!--===================================================-->
+		<Replace Tag="TXT_KEY_ALERT_MESSAGE_JFD_GOLDEN_AGE_LOSS_ANARCHY">
+			<Text>Going into [ICON_RESISTANCE] Anarchy has caused you to [COLOR_DARK_AGE]ALL your [ICON_GOLDEN_AGE] Prestige[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_ALERT_MESSAGE_JFD_GOLDEN_AGE_LOSS_CONQUEST">
+			<Text>The loss of your {1_Desc} has caused you to [COLOR_DARK_AGE]lose your [ICON_GOLDEN_AGE] Golden Age[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_ALERT_MESSAGE_JFD_GOLDEN_AGE_TURN_LOSS_CONQUEST">
+			<Text>The loss of your {1_Desc} has caused you to [COLOR_DARK_AGE]lose {2_Num} [ICON_GOLDEN_AGE] Golden Age Turn(s)[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_ALERT_MESSAGE_JFD_PRESTIGE_LOSS_CONQUEST">
+			<Text>The loss of {1_CityName} has caused you to [COLOR_DARK_AGE]lose {2_Num} [ICON_GOLDEN_AGE] Prestige[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_ALERT_MESSAGE_JFD_PRESTIGE_LOSS_PILLAGE">
+			<Text>The loss of your {1_Desc} has caused you to [COLOR_DARK_AGE]lose {2_Num} [ICON_GOLDEN_AGE] Prestige[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_ALERT_MESSAGE_JFD_PRESTIGE_LOSS_POPULATION">
+			<Text>The loss of a [ICON_CITIZEN] Citizen in {1_CityName} has caused you to [COLOR_DARK_AGE]lose {2_Num} [ICON_GOLDEN_AGE] Prestige[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_ALERT_MESSAGE_JFD_PRESTIGE_LOSS_UNIT">
+			<Text>The loss of your {1_Desc} has caused you to [COLOR_DARK_AGE]lose {2_Num} [ICON_GOLDEN_AGE] Prestige[ENDCOLOR]</Text>
+		</Replace>
+		<!--===================================================-->
+		<!--DAWN POPUP-->
+		<!--===================================================-->
+		<Replace Tag="TXT_KEY_POP_DARK_AGE_BEGIN">
+			<Text>[COLOR_DARK_AGE]Dark Age has Dawned![ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_DARK_AGE_FLAVOR">
+			<Text>Disaster! Your citizens have been unhappy with your rule for so long that your civilization enters a Dark Age!</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_POP_GOLDEN_AGE_BEGIN">
+			<Text>[COLOR_GOLDEN_AGE]Golden Age has Dawned![ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_GOLDEN_AGE_FLAVOR">
+			<Text>Congratulations! Your citizens have been happy with your rule for so long that your civilization enters a Golden Age!</Text>
+		</Replace>
+		<!--===================================================-->
+		<!--NOTIFICATION-->
+		<!--===================================================-->
+		<Replace Tag="TXT_KEY_NOTIFICATION_DARK_AGE_ENDED_SHORT">
+			<Text>A Dark Age ends!</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NOTIFICATION_DARK_AGE_ENDED">
+			<Text>Your recent [ICON_DARK_AGE] Dark Age has ended.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_ENDED_SHORT">
+			<Text>A Golden Age ends!</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_ENDED">
+			<Text>Your recent [ICON_GOLDEN_AGE] Golden Age has ended.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NOTIFICATION_DARK_AGE_BEGUN_SHORT">
+			<Text>A Dark Age begins!</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NOTIFICATION_DARK_AGE_BEGUN">
+			<Text>A [ICON_DARK_AGE] Dark Age has begun for our Civilization!</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_BEGUN_SHORT">
+			<Text>A Golden Age begins!</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_BEGUN">
+			<Text>A [ICON_GOLDEN_AGE] Golden Age has begun for our Civilization!</Text>
+		</Replace>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_DARK_AGE">
+			<Text>{1_CivDesc} {1: plural 1?has; 2?have;} entered a Dark Age!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_GOLDEN_AGE">
+			<Text>{1_CivDesc} {1: plural 1?has; 2?have;} entered a Golden Age!</Text>
+		</Row>
+		<!--===================================================-->
+		<!--TOP PANEL-->
+		<!--===================================================-->
+		<Row Tag="TXT_KEY_DARK_AGE_ANNOUNCE">
+			<Text>[COLOR_DARK_AGE][ICON_DARK_AGE]Dark Age![ENDCOLOR]</Text>
+		</Row>
+		<Replace Tag="TXT_KEY_GOLDEN_AGE_ANNOUNCE">
+			<Text>[COLOR_GOLDEN_AGE]Golden Age![ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_TP_DARK_AGE_NOW">
+			<Text>Your civilization is in a [COLOR_DARK_AGE][ICON_DARK_AGE] DARK AGE![ENDCOLOR] While in a [ICON_DARK_AGE] Dark Age, your [ICON_GREAT_PEOPLE] Great People rate is doubled but your Cities [ICON_FOOD] grow 25% slower. You will remain in a Dark Age until recover your [ICON_HAPPINESS_1] Happiness.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_TP_GOLDEN_AGE_NOW">
+			<Text>Your civilization is in a [COLOR_GOLDEN_AGE][ICON_GOLDEN_AGE] GOLDEN AGE[ENDCOLOR] for {1_Num} more turns!</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_TP_GOLDEN_AGE_LOSS">
+			<Text>[ICON_BULLET]{1_Num} is LOST per turn from [ICON_HAPPINESS_4] Unhappiness!</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_TP_GOLDEN_AGE_LOSS_SOURCES">
+			<Text>[NEWLINE][ICON_BULLET]{1_Num} is [COLOR_WARNING_TEXT]LOST[ENDCOLOR] from losing your: Capital (x5), Cities (x4), Citizens (x3), Units (x2), and Improvements (x1). ALL is [COLOR_WARNING_TEXT]LOST[ENDCOLOR] if you fall into [ICON_RESISTANCE] Anarchy.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_TP_GOLDEN_AGE_TURN_LOSS_SOURCES">
+			<Text>[NEWLINE][NEWLINE]Losing cities or your Capital will hasten your [ICON_GOLDEN_AGE] Golden Age's end.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_TP_DARK_AGE_EFFECT">
+			<Text>If you lose MORE [ICON_GOLDEN_AGE] Prestige than you have stored, you will go into a [ICON_DARK_AGE] Dark Age! While in a [ICON_DARK_AGE] Dark Age, your [ICON_GREAT_PEOPLE] Great People rate is doubled but your Cities [ICON_FOOD] grow 25% slower.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT">
+			<Text>While in a [ICON_GOLDEN_AGE] Golden Age, every tile in your civilization that produces at least 1 [ICON_GOLD] Gold produces 1 extra. Cities gain +20% [ICON_PRODUCTION] Production and civilization-wide [ICON_CULTURE] Culture is increased by 20%.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT_NO_CULTURE">
+			<Text>While in a [ICON_GOLDEN_AGE] Golden Age, every tile in your civilization that produces at least 1 [ICON_GOLD] Gold produces 1 extra. Cities gain +20% [ICON_PRODUCTION] Production.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_TP_GOLDEN_AGE_PROGRESS">
+			<Text>[COLOR_GOLDEN_AGE]{1_NumCurrent}/{2_NumNeeded}[ENDCOLOR] Prestige towards your next [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_TP_EMPIRE_UNHAPPY">
+			<Text>Cities will only grow at 2/4 normal speed while empire is [ICON_HAPPINESS_3] Unhappy! [NEWLINE][ICON_GOLD] Gold and [ICON_PRODUCTION] Production output is reduced by 2% for each point of Unhappiness. The same penalty applies to Units in combat!</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_TP_EMPIRE_SUPER_UNHAPPY">
+			<Text>Because [ICON_HAPPINESS_4] Unhappiness has reached 20, your civilization is is in revolt! Cities may abandon your empire and flip to the civilization that is most culturally influential over your people.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_TP_EMPIRE_VERY_UNHAPPY">
+			<Text>Because [ICON_HAPPINESS_4] Unhappiness has reached 10, your civilization is in unrest! Uprisings may occur with rebel (barbarian) units appearing in your territory. This will occur every few turns until you correct this situation!</Text>
+		</Replace>
+	</Language_en_US>
+</GameData>

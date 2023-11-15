@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 03/07/2016 8:22:27 PM -->
+<GameData>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitClassType>UNITCLASS_WARRIOR</UnitClassType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+			<Count>1</Count>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitClassType>UNITCLASS_SPEARMAN</UnitClassType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+			<Count>2</Count>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitClassType>UNITCLASS_ARCHER</UnitClassType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+			<Count>1</Count>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitClassType>UNITCLASS_WORKER</UnitClassType>
+			<UnitAIType>UNITAI_WORKER</UnitAIType>
+			<Count>2</Count>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>3</Count>
+		</Row>
+	</Civilization_FreeUnits>
+</GameData>

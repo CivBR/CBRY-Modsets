@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c92cc368-59bd-48ae-ac22-ef675bbe57b2" version="1">
+  <Properties>
+    <Name>Our World 's People's Republic of China (Mao Zedong)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the People's Republic of China under Mao Zedong to the game!</Teaser>
+    <Description>Adds the People's Republic of China under Mao Zedong to the game!</Description>
+    <Authors>SuperWaffle247, DoctorMcGann</Authors>
+    <SpecialThanks>TarcisioSM, Typholomence, Danmacsch</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="A5F05C5A9E7D21D300B44A9F39749CBE" import="1">Art/Alpha/Mao_Alpha_Atlas_128.dds</File>
+    <File md5="52897C07752D44C88366DF518B8DAF48" import="1">Art/Alpha/Mao_Alpha_Atlas_22.dds</File>
+    <File md5="C5CD2B2B56829800B2E8A1DD7A872CF2" import="1">Art/Alpha/Mao_Alpha_Atlas_24.dds</File>
+    <File md5="696387A2A3C4E6391F7023705AE0BF15" import="1">Art/Alpha/Mao_Alpha_Atlas_256.dds</File>
+    <File md5="6AC3C0B715F23FE9F0AEB2A5EF2EE11E" import="1">Art/Alpha/Mao_Alpha_Atlas_32.dds</File>
+    <File md5="6290064F4421BDAE54FD0C601641F279" import="1">Art/Alpha/Mao_Alpha_Atlas_45.dds</File>
+    <File md5="2F6F3D382A09D6DA611947A92169EE9B" import="1">Art/Alpha/Mao_Alpha_Atlas_48.dds</File>
+    <File md5="82E0AEB943ACBF2F1AC447E458D78C5A" import="1">Art/Alpha/Mao_Alpha_Atlas_64.dds</File>
+    <File md5="5DBB93E53C0EC9139A644281C7989728" import="1">Art/Alpha/Mao_Alpha_Atlas_80.dds</File>
+    <File md5="C2E971164DFF43A002122CD578A11D78" import="1">Art/Alpha/sv_redguard.dds</File>
+    <File md5="D2228C1F168682005B867441ED94A790" import="1">Art/Atlas/MaoFlag.dds</File>
+    <File md5="42A0E0FFAAAFD4572966376989BA7C17" import="1">Art/Atlas/Mao_Atlas_128.dds</File>
+    <File md5="A34CE6D77D5F64986073D74272C777CD" import="1">Art/Atlas/Mao_Atlas_256.dds</File>
+    <File md5="7339B8BD611A3F396FC9D2D1C293D04F" import="1">Art/Atlas/Mao_Atlas_32.dds</File>
+    <File md5="210B521AFF422DA8D83B59161243F857" import="1">Art/Atlas/Mao_Atlas_45.dds</File>
+    <File md5="4EDF68839D4958DE0617F896645CE813" import="1">Art/Atlas/Mao_Atlas_64.dds</File>
+    <File md5="8DADD3673C8511BF95AEE92507D31FDA" import="1">Art/Atlas/Mao_Atlas_80.dds</File>
+    <File md5="7DEF41AEA15C6D845C1702750EC9CAA5" import="1">Art/Audio/Mao_Peace.mp3</File>
+    <File md5="9C4FF83A27A9A63424345B829310C637" import="1">Art/Audio/Mao_War.mp3</File>
+    <File md5="51DCC8CD36A1DA58C8E20E9CEF55C241" import="1">Art/Leader/DoM.dds</File>
+    <File md5="FF7F61A70299A19B5FD3700099027675" import="1">Art/Leader/Mao_map512.dds</File>
+    <File md5="83CBF0E0E223B1F9EA66C4D921378DFD" import="1">Art/Leader/Mao_Scene.xml</File>
+    <File md5="65191B97DB72A49BF9C7E6B095239D71" import="1">Art/Leader/Mao_Scene.dds</File>
+    <File md5="F1BC0226A69DA085058B7E04CACE8731" import="0">Art/OW_Mao_ArtDefines.sql</File>
+    <File md5="859ECB473B289F995781F3C4A212E05D" import="1">Art/Unit/Infantry_China_Communist_v2.dds</File>
+    <File md5="902B09E219549748CD47FB16C54DE329" import="1">Art/Unit/Infantry_China_Communist_v2.fxsxml</File>
+    <File md5="35D7D4452A63766A667CA72152A46903" import="1">Art/Unit/Infantry_China_Communist_v2.gr2</File>
+    <File md5="028E3ACF472E84AE55CBD7BC9E42BE00" import="1">Art/Unit/Infantry_China_Communist_v2.jpg</File>
+    <File md5="63522B418D5F1DFECE24BC774CF051C7" import="0">Core/Events.sql</File>
+    <File md5="A7B2526ED66FB697D8D81FD208F2202B" import="0">Core/ModSupport.sql</File>
+    <File md5="08D19CFFC79C66037829BC1DEA02007D" import="0">Core/OW_Mao_DiploText.xml</File>
+    <File md5="A633EF6570A0AAF95AD3529DADB52D32" import="0">Core/OW_Mao_Core.sql</File>
+    <File md5="22D70E5F89A4057F067C2BD8834A10C9" import="0">Core/OW_Mao_Diplo.sql</File>
+    <File md5="87DB0B0EFAF0C84710D53C1FB4AC34B7" import="0">Core/OW_Mao_ModSupport_Gametext.xml</File>
+    <File md5="B1A4B0F474473DC4D9DE5BC44013E8B1" import="0">Core/OW_Mao_Text.xml</File>
+    <File md5="2370E1530E1D76CB494F1D077500CAB2" import="0">Core/PRCDecisions.sql</File>
+    <File md5="FC8CB4C972A03A9095218E5A3AEBE744" import="0">Lua/OW_PRC_Mao.lua</File>
+    <File md5="A930E05BFF4B8FD5C2E42128A2FEC4AD" import="1">Lua/PlotIterator.lua</File>
+    <File md5="5EC40B1309BBA9C4BBFF4EB58BCC5410" import="1">Lua/PRC_MaoDecisions.lua</File>
+    <File md5="8828F7D2A8E8AA62D729B73A3366D9FF" import="1">Lua/PRC_MaoEvents.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Sukitract's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Sukitract's MCIS/CityInfoStack.xml</File>
+    <File md5="02788B6A3A7EF43DC402ADC73157B51F" import="0">Lua/Sukitract's MCIS/OW_PRC_Mao_MCIS.lua</File>
+    <File md5="E7676934C53FE4143AD9D6F06184F4B5" import="0">Lua/Sukitract's MCIS/OW_PRC_Mao_MCIS.xml</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Lua/Sukritact_SaveUtils.lua</File>
+    <File md5="D2228C1F168682005B867441ED94A790" import="0">MaoFlag.dds</File>
+    <File md5="42A0E0FFAAAFD4572966376989BA7C17" import="0">Mao_Atlas_128.dds</File>
+    <File md5="A34CE6D77D5F64986073D74272C777CD" import="0">Mao_Atlas_256.dds</File>
+    <File md5="7339B8BD611A3F396FC9D2D1C293D04F" import="0">Mao_Atlas_32.dds</File>
+    <File md5="4EDF68839D4958DE0617F896645CE813" import="0">Mao_Atlas_64.dds</File>
+    <File md5="8DADD3673C8511BF95AEE92507D31FDA" import="0">Mao_Atlas_80.dds</File>
+    <File md5="7DEF41AEA15C6D845C1702750EC9CAA5" import="0">Mao_Peace.mp3</File>
+    <File md5="9C4FF83A27A9A63424345B829310C637" import="0">Mao_War.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/OW_Mao_Core.sql</UpdateDatabase>
+      <UpdateDatabase>Core/OW_Mao_Diplo.sql</UpdateDatabase>
+      <UpdateDatabase>Core/OW_Mao_DiploText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/OW_Mao_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Art/OW_Mao_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/OW_Mao_ModSupport_Gametext.xml</UpdateDatabase>
+      <UpdateDatabase>Core/PRCDecisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Lua/Sukitract's MCIS/CityInfoStack.xml</UpdateDatabase>
+      <UpdateDatabase>Lua/Sukitract's MCIS/OW_PRC_Mao_MCIS.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/OW_PRC_Mao.lua">
+      <Name>Mao Functions</Name>
+      <Description>Functions</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukitract's MCIS/CityInfoStack.lua">
+      <Name>MCIS</Name>
+      <Description>MCIS</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukitract's MCIS/OW_PRC_Mao_MCIS.lua">
+      <Name>MaoMCIS</Name>
+      <Description>MaoMCIS</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

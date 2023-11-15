@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+
+	<!--Age Overlays-->
+	<AlphaAnim ID="DAOverlay" Size="F,F" AlphaStart=".3" AlphaEnd=".3" Speed=".1" Pause="0" Cycle="bounce" Hidden="1" >
+		<Grid Anchor="C,T" Offset="0,0" Size="Full,Full" Padding="8,8" Style="Grid9BlackTint8"/>
+	</AlphaAnim>
+	<AlphaAnim ID="DAOverlayFadeOut" Size="F,F" AlphaStart=".3" AlphaEnd="0" Pause="0" Cycle="once" Hidden="1">
+		<AlphaAnim Size="F,F" AlphaStart="1" AlphaEnd="0" Speed=".2" Cycle="once" Pause="0" >
+			<Grid Anchor="C,T" Offset="0,0" Size="Full,Full" Padding="8,8" Style="Grid9BlackTint8"/>
+		</AlphaAnim>
+	</AlphaAnim>
+
+	<AlphaAnim ID="GAOverlay" Size="F,F" AlphaStart=".1" AlphaEnd=".1" Speed=".1" Pause="0" Cycle="bounce" Hidden="1" >
+		<Grid Anchor="C,T" Offset="0,0" Size="Full,Full" Padding="8,8" Style="Grid9Gold8"/>
+	</AlphaAnim>
+	<AlphaAnim ID="GAOverlayFadeOut" Size="F,F" AlphaStart=".1" AlphaEnd="0" Pause="0" Cycle="once" Hidden="1">
+		<AlphaAnim Size="F,F" AlphaStart="1" AlphaEnd="0" Speed=".2" Cycle="once" Pause="0" >
+			<Grid Anchor="C,T" Offset="0,0" Size="Full,Full" Padding="8,8" Style="Grid9Gold8"/>
+		</AlphaAnim>
+	</AlphaAnim>
+
+
+
+
+	<!--Other stuff-->
+	<LuaContext FileName="Assets/UI/InGame/WorldView/PathHelpManager" ID="PathHelpManager"/>
+
+	<LuaContext FileName="Assets/UI/InGame/NewTurn" ID="NewTurn"/>
+	<LuaContext FileName="Assets/UI/InGame/TurnProcessing" ID="TurnProcessing"/>
+
+	<LuaContext FileName="Assets/UI/InGame/WorldView/PlotHelpText" ID="PlotHelpText" />
+	<LuaContext FileName="Assets/UI/InGame/WorldView/MPTurnPanel" ID="MPTurnPanel" />
+	<LuaContext FileName="Assets/UI/InGame/WorldView/MiniMapPanel" ID="MiniMapPanel" />
+	<LuaContext FileName="Assets/UI/InGame/WorldView/ActionInfoPanel" ID="ActionInfoPanel" />
+	<LuaContext FileName="Assets/UI/InGame/WorldView/EnemyUnitPanel" ID="EnemyUnitPanel" Hidden="1" />
+	<LuaContext FileName="Assets/UI/InGame/WorldView/UnitPanel" ID="UnitPanel" Hidden="1" />
+	<LuaContext FileName="Assets/UI/InGame/WorldView/MPList" ID="MPList" Hidden="1" />
+
+	<LuaContext FileName="Assets/UI/InGame/UnitMemberOverlay" ID="UnitMemberOverlay"/>
+
+	<LuaContext FileName="Assets/UI/InGame/InfoCorner" ID="InfoCorner"/>
+	<LuaContext FileName="Assets/UI/InGame/WorldView/DiploCorner" ID="DiploCorner" />
+
+
+	<!--LuaContext FileName="Assets/UI/InGame/EconomicPanel" ID="EconomicPanel" />
+    <LuaContext FileName="Assets/UI/InGame/ForeignPanel"  ID="ForeignPanel"  /-->
+
+	<LuaContext FileName="Assets/UI/InGame/TaskList" ID="TaskList" Hidden="1"/>
+
+	<LuaContext FileName="Assets/UI/InGame/WorldView/Advisors" ID="Advisors" Hidden="1"/>
+
+	<LuaContext FileName="Assets/UI/InGame/Tutorial" ID="Tutorial" Hidden="1"/>
+
+</Context>

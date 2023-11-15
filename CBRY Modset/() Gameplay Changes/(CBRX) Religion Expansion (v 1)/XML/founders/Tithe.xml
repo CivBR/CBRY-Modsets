@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Beliefs>
+		<Delete Type="BELIEF_TITHE" />
+		<Row>
+			<Type>BELIEF_TITHE</Type>
+			<Description>TXT_KEY_BELIEF_TITHE</Description>
+			<ShortDescription>TXT_KEY_BELIEF_TITHE_SHORT</ShortDescription>
+			<Founder>true</Founder>
+			<GoldPerXFollowers>10</GoldPerXFollowers>
+		</Row>
+	</Beliefs>
+
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_TITHE" />
+		<Row Tag="TXT_KEY_BELIEF_TITHE">
+			<Text>+1 [ICON_GOLD] Gold for every 10 followers of this Religion</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

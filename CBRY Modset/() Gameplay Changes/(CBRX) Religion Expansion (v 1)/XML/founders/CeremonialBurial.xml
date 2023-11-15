@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2016-09-25 05:44:53 -->
+<GameData>
+	<Beliefs>
+		<Delete Type="BELIEF_CEREMONIAL_BURIAL" />
+		<Row>
+			<Type>BELIEF_CEREMONIAL_BURIAL</Type>
+			<Description>TXT_KEY_BELIEF_CEREMONIAL_BURIAL</Description>
+			<ShortDescription>TXT_KEY_BELIEF_CEREMONIAL_BURIAL_SHORT</ShortDescription>
+			<Founder>true</Founder>
+			<HappinessPerFollowingCity>0.25</HappinessPerFollowingCity>
+		</Row>
+	</Beliefs>
+	<Belief_BuildingClassHappiness>
+		<Row>
+			<BeliefType>BELIEF_CEREMONIAL_BURIAL</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<Happiness>4</Happiness>
+		</Row>
+	</Belief_BuildingClassHappiness>
+
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_CEREMONIAL_BURIAL" />
+		<Row Tag="TXT_KEY_BELIEF_CEREMONIAL_BURIAL">
+			<Text>+1 [ICON_HAPPINESS_1] Global Happiness for every 4 Cities following this Religion, and +4 [ICON_HAPPINESS_1] Happiness from the Palace</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

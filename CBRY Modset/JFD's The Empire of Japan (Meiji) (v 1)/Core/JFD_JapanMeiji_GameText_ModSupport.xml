@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- JFD's EXPLORATION CONTINUED EXPANDED -->
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_01">
+			<Text>New Kyoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_02">
+			<Text>Shuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_03">
+			<Text>Keijo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_04">
+			<Text>Pyonyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_05">
+			<Text>Shinkyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_06">
+			<Text>Rinko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_07">
+			<Text>Taikyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_08">
+			<Text>Chichiharu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_09">
+			<Text>Eiko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_10">
+			<Text>Pusan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_11">
+			<Text>Koshu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_12">
+			<Text>Ando</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_13">
+			<Text>Chonju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_14">
+			<Text>Mukuden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_15">
+			<Text>Dairen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_16">
+			<Text>Kaijo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_17">
+			<Text>Kitsurin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_JAPAN_MEIJI_18">
+			<Text>Harubin</Text>
+		</Row>
+		<!-- RYOGA's UNIQUE CULTURAL INFLUENCE -->
+		<Row Tag="TXT_KEY_GENERIC_JFD_JAPAN_MEIJI_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now digging for Helix Fossils and reading your Yaoi comics. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- SUKRITACT's DECISIONS -->
+		<!--Patronise the Zaibatsu Conglomerates-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_JAPAN_MEIJI_ZAIBATSU">
+			<Text>Patronise the Zaibatsu Conglomerates</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_JAPAN_MEIJI_ZAIBATSU_DESC">
+			<Text>
+				One day, wars shall be fought in the open market, and for this day we must prepare. Let us patronise those industrial businesses that would no doubt propel Japan into well economic prosperity and modernity.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Japan (Meiji)
+				[NEWLINE][ICON_BULLET]Must have researched Industrialization
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Factories yield +1 and +15% [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_JAPAN_MEIJI_ZAIBATSU_ENACTED_DESC">
+			<Text>One day, wars shall be fought in the open market, and for this day we must prepare. Let us patronise those industrial businesses that would no doubt propel Japan into well economic prosperity and modernity.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Factories yield +1 and +15% [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<!--Abolish the Han System-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_JAPAN_MEIJI_ABOLISH_HAN_SYSTEM">
+			<Text>Abolish the Han System</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_JAPAN_MEIJI_ABOLISH_HAN_SYSTEM_DESC">
+			<Text>The system by which the Daimyo of this nation hold onto authority is an affront to our imperial grace. Their powers must be devolved and restored to the imperial throne for the good of Japan.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Japan (Meiji)
+				[NEWLINE][ICON_BULLET]Must have at least 3 Daimyo
+				[NEWLINE][ICON_BULLET]Must have researched Industrialization
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All current Daimyo are expended for a [ICON_GOLDEN_AGE] Golden Age. Daimyo expended at this time claim nearby tiles and grant [ICON_CULTURE] Culture for each tile already claimed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_JAPAN_MEIJI_ABOLISH_HAN_SYSTEM_PRESTIGE_DESC">
+			<Text>The system by which the Daimyo of this nation hold onto authority is an affront to our imperial grace. Their powers must be devolved and restored to the imperial throne for the good of Japan.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Japan (Meiji)
+				[NEWLINE][ICON_BULLET]Must have at least {1_Num} [ICON_JFD_PRESTIGE] Prestige
+				[NEWLINE][ICON_BULLET]Must have at least 3 Daimyo
+				[NEWLINE][ICON_BULLET]Must have researched Industrialization
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All current Daimyo are expended for a [ICON_GOLDEN_AGE] Golden Age. Daimyo expended at this time claim nearby tiles and grant [ICON_CULTURE] Culture for each tile already claimed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_JAPAN_MEIJI_ABOLISH_HAN_SYSTEM_ENACTED_DESC">
+			<Text>
+				The system by which the Daimyo of this nation hold onto authority is an affront to our imperial grace. Their powers must be devolved and restored to the imperial throne for the good of Japan.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All current Daimyo are expended for a [ICON_GOLDEN_AGE] Golden Age. Daimyo expended at this time claim nearby tiles and grant [ICON_CULTURE] Culture for each tile already claimed.
+			</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- The Black Ships -->
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_MEIJI_PERRY">
+			<Text>The Black Ships</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_MEIJI_PERRY_DESC">
+			<Text>Commodore Matthew C. Perry of the {1_CivAdj} Navy has demanded an audience to speak with us, on behalf of {2_LeaderName} of {3_CivName}. He commands a fleet of powerful ships that outclass our own and has threatened open assault should we not open our dignitaries to him.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_MEIJI_PERRY_OUTCOME_1">
+			<Text>We must have his audience. He may teach us the modern ways of his navy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_MEIJI_PERRY_OUTCOME_2">
+			<Text>Turn the barbarian away!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_MEIJI_PERRY_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {2_Num} [ICON_CULTURE] Culture[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain the Steam Power technology[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_JAPAN_MEIJI_PERRY_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have sought the nautical wisdom of Commodore Matthew Perry and with it we have learnt how to improve our navy. He is a dear friend to Japan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_MEIJI_PERRY_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]30% chance that {1_CivName} will declare war against you[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]All cities begin celebrating 'We Love the King Day' for 5 turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_JAPAN_MEIJI_PERRY_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have cast away the barbarian Matthew Perry from our borders. Boy, Luke Perry aged, didn't he!</Text>
+		</Row>
+		<!-- Satsuma Rebellion -->
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_MEIJI_SATSUMA_REBELLION">
+			<Text>Satsuma Rebellion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_MEIJI_SATSUMA_REBELLION_DESC">
+			<Text>Recent military reforms have left the once noble Samurai of Japan unemployed and without purpose. Now they raise their banners and their swords in defiance against us.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_MEIJI_SATSUMA_REBELLION_OUTCOME_1">
+			<Text>We must crush this rebellion!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_MEIJI_SATSUMA_REBELLION_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]5 enemy Samurai appear near the [ICON_CAPITAL] Capital[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain 2 free Gun Units[NEWLINE][ICON_BULLET]All existing Gun Units earn [ICON_GOLDEN_AGE] Golden Age Points from kills[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_JAPAN_MEIJI_SATSUMA_REBELLION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>The Satsuma Rebellion has broken out; Samurai disaffected by our reign have risen up in defiance of their new lord.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_JAPAN_MEIJI_SATSUMA_REBELLION">
+			<Text>The Satsuma Rebellion has broken out in the {1_CivName}; instigated by Samurai disaffected by the reign of {2_PlayerName}.</Text>
+		</Row>
+		<!-- VICEVIRTUOSO's WISH FOR THE WORLD -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_JFD_JAPAN_MEIJI">
+			<Text>Shōken</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

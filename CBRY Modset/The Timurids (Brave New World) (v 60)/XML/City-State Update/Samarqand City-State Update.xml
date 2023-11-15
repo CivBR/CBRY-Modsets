@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Civilization_CityNames>
+		<Delete CivilizationType="CIVILIZATION_ARABIA" CityName="TXT_KEY_CITY_NAME_SANAA"/>
+	</Civilization_CityNames>
+	<MinorCivilizations>
+		<Update>
+			<Where Type="MINOR_CIV_SAMARKAND"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_MOD_MEROE</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MOD_MEROE</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MOD_MEROE_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CITYSTATE_MOD_MEROE_PEDIA</Civilopedia>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN</ArtStylePrefix>
+			</Set>
+		</Update>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Delete MinorCivType="MINOR_CIV_SAMARKAND" CityName="TXT_KEY_CITYSTATE_SAMARKAND"/>
+		<Row>
+			<MinorCivType>MINOR_CIV_SAMARKAND</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MOD_MEROE</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

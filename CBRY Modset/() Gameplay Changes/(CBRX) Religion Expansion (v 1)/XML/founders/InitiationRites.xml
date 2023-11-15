@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2016-09-25 05:44:53 -->
+<GameData>
+
+	<Beliefs>
+		<Update>
+			<Set GoldPerFirstCityConversion="100" />
+			<Where Type="BELIEF_INITIATION_RITES" />
+		</Update>
+	</Beliefs>
+
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_INITIATION_RITES" />
+		<Row Tag="TXT_KEY_BELIEF_INITIATION_RITES">
+			<Text>+100 [ICON_GOLD] Gold and 5 [ICON_CULTURE] Culture when each City first converts to this Religion</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

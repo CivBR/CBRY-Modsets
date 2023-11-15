@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<UnitPromotions>
+		<InsertOrAbort>
+			<Type>PROMOTION_DOUBLE_PLUNDER</Type>
+			<Description>TXT_KEY_PROMOTION_TIMURIDS_GHAZI_RAID</Description>
+			<Help>TXT_KEY_PROMOTION_TIMURIDS_GHAZI_RAID_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>EXPANSION_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_DOUBLE_PLUNDER</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<CityAttackPlunderModifier>100</CityAttackPlunderModifier>
+		</InsertOrAbort>
+		<Update>
+			<Where Type="PROMOTION_DOUBLE_PLUNDER"/>
+			<Set>
+				<Help>TXT_KEY_PROMOTION_TIMURIDS_GHAZI_RAID_HELP</Help>
+			</Set>
+		</Update>
+	</UnitPromotions>
+</GameData>

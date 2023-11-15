@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/17/2021 6:59:02 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Process-->
+		<Row Tag="TXT_KEY_PROCESS_EW_UNIT_FOOD">
+			<Text>Provisions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_EW_UNIT_FOOD_HELP">
+			<Text>10% of Production is converted into Food</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

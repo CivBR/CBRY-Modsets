@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 03/23/2016 6:41:23 PM -->
+<GameData>
+	<!--
+	<Table Name="MinorCivilization_Evolved">
+		<Column name="ID" type="integer" primarykey="true" autoincrement ="true"/>
+		<Column name="MinorCivType" type="text" notnull="true" unique="true"/>
+		<Column name="ReplaceEvolvedWith" type="text" notnull="true"/>
+	</Table>
+	-->
+	<MinorCivilization_Evolved>
+		<Row>
+			<ID>0</ID>
+			<MinorCivType>MINOR_CIV_BRATISLAVA</MinorCivType>
+			<ReplaceEvolvedWith>BRATISLAVA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BUDAPEST</MinorCivType>
+			<ReplaceEvolvedWith>BUDAPEST</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GENEVA</MinorCivType>
+			<ReplaceEvolvedWith>GENEVA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_RIGA</MinorCivType>
+			<ReplaceEvolvedWith>RIGA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_GENOA</MinorCivType>
+			<ReplaceEvolvedWith>GENOA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_FLORENCE</MinorCivType>
+			<ReplaceEvolvedWith>FLORENCE</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_RAGUSA</MinorCivType>
+			<ReplaceEvolvedWith>RAGUSA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SYDNEY</MinorCivType>
+			<ReplaceEvolvedWith>SYDNEY</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_QUEBEC_CITY</MinorCivType>
+			<ReplaceEvolvedWith>QUEBEC_CITY</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BUCHAREST</MinorCivType>
+			<ReplaceEvolvedWith>BUCHAREST</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BELGRADE</MinorCivType>
+			<ReplaceEvolvedWith>BELGRADE</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BRUSSELS</MinorCivType>
+			<ReplaceEvolvedWith>BRUSSELS</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MONACO</MinorCivType>
+			<ReplaceEvolvedWith>MONACO</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KATHMANDU</MinorCivType>
+			<ReplaceEvolvedWith>KATHMANDU</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HANOI</MinorCivType>
+			<ReplaceEvolvedWith>HANOI</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LHASA</MinorCivType>
+			<ReplaceEvolvedWith>LHASA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ALMATY</MinorCivType>
+			<ReplaceEvolvedWith>ALMATY</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KUALA_LUMPUR</MinorCivType>
+			<ReplaceEvolvedWith>KUALA_LUMPUR</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SINGAPORE</MinorCivType>
+			<ReplaceEvolvedWith>SINGAPORE</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PANAMA_CITY</MinorCivType>
+			<ReplaceEvolvedWith>PANAMA_CITY</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CAPE_TOWN</MinorCivType>
+			<ReplaceEvolvedWith>CAPE_TOWN</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SIDON</MinorCivType>
+			<ReplaceEvolvedWith>SIDON</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TYRE</MinorCivType>
+			<ReplaceEvolvedWith>TYRE</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ANTWERP</MinorCivType>
+			<ReplaceEvolvedWith>ANTWERP</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CAHOKIA</MinorCivType>
+			<ReplaceEvolvedWith>CAHOKIA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_COLOMBO</MinorCivType>
+			<ReplaceEvolvedWith>COLOMBO</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_HONG_KONG</MinorCivType>
+			<ReplaceEvolvedWith>HONG_KONG</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ORMUS</MinorCivType>
+			<ReplaceEvolvedWith>ORMUS</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_JERUSALEM</MinorCivType>
+			<ReplaceEvolvedWith>JERUSALEM</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_LA_VENTA</MinorCivType>
+			<ReplaceEvolvedWith>LA_VENTA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_VANCOUVER</MinorCivType>
+			<ReplaceEvolvedWith>VANCOUVER</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MANILA</MinorCivType>
+			<ReplaceEvolvedWith>MANILA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ANTANANARIVO</MinorCivType>
+			<ReplaceEvolvedWith>ANTANANARIVO</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MILAN</MinorCivType>
+			<ReplaceEvolvedWith>MILAN</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MOMBASA</MinorCivType>
+			<ReplaceEvolvedWith>MOMBASA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_PRAGUE</MinorCivType>
+			<ReplaceEvolvedWith>PRAGUE</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_VALLETTA</MinorCivType>
+			<ReplaceEvolvedWith>VALLETTA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_VATICAN_CITY</MinorCivType>
+			<ReplaceEvolvedWith>VATICAN_CITY</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WITTENBERG</MinorCivType>
+			<ReplaceEvolvedWith>WITTENBERG</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_YEREVAN</MinorCivType>
+			<ReplaceEvolvedWith>YEREVAN</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZANZIBAR</MinorCivType>
+			<ReplaceEvolvedWith>ZANZIBAR</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_ZURICH</MinorCivType>
+			<ReplaceEvolvedWith>ZURICH</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SAMARKAND</MinorCivType>
+			<ReplaceEvolvedWith>SAMARKAND</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALACCA</MinorCivType>
+			<ReplaceEvolvedWith>MALACCA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MOGADISHU</MinorCivType>
+			<ReplaceEvolvedWith>MOGADISHU</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BYBLOS</MinorCivType>
+			<ReplaceEvolvedWith>BYBLOS</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KYZYL</MinorCivType>
+			<ReplaceEvolvedWith>KYZYL</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_IFE</MinorCivType>
+			<ReplaceEvolvedWith>IFE</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KIEV</MinorCivType>
+			<ReplaceEvolvedWith>KIEV</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BUENOS_AIRES</MinorCivType>
+			<ReplaceEvolvedWith>BUENOS_AIRES</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MBANZA_KONGO</MinorCivType>
+			<ReplaceEvolvedWith>MBANZA_KONGO</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_KABUL</MinorCivType>
+			<ReplaceEvolvedWith>KABUL</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SOFIA</MinorCivType>
+			<ReplaceEvolvedWith>SOFIA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_UR</MinorCivType>
+			<ReplaceEvolvedWith>UR</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MELBOURNE</MinorCivType>
+			<ReplaceEvolvedWith>MELBOURNE</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_BOGOTA</MinorCivType>
+			<ReplaceEvolvedWith>BOGOTA</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_VILNIUS</MinorCivType>
+			<ReplaceEvolvedWith>VILNIUS</ReplaceEvolvedWith>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WELLINGTON</MinorCivType>
+			<ReplaceEvolvedWith>WELLINGTON</ReplaceEvolvedWith>
+		</Row>
+	</MinorCivilization_Evolved>
+	<MinorCivilizations>
+		<Update>
+			<Where Type="MINOR_CIV_SYDNEY"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_SYDNEY_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_SYDNEY_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_SYDNEY_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_HANOI"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_HANOI_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_HANOI_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_HANOI_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_LHASA"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_LHASA_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_LHASA_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_LHASA_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_KUALA_LUMPUR"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_KUALA_LUMPUR_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_KUALA_LUMPUR_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_KUALA_LUMPUR_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_COLOMBO"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_COLOMBO_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_COLOMBO_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_COLOMBO_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_JERUSALEM"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_JERUSALEM_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_JERUSALEM_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_JERUSALEM_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_BUENOS_AIRES"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_BUENOS_AIRES_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_BUENOS_AIRES_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_BUENOS_AIRES_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="MINOR_CIV_MBANZA_KONGO"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_MBANZA_KONGO_DESCR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MBANZA_KONGO_DESCR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MBANZA_KONGO_ADJECTIVE</Adjective>
+			</Set>
+		</Update>
+		<!-- template
+		<Update>
+			<Where Type=""/>
+			<Set>
+				<Description></Description>
+				<ShortDescription></ShortDescription>
+				<Adjective></Adjective>
+			</Set>
+		</Update>
+		-->
+		
+		<Row>
+			<Type>MINOR_CIV_ROME</Type>
+			<Description>TXT_KEY_MINOR_CIV_ROME</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_ROME</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_ROME_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_ROME</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
+			<ArtStylePrefix>MEDITERRANEAN</ArtStylePrefix>
+			<ArtStyleSuffix>_ROME</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+		</Row>
+		
+		<Row>
+			<Type>MINOR_CIV_SOVIET_UNION</Type>
+			<Description>TXT_KEY_MINOR_CIV_SOVIET_UNION</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_SOVIET_UNION</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_SOVIET_UNION_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_SOVIET_UNION</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<ArtStylePrefix>ASIAN</ArtStylePrefix>
+			<ArtStyleSuffix>_RUSSIA</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
+		</Row>
+		
+		<Row>
+			<Type>MINOR_CIV_MOROCCO</Type>
+			<Description>TXT_KEY_MINOR_CIV_MOROCCO</Description>
+			<ShortDescription>TXT_KEY_MINOR_CIV_MOROCCO</ShortDescription>
+			<Adjective>TXT_KEY_MINOR_CIV_MOROCCO_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CIV_MOROCCO</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStylePrefix>MEDITERRANEAN</ArtStylePrefix>
+			<ArtStyleSuffix>_MOROCCO</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_FRANCE_ICON</Type>
+			<Red>0.043</Red>
+			<Green>0.584</Green>
+			<Blue>1</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_FRANCE_BACKGROUND</Type>
+			<Red>0</Red>
+			<Green>0.364</Green>
+			<Blue>0.725</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_ROME_ICON</Type>
+			<Red>0.522</Red>
+			<Green>0.18</Green>
+			<Blue>0.996</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_ROME_BACKGROUND</Type>
+			<Red>0.275</Red>
+			<Green>0.0</Green>
+			<Blue>0.463</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_SOVIET_UNION_ICON</Type>
+			<Red>0.945</Red>
+			<Green>0.713</Green>
+			<Blue>0.027</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_SOVIET_UNION_BACKGROUND</Type>
+			<Red>0.45</Red>
+			<Green>0</Green>
+			<Blue>0</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_MOROCCO_ICON</Type>
+			<Red>0.1568627451</Red>
+			<Green>0.7019607843</Green>
+			<Blue>0.3137254902</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_MOROCCO_BACKGROUND</Type>
+			<Red>0.568627451</Red>
+			<Green>0.007843137255</Green>
+			<Blue>0.0</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_COLOMBO_ICON</Type>
+			<Red>0.639</Red>
+			<Green>0.169</Green>
+			<Blue>0.145</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MINOR_CIV_KONGO_ICON</Type>
+			<Red>0.796</Red>
+			<Green>0.741</Green>
+			<Blue>0</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_FRANCE</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_FRANCE_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_ROME</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_ROME_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_SOVIET_UNION</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_SOVIET_UNION_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_MOROCCO</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_MOROCCO_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+		<Row>
+			<Type>PLAYERCOLOR_MINOR_CIV_COLOMBO</Type>
+			<PrimaryColor>COLOR_PLAYER_MINOR_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MINOR_CIV_COLOMBO_ICON</SecondaryColor>
+			<TextColor>COLOR_PLAYER_PEACH_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	
+	<Language_en_US>
+		<!-- Convention: the former city state is the "capital" even if it's not really the capital -->
+		<!-- Sydney (australia - new south wales) -->
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_DESCR">
+			<Text>Australia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_ADJECTIVE">
+			<Text>Australian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_01">
+			<Text>Sydney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_02">
+			<Text>Melbourne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_03">
+			<Text>Brisbane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_04">
+			<Text>Wollongong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_05">
+			<Text>Canberra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_06">
+			<Text>Perth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_07">
+			<Text>Wagga Wagga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_08">
+			<Text>Albury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_09">
+			<Text>Port Macquarie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SYDNEY_10">
+			<Text>Tamworth</Text>
+		</Row>
+		<!-- Lhasa (tibet) -->
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_DESCR">
+			<Text>Tibet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_ADJECTIVE">
+			<Text>Tibetan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_01">
+			<Text>Lhasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_02">
+			<Text>Shigatse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_03">
+			<Text>Chamdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_04">
+			<Text>Dergé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_05">
+			<Text>Labrang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_06">
+			<Text>Nagchu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_07">
+			<Text>Bamda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_08">
+			<Text>Rutog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_09">
+			<Text>Nyingchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LHASA_10">
+			<Text>Nedong</Text>
+		</Row>
+		<!-- Colombo (sri lanka) -->
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_DESCR">
+			<Text>Sri Lanka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_ADJECTIVE">
+			<Text>Sri Lankan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_01">
+			<Text>Colombo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_02">
+			<Text>Dehiwala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_03">
+			<Text>Moratuwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_04">
+			<Text>Sri Jayawardenapura Kotte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_05">
+			<Text>Negombo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_06">
+			<Text>Kandy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_07">
+			<Text>Kalmunai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_08">
+			<Text>Vavuniya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_09">
+			<Text>Galle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_COLOMBO_10">
+			<Text>Trincomalee</Text>
+		</Row>
+		<!-- Jerusalem (israel) -->
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_DESCR">
+			<Text>Israel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_ADJECTIVE">
+			<Text>Israelite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_01">
+			<Text>Jerusalem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_02">
+			<Text>Hebron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_03">
+			<Text>Gaza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_04">
+			<Text>Jericho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_05">
+			<Text>Bethlehem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_06">
+			<Text>Ashdod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_07">
+			<Text>Netanya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_08">
+			<Text>Beersheba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_09">
+			<Text>Holon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JERUSALEM_10">
+			<Text>Bnei Brak</Text>
+		</Row>
+		<!-- France -->
+			<Row Tag="TXT_KEY_MINOR_CIV_FRANCE">
+				<Text>France</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_FRANCE_ADJ">
+				<Text>French</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_FRANCE_1">
+				<Text>Paris</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_FRANCE_2">
+				<Text>Versailles</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_FRANCE_3">
+				<Text>Orleans</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_FRANCE_4">
+				<Text>Lyon</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_FRANCE_5">
+				<Text>Troyes</Text>
+			</Row>
+			<!-- Rome -->
+			<Row Tag="TXT_KEY_MINOR_CIV_ROME">
+				<Text>Rome</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_ROME_ADJ">
+				<Text>Roman</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_ROME_1">
+				<Text>Rome</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_ROME_2">
+				<Text>Antium</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_ROME_3">
+				<Text>Cumae</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_ROME_4">
+				<Text>Neapolis</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_ROME_5">
+				<Text>Ravenna</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_ROME_6">
+				<Text>Agrippinensium</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION">
+				<Text>The Soviet Union</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_ADJ">
+				<Text>Soviet</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_1">
+				<Text>Moscow</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_2">
+				<Text>Leningrad</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_3">
+				<Text>Kiev</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_4">
+				<Text>Minsk</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_5">
+				<Text>Kharkov</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_SOVIET_UNION_6">
+				<Text>Kodiak</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_MOROCCO">
+				<Text>Morocco</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_MOROCCO_ADJ">
+				<Text>Moroccan</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_MOROCCO_1">
+				<Text>Marrakech</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_MOROCCO_2">
+				<Text>Rabat</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_MOROCCO_3">
+				<Text>Fes</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_MOROCCO_4">
+				<Text>Casablanca</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_MOROCCO_5">
+				<Text>Tangier</Text>
+			</Row>
+			<Row Tag="TXT_KEY_MINOR_CIV_MOROCCO_6">
+				<Text>Ogao</Text>
+			</Row>
+	</Language_en_US>
+	
+</GameData>

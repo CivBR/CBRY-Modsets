@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai-->
+<GameData>
+	<Leaders>
+		<Row>
+			<Type>LEADER_MC_LEONIDAS</Type>
+			<Description>TXT_KEY_LEADER_MC_LEONIDAS_DESC</Description>
+			<Civilopedia>TXT_KEY_LEADER_MC_LEONIDAS_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_LEADER_MC_LEONIDAS</CivilopediaTag>
+			<ArtDefineTag>Alexander_Scene.xml</ArtDefineTag>
+			<VictoryCompetitiveness>7</VictoryCompetitiveness>
+			<WonderCompetitiveness>6</WonderCompetitiveness>
+			<MinorCivCompetitiveness>6</MinorCivCompetitiveness>
+			<Boldness>8</Boldness>
+			<DiploBalance>7</DiploBalance>
+			<WarmongerHate>3</WarmongerHate>
+			<DenounceWillingness>8</DenounceWillingness>
+			<DoFWillingness>3</DoFWillingness>
+			<Loyalty>8</Loyalty>
+			<Neediness>4</Neediness>
+			<Forgiveness>3</Forgiveness>
+			<Chattiness>5</Chattiness>
+			<Meanness>7</Meanness>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>MC_GREECE_ATLAS</IconAtlas>
+		</Row>
+	</Leaders>
+	<Leader_Traits>
+		<Row>
+			<LeaderType>LEADER_MC_LEONIDAS</LeaderType>
+			<TraitType>TRAIT_MC_WALLS_OF_SPARTA</TraitType>
+		</Row>
+	</Leader_Traits>
+	<Traits>
+		<Row>
+			<Type>TRAIT_MC_WALLS_OF_SPARTA</Type>
+			<Description>TXT_KEY_TRAIT_MC_WALLS_OF_SPARTA</Description>
+			<ShortDescription>TXT_KEY_TRAIT_MC_WALLS_OF_SPARTA_SHORT</ShortDescription>
+			<UnitPerCapitalGrowths>1</UnitPerCapitalGrowths>
+		</Row>
+	</Traits>
+</GameData>

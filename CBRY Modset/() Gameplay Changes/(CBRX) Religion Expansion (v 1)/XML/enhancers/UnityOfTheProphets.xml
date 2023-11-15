@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2016-09-25 05:44:53 -->
+<GameData>
+
+	<Beliefs>
+		<Update>
+			<Set Reformation="false" Enhancer="true" />
+			<Where Type="BELIEF_UNITY_OF_PROPHETS" />
+		</Update>
+	</Beliefs>
+	<Belief_ImprovementYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_UNITY_OF_PROPHETS</BeliefType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>5</Yield>
+		</Row>
+	</Belief_ImprovementYieldChanges>
+
+	<Language_en_US>
+		<Delete Tag="TXT_KEY_BELIEF_UNITY_OF_PROPHETS" />
+		<Row Tag="TXT_KEY_BELIEF_UNITY_OF_PROPHETS">
+			<Text>+5[ICON_CULTURE] Culture from Holy Sites, and Inquisitors and Prophets reduce this Religion's presence by half (instead of eliminating it)</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>
